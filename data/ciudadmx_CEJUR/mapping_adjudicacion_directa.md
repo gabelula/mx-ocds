@@ -58,16 +58,16 @@
 .
 .
 4. Map it
-  # Id            --> Número de expediente
-  # Title         --> Descripción de los bienes o servicios contratados
-  # Description   --> Descripción de los bienes o servicios contratados
-  # Status (pending, active, cancelled, unsuccesful)
-  # Date          --> Fecha del contrato
-  # Value (amount, currency)
-                  --> Monto del contrato con impuestos incluidos
-  # Suppliers (organization)
-                  --> Nombre de los proveedores (link to proveedores's list)
-  # Items
-  # documents
-                  --> Número del contrato (hipervínculo al documento del contrato)
-  # amendment
+    # Id            --> Número de expediente
+    # Title         --> Descripción de los bienes o servicios contratados
+    # Description   --> Descripción de los bienes o servicios contratados
+    # Status (pending, active, cancelled, unsuccesful)
+    # Date          --> Fecha del contrato
+    # Value (amount, currency)
+                    --> Monto del contrato con impuestos incluidos
+    # Suppliers (organization)
+                    --> Nombre de los proveedores (link to proveedores's list)
+    # Items
+    # documents
+                    --> Número del contrato (hipervínculo al documento del contrato)
+    # amendment
