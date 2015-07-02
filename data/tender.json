@@ -1,0 +1,33 @@
+{
+  "tender": {
+   "id": "Identificador de la licitación. Puede ser el mismo OCDI. Requerido. String/Integer",
+   "title": "El titulo. String",
+   "description": "Descripcion de las obras públicas, los bienes o servicios contratados",
+   "status": "El estado de la licitación. Uno de estos códigos: planned active cancelled unsuccessful complete . Requerido",
+   "items": "Los bienes y servicios que se han comprado. Array[Item]",
+   "minValue": "El minimo valor estimado. {monto, moneda en ISO 4217 }",
+   "value": "El total valor estimado. {monto, moneda en ISO 4217 }",
+   "procurementMethod": "Tipo de Procedimiento. Opciones: open selective limited ",
+   "procurementMethodRationale": "Razon principal por usar este metodo de procurement.",
+   "awardCriteria": "Criterios para adjudicación. Opciones: lowestCost, bestProposal, bestValueToGovernment, singleBidOnly",
+   "awardCriteriaDetails": "Más información sobre el criterio de adjudicación.",
+   "submissionMethod": "Metodo de enviar aplicación para licitación. Opciones: electronicAuction, electronicSubmission, written, inPerson.",
+   "submissionMethodDetails": "Mas información sobre metodo de envio.",
+   "tenderPeriod": {
+     "startDate": "Fecha de la Convocatoria o Invitacion",
+     "endDate": "Fecha de la Convocatoria o Invitacion"
+   },
+   "enquiryPeriod": "El periodo en el que se aceptan preguntas sobre la licitación.",
+   "hasEnquiries": "Si la licitación obtuvo preguntas. Yes/No",
+   "eligibilityCriteria": "Una descripción de cualquier tipo de requerimientos para posibles participantes.",
+   "awardPeriod": "Periodo en que será hecha la adjudicación.",
+   "numberOfTenderers": "Calculado en función de proveedores. Integer",
+   "tenderers" : ["Proveedores que licitaron."],
+   "procuringEntity": {
+       "name": "Unidad Administrativa Responsable de la ejecucion"
+   },
+   "documents": "Documentos relacionados. Array[Documento]",
+   "milestones": [],
+   "amendment": ""
+   }
+}

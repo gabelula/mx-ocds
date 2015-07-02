@@ -1,0 +1,21 @@
+{
+    "ocid": "Un identificador global para este proceso de contratación abierto. Para CDMX el prefijo de este identificador debe ser siempre OCDS-87SD3T. Requerido. String/Integer",
+
+    "id": "El identificador del release dentro del release package. Requerido. String/Integer",
+
+    "tag": "Identifica la naturaleza de este release. Alguno de estos códigos: planning tender tenderAmendment tenderUpdate tenderCancellation award awardUpdate awardCancellation contract contractUpdate contractAmendment implementation implementationUpdate contractTermination compiled.  Requerido.",
+
+    "initiationType": "El tipo de proceso de iniciación usado para este contrato. Siempre es considerado tender (licitación) y se define si es por invitación o abierto en el campo procurementMEthod en el objeto tender.  Requerido.",
+
+    "planning": "Información sobre etapa de planificación. Planning.",
+
+    "tender": "Información sobre la licitación. Tender.",
+
+    "buyer": "La organización (dependencia u otro) de la que se va a sacar el presupuesto para la compra. Organization",
+
+    "awards": "Información sobre la etapa de adjudicación. Puede haber más de uno. Array[Award]",
+
+    "contracts": "Información sobre la etapa de contratación. Contract",
+
+    "language": "es. El código de español en ISO 639-1 "
+}

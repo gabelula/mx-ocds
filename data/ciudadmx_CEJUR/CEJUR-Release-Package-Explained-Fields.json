@@ -1,0 +1,86 @@
+{
+  "url": "URI",
+  "publishedDate": "fecha en que el xls fue publicado",
+  "releases ": [
+    {
+      "ocid": "OCDS-87SD3T-CEJUR- + Nro de Release + Ejercicio",
+      "id": "1",
+      "date": "20150608",
+      "tag": "Definido en función de la naturaleza del release. ",
+      "initiationType": "tender",
+      "tender": {
+        "id": "Número de expediente",
+        "title": "Descripcion de las obras públicas, los bienes o servicios contratados",
+        "description": "Descripcion de las obras públicas, los bienes o servicios contratados",
+        "status": "El estado de la licitación (planned active cancelled unsuccessful complete)",
+        "items": "Una lista de bienes y servicios que se han comprado. Esta detallado dentro del PDF enlazado desde 'Hipervinculo al documento del Dictamen y/o Fallo'.",
+        "minValue": "No incluido.",
+        "value": "Monto del Contrato con impuestos incluídos y peso mexicano.",
+        "procurementMethod": "Tipo de Procedimiento mapeado a [open, selective, limited]",
+        "awardCriteria": "Razones que Justifiquen su elección",
+        "awardCriteriaDetails": "Razones que Justifiquen su elección",
+        "tenderPeriod": {
+          "startDate": "20150302",
+          "endDate": "20150304"
+        },
+        "enquiryPeriod": "No incluido.",
+        "hasEnquiries": "No incluido.",
+        "eligibilityCriteria": "No incluido.",
+        "awardPeriod": "Fecha de la Junta Publica: Día/mes/año",
+        "numberOfTenderers": "Calculado en base a tenderers.",
+        "tenderers" : ["Relacion con los nombres completos de los participantes o invitados"],
+        "procuringEntity": {
+            "name": "Unidad Administrativa Resposable de la ejecucion"
+        },
+       "documents": "Documentos relacionados. Array[Documento]",
+        "milestones": [],
+        "amendment": ""
+      },
+      "buyer": "Unidad Administrativa Solicitante",
+      "awards": [
+        {
+          "id": "Identificador de esta adjudicación dentro del proceso de contratación. Requerido. String/Integer",
+          "title": "No incluido",
+          "description": "No incluido",
+          "status": "Opciones: pending active cancelled unsuccessful",
+          "date": "Fecha del Contrato",
+          "value": "Monto del Contrato con impuestos incluídos" ,
+          "suppliers": [
+            "Nombre ( o razón social) del ganador o adjudicado"
+          ],
+          "items": [],
+          "documents": ["Hipervinculo al documento del Dictamen y/o Fallo"],
+          "amendment": "No incluido"
+        }
+      ],
+      "contracts": [
+        {
+          "id": "Numero del Contrato (Hipervínculo al documento del contrato)",
+          "awardID": "Identificador de la adjudicación dentro del proceso de contratación. Requerido. String/Integer",
+          "title": "Objeto del Contrato",
+          "description": "Objeto del Contrato",
+          "status": "Estado actual del contrato. Opciones: pending active cancelled terminated",
+          "period": {
+            "startDate": "Fecha del Contrato",
+            "endDate": "Fecha de Término"
+          },
+          "value": "Monto del Contrato con impuestos incluídos",
+          "items": [],
+          "dateSigned": "Fecha del Contrato",
+          "documents": ["Numero del Contrato (Hipervínculo al documento del contrato)"],
+          "amendment": null,
+          "implementation": null
+        }
+      ],
+      "language": "es"
+    }
+  ],
+  "publisher": {
+      "scheme": null,
+      "name": "Organismo que publica este paquete de releases.",
+      "uri": "https://www.df.gob.mx/",
+      "uid": null
+  },
+  "license": "",
+  "publicationPolicy": ""
+}

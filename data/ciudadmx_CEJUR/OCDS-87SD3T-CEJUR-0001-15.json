@@ -1,0 +1,227 @@
+{
+    "urI": "URI",
+    "publishedDate": "20150608",
+    "publisher": {
+        "scheme": null,
+        "name": "MX-SEFINANZAS",
+        "uri": "https://www.df.gob.mx/",
+        "uid": null
+    },
+    "releases": [
+      {
+        "ocid": "OCDS-87SD3T-CEJUR-0001-15",
+        "id": "1",
+        "date": "20150608",
+        "tag": "contract",
+        "initiationType": "tender",
+        "tender": {
+          "id": "LPN/GDF/CJSL/DEA/SRM/01/15",
+          "title": "CONTRATACIÓN DEL SERVICIO DE LIMPIEZA EN LOS INMUEBLES DEPENDIENTES DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES, JUZGADOS CÍVICOS, DEFENSORES DE OFICIO Y JUSGADOS DEL REGISTRO CIVIL.",
+          "description": "CONTRATACIÓN DEL SERVICIO DE LIMPIEZA EN LOS INMUEBLES DEPENDIENTES DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES, JUZGADOS CÍVICOS, DEFENSORES DE OFICIO Y JUSGADOS DEL REGISTRO CIVIL.",
+          "status": "complete",
+          "items": [ {}],
+          "value": {"amount": 15232482, "currency": "MXN"},
+          "procurementMethod": "open",
+          "awardCriteria": "lowestCost",
+          "awardCriteriaDetails": "CON FUNDAMENTO EN EL ARTICULO 43 FRACCIÓN II DE LA LADF,  DE MEJORAMIENTO DE LA PROPUESTA ECONOMICA, MENCIONANDO QUE SE PODRA OFERTAR UN PRECIO MAS BAJO HASTA POR DOS RONDAS.",
+          "submissionMethod": "No incluido.",
+          "submissionMethodDetails": "No incluido.",
+          "tenderPeriod": {
+            "startDate": "Fecha de la Convocatoria o Invitacion",
+            "endDate": "Fecha de la Convocatoria o Invitacion"
+            },
+          "awardPeriod": {
+            "startDate": 20150309,
+            "endDate": 20150309
+            },
+          "numberOfTenderers": 3,
+          "tenderers" : [
+            {
+              "identifier": "No incluido.",
+              "additionalIdentifier": null,
+              "name": "P & C LIMPIEZA, S.A. DE C.V.",
+              "address": null,
+              "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "IMMER SAUBER, S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "FUMIGACIONES Y LIMPIEZA INTEGRAL S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              }
+            ],
+          "procuringEntity": {
+              "name": "Unidad Administrativa Resposable de la ejecucion"
+            },
+          "documents": "Documentos relacionados. Array[Documento]",
+          "milestones": [],
+          "amendment": ""
+        },
+        "buyer": {
+          "identifier": null,
+          "additionalIdentifier": null,
+          "name": "Unidad Administrativa Solicitante",
+          "address": null,
+          "contactPoint": null
+          },
+        "awards": [
+          {
+            "id": "1" ,
+            "title": "No incluido.",
+            "description": null,
+            "status": "active",
+            "date": "2015-03-24",
+            "value": "15232482",
+            "suppliers": [
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "FUMIGACIONES Y LIMPIEZA INTEGRAL S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              }
+            ] ,
+            "items": [] ,
+            "documents": [
+              {
+                "id": "1",
+                "documentType": "notice" ,
+                "title": "Licitación Publica Nacional. Numero LPN/GDF/CJSL/DEA/SRM/01/15 'Servicio de Limpieza'. Acto de Fallo",
+                "description": null,
+                "url": "http://www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/LPN_01_acta_fallo.pdf",
+                "datePublished": "",
+                "dateModified": "",
+                "format": "PDF",
+                "language": "es"
+              }
+            ],
+            "amendment": null
+          }
+        ],
+        "contracts": [
+          {
+            "id": "CT043",
+            "awardID": "1",
+            "title": "CONTRATACIÓN DEL SERVICIO DE LIMPIEZA EN LOS INMUEBLES DEPENDIENTES DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES, JUZGADOS CÍVICOS, DEFENSORES DE OFICIO Y JUSGADOS DEL REGISTRO CIVIL.",
+            "description": "CONTRATACIÓN DEL SERVICIO DE LIMPIEZA EN LOS INMUEBLES DEPENDIENTES DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES, JUZGADOS CÍVICOS, DEFENSORES DE OFICIO Y JUSGADOS DEL REGISTRO CIVIL.",
+            "status": "Estado actual del contrato. Opciones: pending active cancelled terminated",
+            "period": {
+              "startDate": "2015-03-24",
+              "endDate": "2015-12-31"
+            },
+            "value": "15232482",
+            "items": [],
+            "dateSigned": "2015-03-24",
+            "documents": [
+              {
+                "id": "1",
+                "documentType": "notice" ,
+                "title": "Contrato tipo para la contratación del servicio de limpieza en los juzgados.",
+                "description": null,
+                "url": "http://www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/LPN_01_contrato.pdf",
+                "datePublished": "",
+                "dateModified": "",
+                "format": "PDF",
+                "language": "es"
+              }
+            ],
+            "amendment": null,
+            "implementation": null
+          }
+        ],
+        "language": "es"
+      },
+      {
+        "ocid": "OCDS-87SD3T-CEJUR-0002-15",
+        "id": "2",
+        "date": "20150608",
+        "tag": "tenderCancellation",
+        "initiationType": "tender",
+        "tender": {
+          "id": "PIR/GDF/CJSL/DEA/SRM/03/15",
+          "title": "SUMINISTRO, INSTALACIÓN Y PUESTA EN OPERACIÓN DE UN KIOSKO PARA EL PAGO DE SERVICIOS PROPORCIONADOS POR LA DIRECCIÓN GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS Y EMISIÓN DE DOCUMENTOS",
+          "description": "SUMINISTRO, INSTALACIÓN Y PUESTA EN OPERACIÓN DE UN KIOSKO PARA EL PAGO DE SERVICIOS PROPORCIONADOS POR LA DIRECCIÓN GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS Y EMISIÓN DE DOCUMENTOS",
+          "status": "cancelled",
+          "items": [],
+          "minValue": null,
+          "value": null,
+          "procurementMethod": "selective",
+          "awardCriteria": null,
+          "awardCriteriaDetails": null,
+          "tenderPeriod": {
+            "startDate": "2015-03-16",
+            "endDate": "2015-03-17"
+          },
+          "enquiryPeriod": null,
+          "hasEnquiries": null,
+          "eligibilityCriteria": null,
+          "awardPeriod": "2015-03-19",
+          "numberOfTenderers": "3",
+          "tenderers" : [
+            {
+              "identifier": "No incluido.",
+              "additionalIdentifier": null,
+              "name": "PRODUCCIONES SALOMÓN, S.A. DE C.V.",
+              "address": null,
+              "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "SYSLOGTECH, S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "TECNÓLOGIA INFORMÁTICA PROFESIONAL, S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              }
+          ],
+          "procuringEntity": null,
+          "documents": [
+            {
+              "id": "1",
+              "documentType": "notice" ,
+              "title": "Invitación Restringida Nacional a cuando menos tres proveedores",
+              "description": "Contratación del servicio para suministro, instalación y puesta en operación de un kiosco para el pago de servicios proporcionados por la direccion general juridica y de estudios legislativos y emision de documentos.",
+              "url": "www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/PIR_03_oficios.pdf",
+              "datePublished": "2015-04-24",
+              "dateModified": null,
+              "format": "PDF",
+              "language": "es"
+            },
+            {
+              "id": "1",
+              "documentType": "notice" ,
+              "title": "",
+              "description": null,
+              "url": "http://www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/PIR_03_acta_fallo.pdf",
+              "datePublished": "",
+              "dateModified": "",
+              "format": "PDF",
+              "language": "es"
+            }
+          ],
+          "milestones": [],
+          "amendment": ""
+        },
+        "buyer": {},
+        "awards": [],
+        "contracts": [],
+        "language": "es"
+      }
+    ],
+    "license": "uri",
+    "publicationPolicy": "uri"
+}

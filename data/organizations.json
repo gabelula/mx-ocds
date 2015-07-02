@@ -1,0 +1,178 @@
+[
+  {
+    "Category": "MX",
+    "Code": "MX-CEJUR",
+    "Name": "Consejería Jurídica y de Servicios Legales",
+    "URL": "http://www.consejeria.df.gob.mx/",
+    "Public-database": "",
+    "Description": "Consejería Jurídica y de Servicios Legales"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-CGDF",
+    "Name": "Contraloría General del Distrito Federal",
+    "URL": "http://www.contraloria.df.gob.mx",
+    "Public-database": "",
+    "Description": "Contraloría General del Distrito Federal"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-JGDF",
+    "Name": "Jefatura de Gobierno del Distrito Federal",
+    "URL": "http://www.df.gob.mx",
+    "Public-database": "",
+    "Description": "Jefatura de Gobierno del Distrito Federal"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-OM",
+    "Name": "Oficialía Mayor",
+    "URL": "http://www.om.df.gob.mx",
+    "Public-database": "",
+    "Description": "Oficialía Mayor"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-PGJDF",
+    "Name": "Procuraduría General de Justicia del Distrito Federal",
+    "URL": "http://www.pgjdf.gob.mx",
+    "Public-database": "",
+    "Description": "Procuraduría General de Justicia del Distrito Federal"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SCTIDF",
+    "Name": "Secretaría de Ciencia ,Tecnología e Innovación del Distrito Federal",
+    "URL": "http://www.seciti.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Ciencia ,Tecnología e Innovación del Distrito Federal"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SC",
+    "Name": "Secretaría de Cultura",
+    "URL": "http://www.cultura.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Cultura"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SDE",
+    "Name": "Secretaría de Desarrollo Económico",
+    "URL": "http://www.sedecodf.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Desarrollo Económico"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SEDEREC",
+    "Name": "Secretaría de Desarrollo Rural y Equidad para las Comunidades",
+    "URL": "http://www.sederec.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Desarrollo Rural y Equidad para las Comunidades"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SDS",
+    "Name": "Secretaría de Desarrollo Social",
+    "URL": "http://www.sds.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Desarrollo Social"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SEDUVI",
+    "Name": "Secretaría de Desarrollo Urbano y Vivienda",
+    "URL": "http://www.seduvi.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Desarrollo Urbano y Vivienda"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SE",
+    "Name": "Secretaría de Educación",
+    "URL": "http://www.educacion.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Educación"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SEFIN",
+    "Name": "Secretaría de Finanzas",
+    "URL": "http://www.finanzas.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Finanzas"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SEGOB",
+    "Name": "Secretaría de Gobierno",
+    "URL": "http://www.sg.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Gobierno"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SEMOVI",
+    "Name": "Secretaría de Movilidad",
+    "URL": "http://www.setravi.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Movilidad"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SOS",
+    "Name": "Secretaría de Obras y Servicios",
+    "URL": "http://www.obras.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Obras y Servicios"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SPC",
+    "Name": "Secretaría de Protección Civil",
+    "URL": "http://www.proteccioncivil.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Protección Civil"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SS",
+    "Name": "Secretaría de Salud",
+    "URL": "http://www.salud.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Salud"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SSP",
+    "Name": "Secretaría de Seguridad Pública",
+    "URL": "http://portal.ssp.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Seguridad Pública"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-STYFE",
+    "Name": "Secretaría de Trabajo y Fomento al Empleo",
+    "URL": "http://www.styfe.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Trabajo y Fomento al Empleo"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-ST",
+    "Name": "Secretaría de Turismo",
+    "URL": "http://www.mexicocity.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría de Turismo"
+  },
+  {
+    "Category": "MX",
+    "Code": "MX-SMA",
+    "Name": "Secretaría del Medio Ambiente",
+    "URL": "http://www.sedema.df.gob.mx",
+    "Public-database": "",
+    "Description": "Secretaría del Medio Ambiente"
+  }
+]
