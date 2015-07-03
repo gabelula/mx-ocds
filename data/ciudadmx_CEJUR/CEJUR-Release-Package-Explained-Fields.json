@@ -26,7 +26,7 @@
         "enquiryPeriod": "No incluido.",
         "hasEnquiries": "No incluido.",
         "eligibilityCriteria": "No incluido.",
-        "awardPeriod": "Fecha de la Junta Publica: Día/mes/año",
+        "awardPeriod": "No incluido"
         "numberOfTenderers": "Calculado en base a tenderers.",
         "tenderers" : ["Relacion con los nombres completos de los participantes o invitados"],
         "procuringEntity": {

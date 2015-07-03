@@ -148,7 +148,7 @@
           "enquiryPeriod": null,
           "hasEnquiries": null,
           "eligibilityCriteria": null,
-          "awardPeriod": "2015-03-19",
+          "awardPeriod": {},
           "numberOfTenderers": "3",
           "tenderers" : [
             {

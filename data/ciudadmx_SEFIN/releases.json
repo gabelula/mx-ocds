@@ -31,8 +31,8 @@
             "endDate": "Fecha de la Convocatoria o Invitacion"
             },
           "awardPeriod": {
-            "startDate": 20150309,
-            "endDate": 20150309
+            "startDate": null,
+            "endDate": null
             },
           "numberOfTenderers": 3,
           "tenderers" : [
@@ -163,7 +163,7 @@
           "enquiryPeriod": null,
           "hasEnquiries": null,
           "eligibilityCriteria": null,
-          "awardPeriod": "2015-03-19",
+          "awardPeriod": {},
           "numberOfTenderers": "3",
           "tenderers" : [
             {
