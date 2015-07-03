@@ -1,0 +1,212 @@
+{
+    "urI": "URI",
+    "publishedDate": "2015-04-15",
+    "publisher": {
+        "scheme": null,
+        "name": "CDMX-SEFINANZAS",
+        "uri": "https://www.df.gob.mx/",
+        "uid": null
+    },
+    "releases": [
+      {
+        "ocid": "OCDS-87SD3T-SEFIN-0001-15",
+        "id": "1",
+        "date": "2015-04-15",
+        "tag": "contract",
+        "initiationType": "tender",
+        "tender": {
+          "id": "CS-039/2013",
+          "title": "CONTRATO MULTIANUAL DE SERVICIO DE CONSULTORÍA Y MANTENIMIENTO ",
+          "description": "CONTRATO MULTIANUAL DE SERVICIO DE CONSULTORÍA Y MANTENIMIENTO CONTINUO PARA LA OPERACIÓN DEL SISTEMA INFORMÁTICO DE PLANEACIÓN DE RECURSOS GUBERNAMENTALES (GRP-SAP) 2013-2015",
+          "status": "complete",
+          "items": [ {}],
+          "value": {"amount": "41000000", "currency": "MXN"},
+          "procurementMethod": "limited",
+          "awardCriteria": "lowestCost",
+          "awardCriteriaDetails": "CON FUNDAMENTO EN EL ARTICULO 43 FRACCIÓN II DE LA LADF,  DE MEJORAMIENTO DE LA PROPUESTA ECONOMICA, MENCIONANDO QUE SE PODRA OFERTAR UN PRECIO MAS BAJO HASTA POR DOS RONDAS.",
+          "submissionMethod": null,
+          "submissionMethodDetails": null,
+          "tenderPeriod": {
+            "startDate": null,
+            "endDate": null
+            },
+          "awardPeriod": {
+            "startDate": null,
+            "endDate": null
+            },
+          "numberOfTenderers": 1,
+          "tenderers" : [
+            {
+              "identifier": "No incluido.",
+              "additionalIdentifier": null,
+              "name": "CRYSTALIS CONSULTING MÉXICO, S.A.P.I. DE C.V.",
+              "address": null,
+              "contactPoint": null
+              }
+            ],
+          "procuringEntity": {
+              "name": null
+            },
+          "documents": [],
+          "milestones": [],
+          "amendment": ""
+        },
+        "buyer": {
+          "identifier": null,
+          "additionalIdentifier": null,
+          "name": "DIRECCIÓN GENERAL DE INFORMATICA",
+          "address": null,
+          "contactPoint": null
+          },
+        "awards": [
+          {
+            "id": "1" ,
+            "title": "No incluido.",
+            "description": null,
+            "status": "active",
+            "date": "2013-03-15",
+            "value": "41000000",
+            "suppliers": [
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "CRYSTALIS CONSULTING MÉXICO, S.A.P.I. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              }
+            ] ,
+            "items": [] ,
+            "documents": [],
+            "amendment": null
+          }
+        ],
+        "contracts": [
+          {
+            "id": "CS-039/2013",
+            "awardID": "1",
+            "title": "CONTRATO MULTIANUAL DE SERVICIO DE CONSULTORÍA Y MANTENIMIENTO CONTINUO PARA LA OPERACIÓN DEL SISTEMA INFORMÁTICO DE PLANEACIÓN DE RECURSOS GUBERNAMENTALES (GRP-SAP) 2013-2015",
+            "description": "CONTRATO MULTIANUAL DE SERVICIO DE CONSULTORÍA Y MANTENIMIENTO CONTINUO PARA LA OPERACIÓN DEL SISTEMA INFORMÁTICO DE PLANEACIÓN DE RECURSOS GUBERNAMENTALES (GRP-SAP) 2013-2015",
+            "status": "terminated",
+            "period": {
+              "startDate": "2013-03-16",
+              "endDate": "2015-06-30"
+            },
+            "value": "41000000",
+            "items": [],
+            "dateSigned": "2013-03-15",
+            "documents": [
+              {
+                "id": "1",
+                "documentType": "notice" ,
+                "title": "Contrato multianual de prestación de servicio de consultoria y mantenimiento continuo para la operacion del sistema informatico de planeación de recursos gubernamentales SAP-GRP.",
+                "description": null,
+                "url": "http://www.finanzas.df.gob.mx/transparencia/14/XXVII/adjudicaciones/2015/contrato_cs_039_2013.pdf",
+                "datePublished": "",
+                "dateModified": "",
+                "format": "PDF",
+                "language": "es"
+              },
+              {
+                "id": "1",
+                "documentType": "	financialProgressReport" ,
+                "title": "Reporte de avance fisico financiero.",
+                "description": null,
+                "url": "http://www.finanzas.df.gob.mx/transparencia/14/XXVII/adjudicaciones/2015/avance_cs_039_2013.pdf",
+                "datePublished": "",
+                "dateModified": "",
+                "format": "PDF",
+                "language": "es"
+              }
+            ],
+            "amendment": null,
+            "implementation": null
+          }
+        ],
+        "language": "es"
+      },
+      {
+        "ocid": "OCDS-87SD3T-SEFIN-0002-15",
+        "id": "2",
+        "date": "20150608",
+        "tag": "tenderCancellation",
+        "initiationType": "tender",
+        "tender": {
+          "id": "PIR/GDF/CJSL/DEA/SRM/03/15",
+          "title": "SUMINISTRO, INSTALACIÓN Y PUESTA EN OPERACIÓN DE UN KIOSKO PARA EL PAGO DE SERVICIOS PROPORCIONADOS POR LA DIRECCIÓN GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS Y EMISIÓN DE DOCUMENTOS",
+          "description": "SUMINISTRO, INSTALACIÓN Y PUESTA EN OPERACIÓN DE UN KIOSKO PARA EL PAGO DE SERVICIOS PROPORCIONADOS POR LA DIRECCIÓN GENERAL JURÍDICA Y DE ESTUDIOS LEGISLATIVOS Y EMISIÓN DE DOCUMENTOS",
+          "status": "cancelled",
+          "items": [],
+          "minValue": null,
+          "value": null,
+          "procurementMethod": "selective",
+          "awardCriteria": null,
+          "awardCriteriaDetails": null,
+          "tenderPeriod": {
+            "startDate": "2015-03-16",
+            "endDate": "2015-03-17"
+          },
+          "enquiryPeriod": null,
+          "hasEnquiries": null,
+          "eligibilityCriteria": null,
+          "awardPeriod": "2015-03-19",
+          "numberOfTenderers": "3",
+          "tenderers" : [
+            {
+              "identifier": "No incluido.",
+              "additionalIdentifier": null,
+              "name": "PRODUCCIONES SALOMÓN, S.A. DE C.V.",
+              "address": null,
+              "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "SYSLOGTECH, S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              },
+              {
+                "identifier": "No incluido.",
+                "additionalIdentifier": null,
+                "name": "TECNÓLOGIA INFORMÁTICA PROFESIONAL, S.A. DE C.V.",
+                "address": null,
+                "contactPoint": null
+              }
+          ],
+          "procuringEntity": null,
+          "documents": [
+            {
+              "id": "1",
+              "documentType": "notice" ,
+              "title": "Invitación Restringida Nacional a cuando menos tres proveedores",
+              "description": "Contratación del servicio para suministro, instalación y puesta en operación de un kiosco para el pago de servicios proporcionados por la direccion general juridica y de estudios legislativos y emision de documentos.",
+              "url": "www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/PIR_03_oficios.pdf",
+              "datePublished": "2015-04-24",
+              "dateModified": null,
+              "format": "PDF",
+              "language": "es"
+            },
+            {
+              "id": "1",
+              "documentType": "notice" ,
+              "title": "",
+              "description": null,
+              "url": "http://www.consejeria.df.gob.mx/images/transparencia/1er_trimestre_2015/art_14/frac_XXVII/PIR_03_acta_fallo.pdf",
+              "datePublished": "",
+              "dateModified": "",
+              "format": "PDF",
+              "language": "es"
+            }
+          ],
+          "milestones": [],
+          "amendment": ""
+        },
+        "buyer": {},
+        "awards": [],
+        "contracts": [],
+        "language": "es"
+      }
+    ],
+    "license": "uri",
+    "publicationPolicy": "uri"
+}

@@ -1,7 +1,11 @@
 {
   "procurementMethod": {
     "Licitación Publica Nacional": "open",
-    "Invitación": "selective",
-    "Invitación restringida internacional a cuando menos tres proveedores": "limited"
+    "Invitación": "limited",
+    "Invitación restringida internacional a cuando menos tres proveedores": "limited",
+    "Adjudicacion Directa": "selective"
+  },
+  "status": {
+    "options": "planned active cancelled unsuccessful complete"
   }
 }
