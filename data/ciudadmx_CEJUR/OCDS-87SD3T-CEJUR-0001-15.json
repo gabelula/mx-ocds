@@ -117,7 +117,10 @@
               "startDate": "2015-03-24",
               "endDate": "2015-12-31"
             },
-            "value": { "15232482"} <---- CURRENCY IS MISSING,
+            "value": {
+              "amount": "15232482",
+              "currency": "MXN"
+            },
             "items": [],
             "dateSigned": "2015-03-24",
             "documents": [
@@ -163,7 +166,7 @@
           "enquiryPeriod": null,
           "hasEnquiries": null,
           "eligibilityCriteria": null,
-          "awardPeriod": {}
+          "awardPeriod": {},
           "numberOfTenderers": "3",
           "tenderers" : [
             {

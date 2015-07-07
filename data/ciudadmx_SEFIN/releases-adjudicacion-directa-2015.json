@@ -14,6 +14,19 @@
         "date": "2015-04-15",
         "tag": "contract",
         "initiationType": "tender",
+        "planning": {
+          "budget": {
+            "source":"",
+            "id":"",
+            "description":"",
+            "amount":"",
+            "project":"",
+            "projectID":"",
+            "uri":""
+          },
+          "rationale": "",
+          "documents": []
+        },
         "tender": {
           "id": "CS-039/2013",
           "title": "CONTRATO MULTIANUAL DE SERVICIO DE CONSULTORÍA Y MANTENIMIENTO ",
@@ -108,7 +121,7 @@
               },
               {
                 "id": "1",
-                "documentType": "	financialProgressReport" ,
+                "documentType": "financialProgressReport",
                 "title": "Reporte de avance fisico financiero.",
                 "description": null,
                 "url": "http://www.finanzas.df.gob.mx/transparencia/14/XXVII/adjudicaciones/2015/avance_cs_039_2013.pdf",
