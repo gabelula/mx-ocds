@@ -1,0 +1,204 @@
+{
+	"uri": "http://inovacion.finanzas.df.gob.mx/ocds",
+	"publishedDate": "12/02/2015",
+	"publisher": {
+		"scheme": "http://innovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+		"name": "CDMX-SEFIN",
+		"uri": "http://www.finanzas.df.gob.mx/",
+		"uid": "901"
+	},
+	"releases": [{
+		"ocid": "OCDS-87SD3T-SEFIN-30001105-002-2015",
+		"id": "1",
+		"date": "12/02/2015",
+		"tag": "contract",
+		"initiationType": "tender",
+		"planning": {
+			"budget": {
+				"amount": {
+					"amount": "21972720.00",
+					"currency": "mxn"
+				},
+				"project": "AUTORIZACION PRESUPUESTAL SPP/017/2015"
+			},
+			"documents": [{
+				"id": "1",
+				"title": "SUFICIENCIA PRESUPUESTAL",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/suficienciaspp.pdf",
+				"datePublished": "12/02/2015",
+				"format": "application/pdf",
+				"language": "es"
+			}]
+		},
+		"buyer": {
+			"identifier": "GDF-9712054NA",
+			"name": "GOBIERNO DEL DISTRITO FEDERAL (GDF)",
+			"address": {
+					"streetAddress": "DR LAVISTA 144 ACCESO 2",
+					"locality": "MEXICO DF",
+					"region": "DF",
+					"postalCode": "06000",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "PEDRO JESUS LARA LASTRA",
+					"email": "plara@finanzas.df.gob.mx",
+					"telephone": "51342540",
+					"faxNumber": "51342542",
+					"url": "WWW.FINANZAS.DF.GOB.MX"
+				}
+		},
+		"tender": {
+			"id": "OCDS-87SD3T-SEFIN-30001105-002-2015",
+			"title": "Servicio de Correo Ordinario",
+			"description": "Servicio de Correo Ordinario",
+			"status": "completa",
+			"items": [{
+				"id": "1",
+				"description": "Servicio de Correo Ordinario",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"value": {
+				"amount": "21972720.00",
+				"currency": "mxn"
+			},
+			"procurementMethod": "LICITACION",
+			"awardCriteria": "MEJOR PROPUESTA",
+			"submissionMethod": "ESCRITO",
+			"tenderPeriod": {
+				"startDate": "12/01/2015",
+				"endDate": "12/02/2015"
+			},
+			"enquiryPeriod": {
+				"startDate": "04/02/2015",
+				"endDate": "04/02/2015"
+			},
+			"hasEnquiries": null,
+			"eligibilityCriteria": " Servicio,Precio,Servicio,Precio",
+			"awardPeriod": {
+				"startDate": "10/02/2015",
+				"endDate": "12/02/2015"
+			},
+			"numberOfTenderers": "1",
+			"tenders": [{
+				"identifier": "SCM9209077V7",
+				"name": "SERVICIO CONTINENTAL DE MENSAJERIA,",
+				"address": {
+				"streetAddress": "PATRICIO SANZ",
+				"locality": "COL DEL VALLE BENITO JUAREZ",
+				"region": "DF",
+				"postalCode": "03100",
+				"countryName": "MX"
+			},
+			"contactPoint": {
+				"name": "EDUARDO BLANQUET SIORDIA",
+				"email": "ventas@cscm.com.mx",
+				"telephone": "5999 1818",
+				"faxNumber": "5148 6900",
+				"url": "HTTP://WWW.SCM.MX/"
+			}
+			}],
+			"procuringEntity": {
+				"identifier": "GDF-9712054NA",
+				"name": "SECRETARIA DE FINANZAS",
+				"address": {
+					"streetAddress": "DR LAVISTA 144 ACCESO 2",
+					"locality": "MEXICO DF",
+					"region": "DF",
+					"postalCode": "06000",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "PEDRO JESUS LARA LASTRA",
+					"email": "PLARA@FINANZAS.DF.GOB.MX",
+					"telephone": "51342540",
+					"faxNumber": "51342542",
+					"url": "WWW.FINANZAS.DF.GOB.MX"
+				}
+			},
+			"documents": [{
+				"id": "1",
+				"title": "BASES",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bases_lpn_30001105_002_2015.pdf",
+				"datePublished": "12/02/2015",
+				"format": " application/pdf",
+				"language": "es"
+			}],
+			"milestones": [],
+			"amendment": null
+		},
+		"awards": [{
+			"id": "1",
+			"title": "Servicio de Correo Ordinario",
+			"description": "Servicio de Correo Ordinario",
+			"status": "activo",
+			"date": "30/09/2015",
+			"value": {
+				"amount": "21972720.00",
+				"currency": "mxn"
+			},
+			"suppliers": {
+				"identifier": "SCM9209077V7",
+				"name": "SERVICIO CONTINENTAL DE MENSAJERIA,",
+				"address": {
+				"streetAddress": "PATRICIO SANZ",
+				"locality": "COL DEL VALLE BENITO JUAREZ",
+				"region": "DF",
+				"postalCode": "03100",
+				"countryName": "MX"
+			},
+			"contactPoint": {
+				"name": "EDUARDO BLANQUET SIORDIA",
+				"email": "ventas@cscm.com.mx",
+				"telephone": "5999 1818",
+				"faxNumber": "5148 6900",
+				"url": "HTTP://WWW.SCM.MX/"
+			},
+				"additionalProperties": {
+					
+				}
+			},
+			"items": [{
+				"id": "1",
+				"description": "Servicio de Correo Ordinario",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"documents": [{
+				"id": "1",
+				"title": "FALLO",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/acta_resultado_dictamen_emision_fallo_lpn_30001105",
+				"datePublished": "12/02/2015",
+				"format": "application/pdf",
+				"language": "es"
+			}],
+			"amendment": null
+		}],
+		"contracts": [{
+			"id": "1",
+			"awardID": "SCM9209077V7",
+			"title": "CS-018/2015",
+			"description": null,
+			"status": "activo",
+			"period": {
+				"startDate": "13/02/2015",
+				"endDate": "31/12/2015"
+			},
+			"value": {
+				"amount": "21658824.00",
+				"currency": "mxn"
+			},
+			"items": [{
+				"id": "1",
+				"description": "Servicio de Correo Ordinario",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"dateSigned": "30/09/2015",
+			"documents": [],
+			"amendment": null
+		}],
+		"language": "es"
+	}]
+}

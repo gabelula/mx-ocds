@@ -1,0 +1,260 @@
+{
+    "uri": "http://innovacion.finanzas.df.gob.mx/OCDS/OCDS-87SD3T-SEFIN-30001105-014-2015.json",
+    "publishedDate": "2015-02-01T00:00:00",
+    "publisher": {
+        "scheme": "http://innovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-30001105-014-2015",
+            "id": "1",
+            "date": "2015-02-01T00:00:00",
+            "tag": "contract",
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 14386309.34,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACION PRESUPUESTAL SPP/188/2015"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "SUFICIENCIA PRESUPUESTAL SPP/188/201",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/reg_presup_df.pdf",
+                        "datePublished": "2015-02-04T00:00:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": "GDF-9712054NA",
+                "name": "GOBIERNO DEL DISTRITO FEDERAL (GDF)",
+                "address": {
+                    "streetAddress": "DOC LAVISTA 144 SOTANO",
+                    "locality": "MEXICO, cuauhtemoc02",
+                    "region": "DF",
+                    "postalCode": "06470",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "iNG HERRERIAS",
+                    "email": "HERRERRIAS@FINANZAS.DF.GOB.MX",
+                    "telephone": "513425000",
+                    "faxNumber": "51342500",
+                    "url": null
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-30001105-014-2015",
+                "title": "SERVICIO DE LIMPIEZA 2",
+                "description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN 2",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 14386309.34,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "open",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": "written",
+                "tenderPeriod": {
+                    "startDate": "2015-02-01T00:00:00",
+                    "endDate": "2015-02-28T00:00:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": "2015-02-20T00:00:00",
+                    "endDate": "2015-02-20T00:00:00"
+                },
+                "hasEnquiries": "Si",
+                "eligibilityCriteria": " Servicio,Precio,ANEXO TECNICO",
+                "awardPeriod": {
+                    "startDate": "2015-02-27T00:00:00",
+                    "endDate": "2015-02-28T00:00:00"
+                },
+                "numberOfTenderers": 2,
+                "tenders": [
+                    {
+                        "identifier": "FLI020829KJ7",
+                        "name": "FUMIGACIONES Y LIMPIEZA INTEGRAL",
+                        "address": {
+                            "streetAddress": "CERRO GORDO",
+                            "locality": "JORGE JIMENEZ CANTU   TLALNEPANTLA",
+                            "region": "MEX",
+                            "postalCode": "54190",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "pablo escobar",
+                            "email": "colombiarayito@gmail.com",
+                            "telephone": "234324320",
+                            "faxNumber": "321312312",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": "GLM970924397",
+                        "name": "GRUPO DE LIMPIEZA Y MANTENIMIENTO",
+                        "address": {
+                            "streetAddress": "2DA CERRADA DE AVENIDA IMAN",
+                            "locality": "LA ZORRA                        COYOACAN",
+                            "region": "DF",
+                            "postalCode": "04660",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "pablo escobar",
+                            "email": "colombiarayito@gmail.com",
+                            "telephone": "234324320",
+                            "faxNumber": "321312312",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": "GDF-9712054NA",
+                    "name": "SECRETARIA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DOCTOR LAVISTA 144 DOCTORES",
+                        "locality": "MEXICO, cuauhtemoc01",
+                        "region": "DF",
+                        "postalCode": "06460",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "arq pedro lara lastra",
+                        "email": "PLARA@FINANZAS.DF.GOB.MX",
+                        "telephone": "51342540",
+                        "faxNumber": "51342500",
+                        "url": null
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "BASES",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bases_lpn_001_2015(2).pdf",
+                        "datePublished": "2015-02-03T00:00:00",
+                        "format": " application/pdf",
+                        "language": "es"
+                    },
+                    {
+                        "id": "2",
+                        "title": "ANEXO TECNICO",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bases_lpn_001_2015(3).pdf",
+                        "datePublished": "2015-02-03T00:00:00",
+                        "format": " application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO DE LIMPIEZA 2",
+                    "description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN 2",
+                    "status": "active",
+                    "date": "2015-02-28T00:00:00",
+                    "value": {
+                        "amount": 14386309.34,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": "GLM970924397",
+                            "name": "GRUPO DE LIMPIEZA Y MANTENIMIENTO",
+                            "address": {
+                                "streetAddress": "DOCTOR LAVISTA 144 DOCTORES",
+                                "locality": "MEXICO, cuauhtemoc01",
+                                "region": "DF",
+                                "postalCode": "06460",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "arq pedro lara lastra",
+                                "email": "PLARA@FINANZAS.DF.GOB.MX",
+                                "telephone": "51342540",
+                                "faxNumber": "51342500",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "FALLO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/acta_fallo_lpn_30001105_014_2015.pdf",
+                            "datePublished": "2015-02-28T00:00:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-012-2015",
+                    "description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN 2",
+                    "status": "active",
+                    "period": {
+                        "startDate": "2015-01-01T00:00:00",
+                        "endDate": "2015-12-31T00:00:00"
+                    },
+                    "value": {
+                        "amount": 12760006,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-03-01T00:00:00",
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bloomberg associates.pdf",
+                            "datePublished": "2015-03-01T00:00:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

@@ -1,0 +1,637 @@
+{
+    "uri" : "http://inovacion.finanzas.df.gob.mx/ocds/ArchivosJSON/Sefin/OCDS-87SD3T-SEFIN-0001-15.json",
+    "publishedDate" : "2015-01-01",
+    "publisher" : {
+        "scheme" : "http://inovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+        "name" : "CDMX-SEFIN",
+        "uri" : "http://www.finanzas.df.gob.mx/",
+        "uid" : "901"
+    },
+    "releases" : [
+        {
+            "ocid" : "OCDS-87SD3T-SEFIN-0001-15",
+            "id" : "1",
+            "date" : "2015-04-15",
+            "tag" : "contract",
+            "initiationType" : "tender",
+            "planning" : {
+                "budget" : {
+                    "amount" : {
+                        "amount" : "1000",
+                        "currency" : "mxn"
+                    },
+                    "project" : "Prueba"
+                },
+                "documents" : [
+                    {
+                        "id" : "1",
+                        "title" : "Suficiencia Presupuestaria",
+                        "url" : null,
+                        "datePublished" : "2015-05-01",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    },
+                    {
+                        "id" : "2",
+                        "title" : "Autorizaciones",
+                        "url" : null,
+                        "datePublished" : "2015-05-01",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    }
+                ]
+            },
+            "buyer" : {
+                "identifier" : "9C000",
+                "name" : "SEFIN",
+                "address" : {
+                    "streetAddress" : "dir1",
+                    "locality" : "localidad",
+                    "region" : "df",
+                    "postalCode" : "00000",
+                    "countryName" : "MX"
+                },
+                "contactPoint" : {
+                    "name" : null,
+                    "email" : null,
+                    "telephone" : null,
+                    "faxNumber" : null,
+                    "url" : null
+                }
+            },
+            "tender" : {
+                "id" : "0001-15",
+                "title" : "Prueba Tender",
+                "description" : "Descripcion Tender",
+                "status" : "active",
+                "items" : [
+                    {
+                        "id" : "1",
+                        "description" : "item 1",
+                        "quantity" : "10",
+                        "unit" : "pieza"
+                    },
+                    {
+                        "id" : "2",
+                        "description" : "item 2",
+                        "quantity" : "100",
+                        "unit" : "pieza"
+                    },
+                    {
+                        "id" : "3",
+                        "description" : "item 3",
+                        "quantity" : "1000",
+                        "unit" : "pieza"
+                    }
+                ],
+                "value" : {
+                    "amount" : "1000",
+                    "currency" : "mxn"
+                },
+                "procurementMethod" : "open",
+                "awardCriteria" : "lowestCost",
+                "submissionMethod" : "inPerson",
+                "tenderPeriod" : {
+                    "startDate" : "2015-01-01",
+                    "endDate" : "2015-01-03"
+                },
+                "enquiryPeriod" : {
+                    "startDate" : "2015-01-04",
+                    "endDate" : "2015-01-04"
+                },
+                "hasEnquiries" : "si",
+                "eligibilityCriteria" : null,
+                "awardPeriod" : {
+                    "startDate" : "2015-01-04",
+                    "endDate" : "2015-01-04"
+                },
+                "numberOfTenderers" : "2",
+                "tenders" : [
+                    {
+                        "identifier" : "cadada",
+                        "name" : "dadad",
+                        "address" : {
+                            "streetAddress" : "qiie",
+                            "locality" : "df",
+                            "region" : "mx",
+                            "postalCode" : "76545",
+                            "countryName" : "mx"
+                        },
+                        "contactPoint" : {
+                            "name" : "yt",
+                            "email" : "dds@hotmail.com",
+                            "telephone" : "76543456",
+                            "faxNumber" : null,
+                            "url" : null
+                        }
+                    },
+                    {
+                        "identifier" : "cata098798",
+                        "name" : "cata",
+                        "address" : {
+                            "streetAddress" : "nose",
+                            "locality" : "df",
+                            "region" : "mx",
+                            "postalCode" : "09898",
+                            "countryName" : "mx"
+                        },
+                        "contactPoint" : {
+                            "name" : "anonimo",
+                            "email" : "addd@hotmail.com",
+                            "telephone" : "45678987",
+                            "faxNumber" : null,
+                            "url" : null
+                        }
+                    }
+                ],
+                "procuringEntity" : {
+                    "identifier" : "09C000",
+                    "name" : "SEFIN",
+                    "address" : {
+                        "streetAddress" : "street",
+                        "locality" : "df",
+                        "region" : "mx",
+                        "postalCode" : "09876",
+                        "countryName" : "mx"
+                    },
+                    "contactPoint" : {
+                        "name" : "nose",
+                        "email" : "nose@hotmail.com",
+                        "telephone" : "34567887",
+                        "faxNumber" : null,
+                        "url" : null
+                    }
+                },
+                "documents" : [
+                    {
+                        "id" : "1",
+                        "title" : "Convocatoria",
+                        "url" : null,
+                        "datePublished" : "2015-01-01",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    },
+                    {
+                        "id" : "2",
+                        "title" : "Junta de Aclaraciones",
+                        "url" : null,
+                        "datePublished" : "2015-01-02",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    },
+                    {
+                        "id" : "3",
+                        "title" : "Dictamen",
+                        "url" : null,
+                        "datePublished" : "2015-01-04",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    }
+                ],
+                "milestones" : [
+                ],
+                "amendment" : {
+                    "date" : null,
+                    "changes" : null,
+                    "rationale" : null
+                }
+            },
+            "awards" : [
+                {
+                    "id" : "1",
+                    "title" : "award1",
+                    "description" : "award1",
+                    "status" : "active",
+                    "date" : "2015-01-15",
+                    "value" : {
+                        "amount" : "1001",
+                        "currency" : "mxn"
+                    },
+                    "suppliers" : [
+                        {
+                            "identifier" : "cata098798",
+                            "name" : "cata",
+                            "address" : {
+                                "streetAddress" : "nose",
+                                "locality" : "df",
+                                "region" : "mx",
+                                "postalCode" : "09898",
+                                "countryName" : "mx"
+                            },
+                            "contactPoint" : {
+                                "name" : "anonimo",
+                                "email" : "addd@hotmail.com",
+                                "telephone" : "45678987",
+                                "faxNumber" : null,
+                                "url" : null
+                            }
+                        }
+                    ],
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item1",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        },
+                        {
+                            "id" : "2",
+                            "description" : "item2",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "documents" : [
+                        {
+                            "id" : "1",
+                            "title" : "fallo",
+                            "url" : null,
+                            "datePublished" : "2015-01-15",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                },
+                {
+                    "id" : "2",
+                    "title" : "award2",
+                    "description" : "award2",
+                    "status" : null,
+                    "date" : null,
+                    "value" : {
+                        "amount" : "1002",
+                        "currency" : "mxn"
+                    },
+                    "suppliers" : [
+                        {
+                            "identifier" : "cadada",
+                            "name" : "dadad",
+                            "address" : {
+                                "streetAddress" : "qiie",
+                                "locality" : "df",
+                                "region" : "mx",
+                                "postalCode" : "76545",
+                                "countryName" : "mx"
+                            },
+                            "contactPoint" : {
+                                "name" : "yt",
+                                "email" : "dds@hotmail.com",
+                                "telephone" : "76543456",
+                                "faxNumber" : null,
+                                "url" : null
+                            }
+                        }
+                    ],
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item3",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "documents" : [
+                        {
+                            "id" : "2",
+                            "title" : "oficio de adjudicacion",
+                            "url" : null,
+                            "datePublished" : "2015-01-15",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                }
+            ],
+            "contracts" : [
+                {
+                    "id" : "1",
+                    "awardID" : "cata098798",
+                    "title" : "contract1",
+                    "description" : "contract1",
+                    "status" : "active",
+                    "period" : {
+                        "startDate" : "2015-01-20",
+                        "endDate" : "2017-01-01"
+                    },
+                    "value" : {
+                        "amount" : "1003",
+                        "currency" : "mxn"
+                    },
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item1",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        },
+                        {
+                            "id" : "2",
+                            "description" : "item2",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "dateSigned" : "2015-01-07",
+                    "documents" : [
+                        {
+                            "id" : "1",
+                            "title" : "contrato",
+                            "url" : null,
+                            "datePublished" : "2015-01-09",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                },
+                {
+                    "id" : "2",
+                    "awardID" : "cadada",
+                    "title" : "contract2",
+                    "description" : "contract2",
+                    "status" : "active",
+                    "period" : {
+                        "startDate" : "2015-01-20",
+                        "endDate" : "2017-01-01"
+                    },
+                    "value" : {
+                        "amount" : "1004",
+                        "currency" : "mxn"
+                    },
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item3",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "dateSigned" : "2015-01-08",
+                    "documents" : [
+                        {
+                            "id" : "1",
+                            "title" : "contrato",
+                            "url" : null,
+                            "datePublished" : "2015-01-09",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                }
+            ],
+            "language" : "es"
+        },
+        {
+            "ocid" : "OCDS-87SD3T-SEFIN-0001-15",
+            "id" : "2",
+            "date" : "2015-04-16",
+            "tag" : "contract",
+            "initiationType" : "tender",
+            "planning" : {
+                "budget" : {
+                    "amount" : {
+                        "amount" : "1000",
+                        "currency" : "mxn"
+                    },
+                    "project" : "Prueba"
+                },
+                "documents" : [
+                    {
+                        "id" : "1",
+                        "title" : "Autorizacion",
+                        "url" : null,
+                        "datePublished" : "2015-05-01",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    }
+                ]
+            },
+            "buyer" : {
+                "identifier" : "9C000",
+                "name" : "SEFIN",
+                "address" : {
+                    "streetAddress" : "dfd",
+                    "locality" : "localidad",
+                    "region" : "df",
+                    "postalCode" : "00000",
+                    "countryName" : "mx"
+                },
+                "contactPoint" : {
+                    "name" : null,
+                    "email" : null,
+                    "telephone" : null,
+                    "faxNumber" : null,
+                    "url" : null
+                }
+            },
+            "tender" : {
+                "id" : "0001-15",
+                "title" : "Prueba Tender2",
+                "description" : "Descripcion2",
+                "status" : "active",
+                "items" : [
+                    {
+                        "id" : "1",
+                        "description" : "item 1",
+                        "quantity" : "10",
+                        "unit" : "pieza"
+                    }
+                ],
+                "value" : {
+                    "amount" : "1000",
+                    "currency" : "mxn"
+                },
+                "procurementMethod" : "open",
+                "awardCriteria" : "lowestCost",
+                "submissionMethod" : "inPerson",
+                "tenderPeriod" : {
+                    "startDate" : "2015-01-01",
+                    "endDate" : "2015-01-03"
+                },
+                "enquiryPeriod" : {
+                    "startDate" : "2015-01-04",
+                    "endDate" : "2015-01-04"
+                },
+                "hasEnquiries" : "si",
+                "eligibilityCriteria" : null,
+                "awardPeriod" : {
+                    "startDate" : "2015-01-04",
+                    "endDate" : "2015-01-04"
+                },
+                "numberOfTenderers" : "1",
+                "tenders" : [
+                    {
+                        "identifier" : "dad",
+                        "name" : "da",
+                        "address" : {
+                            "streetAddress" : "da",
+                            "locality" : "df",
+                            "region" : "mx",
+                            "postalCode" : "54323",
+                            "countryName" : "mx"
+                        },
+                        "contactPoint" : {
+                            "name" : "nose",
+                            "email" : "fdsa@hotmail.com",
+                            "telephone" : "6543654",
+                            "faxNumber" : null,
+                            "url" : null
+                        }
+                    }
+                ],
+                "procuringEntity" : {
+                    "identifier" : "09C000",
+                    "name" : "SEFIN",
+                    "address" : {
+                        "streetAddress" : "streert",
+                        "locality" : "df",
+                        "region" : "mx",
+                        "postalCode" : "54334",
+                        "countryName" : "mx"
+                    },
+                    "contactPoint" : {
+                        "name" : "nose",
+                        "email" : "fdds@hjtjt.com",
+                        "telephone" : "343434",
+                        "faxNumber" : null,
+                        "url" : null
+                    }
+                },
+                "documents" : [
+                    {
+                        "id" : "1",
+                        "title" : "Convocatoria",
+                        "url" : null,
+                        "datePublished" : "2015-01-01",
+                        "format" : "application/pdf",
+                        "language" : "es"
+                    }
+                ],
+                "milestones" : [
+                ],
+                "amendment" : {
+                    "date" : null,
+                    "changes" : null,
+                    "rationale" : null
+                }
+            },
+            "awards" : [
+                {
+                    "id" : "1",
+                    "title" : "award1",
+                    "description" : "award1",
+                    "status" : "active",
+                    "date" : "2015-01-15",
+                    "value" : {
+                        "amount" : "1001",
+                        "currency" : "mxn"
+                    },
+                    "suppliers" : [
+                        {
+                            "identifier" : "cata098798",
+                            "name" : "cata",
+                            "address" : {
+                                "streetAddress" : "nose",
+                                "locality" : "df",
+                                "region" : "mx",
+                                "postalCode" : "09873",
+                                "countryName" : "mx"
+                            },
+                            "contactPoint" : {
+                                "name" : "anonimo",
+                                "email" : "dsdsd@hotm.com",
+                                "telephone" : "45676777",
+                                "faxNumber" : null,
+                                "url" : null
+                            }
+                        }
+                    ],
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item1",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "documents" : [
+                        {
+                            "id" : "1",
+                            "title" : "fallo",
+                            "url" : null,
+                            "datePublished" : "2015-01-15",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                }
+            ],
+            "contracts" : [
+                {
+                    "id" : "1",
+                    "awardID" : "cata098798",
+                    "title" : "contrac1",
+                    "description" : "contract1",
+                    "status" : "active",
+                    "period" : {
+                        "startDate" : "2015-01-20",
+                        "endDate" : "2017-01-01"
+                    },
+                    "value" : {
+                        "amount" : "1004",
+                        "currency" : "mxn"
+                    },
+                    "items" : [
+                        {
+                            "id" : "1",
+                            "description" : "item1",
+                            "quantity" : "100",
+                            "unit" : "pieza"
+                        }
+                    ],
+                    "dateSigned" : "2015-01-07",
+                    "documents" : [
+                        {
+                            "id" : "1",
+                            "title" : "contrato",
+                            "url" : null,
+                            "datePublished" : "2015-01-09",
+                            "format" : "application/pdf",
+                            "language" : "es"
+                        }
+                    ],
+                    "amendment" : {
+                        "date" : null,
+                        "changes" : null,
+                        "rationale" : null
+                    }
+                }
+            ],
+            "language" : "es"
+        }
+    ]
+}

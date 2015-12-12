@@ -1,0 +1,635 @@
+{
+    "uri": "http://innovacion.finanzas.df.gob.mx/OCDS/OCDS-87SD3T-SEFIN-30001105-017-2015.json",
+    "publishedDate": "2015-06-01T00:00:00.-06:00",
+    "publisher": {
+        "scheme": "http://innovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-30001105-017-2015",
+            "id": "1",
+            "date": "2015-06-01T00:00:00.-06:00",
+            "tag": ["contract"],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 94000,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACION PRESUPUESTAL SPP/190/2015"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "SUFICIENCIA PRESUPUESTAL 190 2015",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/suficiencia%20017.pdf",
+                        "datePublished": "2015-06-01T00:00:00.-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF-9712054NA",
+                    "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONDep/Dependencias.json"
+                },
+                "name": "Secretaria de finanzas",
+                "address": {
+                    "streetAddress": "Dr lavista 144 (sotano)",
+                    "locality": "Cuauhtemoc, Mexico",
+                    "region": "DF",
+                    "postalCode": "6470",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "Pedro Lara Lastra",
+                    "email": "plara@finanzas.df.gob.mx",
+                    "telephone": "5551352500",
+                    "faxNumber": "5551352500",
+                    "url": "WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-30001105-017-2015",
+                "title": "PAPELERIA ALMACEN CENTRAL",
+                "description": "PAPELERIA ANUAL PARA SEFIN",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "PLUMA ATOMICA C/NEGRO PTO MED CAPUCHON",
+                        "quantity": 1000,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "CARPETA C/PERCALINA T/CARTA (VA.COLORES)",
+                        "quantity": 1200,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "description": "CARPETA C/PERCALINA T/OFICIO(VA.COLORES)",
+                        "quantity": 400,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "description": "CARPETA D/VINIL BCO T/CARTA D/2",
+                        "quantity": 300,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "description": "CINTA ADHESIVA TRANSPARENTE 24MMX65MTS",
+                        "quantity": 3000,
+                        "unit": {
+                            "name": "ROL"
+                        }
+                    },
+                    {
+                        "id": "6",
+                        "description": "BROCHE TRIUNFO N.1 (MARIPOSA)",
+                        "quantity": 1300,
+                        "unit": {
+                            "name": "CS"
+                        }
+                    },
+                    {
+                        "id": "7",
+                        "description": "BROCHE TRIUNFO No. 2 (MARIPOSA)",
+                        "quantity": 1500,
+                        "unit": {
+                            "name": "CS"
+                        }
+                    },
+                    {
+                        "id": "8",
+                        "description": "BLOCK NOTAS AUTOADHERIBLES DE 1 1/2X2",
+                        "quantity": 500,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "9",
+                        "description": "BLOCK NOTAS AUTOADHERIBLES DE 3 X 3",
+                        "quantity": 600,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 94000,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "open",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-06-01T00:00:00.-06:00",
+                    "endDate": "2015-06-30T00:00:00.-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": "2015-06-20T00:00:00.-06:00",
+                    "endDate": "2015-06-20T00:00:00.-06:00"
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": " Servicio,ANEXO TECNICO,Servicio",
+                "awardPeriod": {
+                    "startDate": "2015-06-30T00:00:00.-06:00",
+                    "endDate": "2015-06-30T00:00:00.-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "AAR060308TT4",
+                            "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                        },
+                        "name": "ABASTECEDORA ARAGONESA S A DE C V",
+                        "address": {
+                            "streetAddress": "AVENIDA DEL TALLER",
+                            "locality": "CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "06820",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "Juan Garcia",
+                            "email": "garcia@gmail.com",
+                            "telephone": "5556712376",
+                            "faxNumber": "5556712376",
+                            "url": "No Capturado"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "CTR961115TE9",
+                            "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                        },
+                        "name": "\"COMERCIALIZADORA TREBON,",
+                        "address": {
+                            "streetAddress": "CERRO DEL MERCADO",
+                            "locality": "COL. RINCON DEL VALLE TLALNEPANTLA",
+                            "region": "MEX",
+                            "postalCode": "54040",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "Miguel Reyes",
+                            "email": "miguel@gmail.com",
+                            "telephone": "5591821108",
+                            "faxNumber": "5599812217",
+                            "url": "No Capturado"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "IIOC680229DX5",
+                            "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                        },
+                        "name": "CLAUDIA GABRIELA IÑIGUEZ OCHOA",
+                        "address": {
+                            "streetAddress": "MAR MEDITERRANEO",
+                            "locality": "MIGUEL HIDALGO",
+                            "region": "DF",
+                            "postalCode": "11400",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "CLAUDIA GABRIELA IÑIGUEZ OCHOA",
+                            "email": "iniguez@gmail.com",
+                            "telephone": "5501923291",
+                            "faxNumber": "5501923290",
+                            "url": "No Capturado"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF-9712054NA",
+                        "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONDep/Dependencias.json"
+                    },
+                    "name": "FINANZAS (adquisiciones)",
+                    "address": {
+                        "streetAddress": "Dr lavista 144",
+                        "locality": "Cuauhtemoc, Mexico",
+                        "region": "DF",
+                        "postalCode": "06470",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "arq pedro lara lastra",
+                        "email": "PLARA@FINANZAS.DF.GOB.MX",
+                        "telephone": "51342540",
+                        "faxNumber": "51342500",
+                        "url": "No Capturado"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "ANEXO TECNICO",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/anexo%20tecnico%20017.pdf",
+                        "datePublished": "2015-06-01T00:00:00.-06:00",
+                        "format": " application/pdf",
+                        "language": "es"
+                    },
+                    {
+                        "id": "2",
+                        "title": "BASES 017",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bases%20017.pdf",
+                        "datePublished": "2015-06-01T00:00:00.-06:00",
+                        "format": " application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "PAPELERIA ALMACEN CENTRAL",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "date": "2015-10-27T00:00:00.-06:00",
+                    "value": {
+                        "amount": 13270.4,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "AAR060308TT4",
+                                "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                            },
+                            "name": "ABASTECEDORA ARAGONESA S A DE C V",
+                            "address": {
+                                "streetAddress": "AVENIDA DEL TALLER",
+                                "locality": "CUAUHTEMOC",
+                                "region": "DF",
+                                "postalCode": "06820",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "Juan Garcia",
+                                "email": "garcia@gmail.com",
+                                "telephone": "5556712376",
+                                "faxNumber": "5556712376",
+                                "url": "No Capturado"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PLUMA ATOMICA C/NEGRO PTO MED CAPUCHON",
+                            "quantity": 1000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CARPETA C/PERCALINA T/CARTA (VA.COLORES)",
+                            "quantity": 1200,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "CARPETA C/PERCALINA T/OFICIO(VA.COLORES)",
+                            "quantity": 400,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "FALLO TECNICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20tecnico%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        },
+                        {
+                            "id": "2",
+                            "title": "FALLO ECONOMICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20econo%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "PAPELERIA ALMACEN CENTRAL",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "date": "2015-10-27T00:00:00.-06:00",
+                    "value": {
+                        "amount": 21245.4,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "CTR961115TE9",
+                                "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                            },
+                            "name": "\"COMERCIALIZADORA TREBON,",
+                            "address": {
+                                "streetAddress": "CERRO DEL MERCADO",
+                                "locality": "COL. RINCON DEL VALLE TLALNEPANTLA",
+                                "region": "MEX",
+                                "postalCode": "54040",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "Miguel Reyes",
+                                "email": "miguel@gmail.com",
+                                "telephone": "5591821108",
+                                "faxNumber": "5599812217",
+                                "url": "No Capturado"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "BROCHE TRIUNFO No. 2 (MARIPOSA)",
+                            "quantity": 1500,
+                            "unit": {
+                                "name": "CS"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "BLOCK NOTAS AUTOADHERIBLES DE 1 1/2X2",
+                            "quantity": 500,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "BLOCK NOTAS AUTOADHERIBLES DE 3 X 3",
+                            "quantity": 600,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "FALLO TECNICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20tecnico%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        },
+                        {
+                            "id": "2",
+                            "title": "FALLO ECONOMICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20econo%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "PAPELERIA ALMACEN CENTRAL",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "date": "2015-10-27T00:00:00.-06:00",
+                    "value": {
+                        "amount": 36586.4,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "IIOC680229DX5",
+                                "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+                            },
+                            "name": "CLAUDIA GABRIELA IÑIGUEZ OCHOA",
+                            "address": {
+                                "streetAddress": "MAR MEDITERRANEO",
+                                "locality": "MIGUEL HIDALGO",
+                                "region": "DF",
+                                "postalCode": "11400",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "CLAUDIA GABRIELA IÑIGUEZ OCHOA",
+                                "email": "Iniguez@gmail.com",
+                                "telephone": "5501923291",
+                                "faxNumber": "5501923290",
+                                "url": "No Capturado"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CARPETA D/VINIL BCO T/CARTA D/2",
+                            "quantity": 300,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CINTA ADHESIVA TRANSPARENTE 24MMX65MTS",
+                            "quantity": 3000,
+                            "unit": {
+                                "name": "ROL"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "BROCHE TRIUNFO N.1 (MARIPOSA)",
+                            "quantity": 1300,
+                            "unit": {
+                                "name": "CS"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "FALLO TECNICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20tecnico%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        },
+                        {
+                            "id": "2",
+                            "title": "FALLO ECONOMICO",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/fallo%20econo%20017.pdf",
+                            "datePublished": "2015-06-30T00:00:00.-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-018-2015",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "period": {
+                        "startDate": "2015-07-01T00:00:00.-06:00",
+                        "endDate": "2015-07-31T00:00:00.-06:00"
+                    },
+                    "value": {
+                        "amount": 13270.4,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PLUMA ATOMICA C/NEGRO PTO MED CAPUCHON",
+                            "quantity": 1000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CARPETA C/PERCALINA T/CARTA (VA.COLORES)",
+                            "quantity": 1200,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "CARPETA C/PERCALINA T/OFICIO(VA.COLORES)",
+                            "quantity": 400,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-07-01T00:00:00.-06:00",
+                    "documents": []
+                },
+                {
+                    "id": "2",
+                    "awardID": "2",
+                    "title": "CS-020-2015",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "period": {
+                        "startDate": "2015-07-01T00:00:00.-06:00",
+                        "endDate": "2015-07-31T00:00:00.-06:00"
+                    },
+                    "value": {
+                        "amount": 21245.4,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "BROCHE TRIUNFO No. 2 (MARIPOSA)",
+                            "quantity": 1500,
+                            "unit": {
+                                "name": "CS"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "BLOCK NOTAS AUTOADHERIBLES DE 1 1/2X2",
+                            "quantity": 500,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "BLOCK NOTAS AUTOADHERIBLES DE 3 X 3",
+                            "quantity": 600,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-07-01T00:00:00.-06:00",
+                    "documents": []
+                },
+                {
+                    "id": "3",
+                    "awardID": "3",
+                    "title": "CS-019-2015",
+                    "description": "PAPELERIA ANUAL PARA SEFIN",
+                    "status": "active",
+                    "period": {
+                        "startDate": "2015-07-01T00:00:00.-06:00",
+                        "endDate": "2015-07-31T00:00:00.-06:00"
+                    },
+                    "value": {
+                        "amount": 36586.4,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CINTA ADHESIVA TRANSPARENTE 24MMX65MTS",
+                            "quantity": 3000,
+                            "unit": {
+                                "name": "ROL"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CARPETA D/VINIL BCO T/CARTA D/2",
+                            "quantity": 300,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "BROCHE TRIUNFO N.1 (MARIPOSA)",
+                            "quantity": 1300,
+                            "unit": {
+                                "name": "CS"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-07-03T00:00:00.-06:00",
+                    "documents": []
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

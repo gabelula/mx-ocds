@@ -1,0 +1,862 @@
+[
+  {
+    "dependencia": {
+      "id": "101",
+      "nombre": "Jefatura del Gobierno del",
+      "address": {
+        "streetAddress": "Plaza de la Constitucion SN",
+        "locality": null,
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "01D1",
+      "nombre": "AUTORIDAD DEL CENTRO HISTORICO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "01D2",
+      "nombre": "AUTORIDAD DE ESPACIOS PUBLICOS",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "01D3",
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL",
+      "address": {
+        "streetAddress": "SAN  FRANCISCO                                              1374",
+        "locality": "BENITO JUAREZ,TLACOQUEMECATL DEL VALLE",
+        "region": "DF",
+        "postalCode": "3200",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "201",
+      "nombre": "SECRETARIA DE GOBIERNO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D1",
+      "nombre": "DELEGACION ALVARO OBREGON",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D2",
+      "nombre": "DELEGACION AZCAPOTZALCO",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D3",
+      "nombre": "DELEGACION BENITO JUAREZ",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D4",
+      "nombre": "DELEGACION COYOACAN",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D5",
+      "nombre": "DELEGACION CUAJIMALPA DE MORELOS",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D6",
+      "nombre": "DELEGACION CUAUHTEMOC",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D7",
+      "nombre": "DELEGACION GUSTAVO A. MADERO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D8",
+      "nombre": "DELEGACION IZTACALCO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02D9",
+      "nombre": "DELEGACION IZTAPALAPA",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "02O3",
+      "nombre": "SISTEMA DE RADIO Y TELEVISION",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "301",
+      "nombre": "SECRETARIA DE DESARROLLO URBANO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "03PV",
+      "nombre": "INSTITUTO DE VIVIENDA DEL",
+      "address": {
+        "streetAddress": "MORELOS                                                     98",
+        "locality": "CUAUHTEMOC,JUAREZ",
+        "region": "DF",
+        "postalCode": "6600",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "401",
+      "nombre": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CNETRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "04PE",
+      "nombre": "FONDO PARA EL DESARROLLO SOCIAL",
+      "address": {
+        "streetAddress": "TEPOZTECO                                                   36",
+        "locality": "BENITO JUAREZ, NARVARTE",
+        "region": "DF",
+        "postalCode": "3020",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "501",
+      "nombre": "SECRETARIA DE TURISMO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CNETRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "05PT",
+      "nombre": "FONDO MIXTO DE PROMOCION TURISTICA",
+      "address": {
+        "streetAddress": "AV. UNIVERSIDAD                                             1200",
+        "locality": "BENITO JUAREZ, XOCO",
+        "region": "DF",
+        "postalCode": "3339",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "601",
+      "nombre": "SECRETARIA DEL MEDIO AMBIENTE",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CNETRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "06D3",
+      "nombre": "SISTEMA DE AGUAS DE LA CIUDAD DE MEXICO",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CNETRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "06PA",
+      "nombre": "FONDO AMBIENTAL PUBLICO DEL",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CNETRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "701",
+      "nombre": "SECRETARIA DE OBRAS Y SERVICIOS",
+      "address": {
+        "streetAddress": "PLAZA DE LA COSNTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "07PH",
+      "nombre": "FIDEICOMISO CENTRO HISTORICO",
+      "address": {
+        "streetAddress": "NETZAHUALCOYOTL                                             120",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6080",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "07PV",
+      "nombre": "FIDICOMISO PARA EL MEJORAMIENTO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "801",
+      "nombre": "SECRETARIA DE DESARROLLO SOCIAL",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "08PE",
+      "nombre": "CONSEJO DE EVALUACION DEL",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "08PJ",
+      "nombre": "INSTITUTO DE LA JUVENTUD DEL",
+      "address": {
+        "streetAddress": "CALZ. MEXICO-TACUBA                                         235",
+        "locality": "MIGUEL HIDALGO, UN HOGAR PARA NOSOTROS",
+        "region": "DF",
+        "postalCode": "11330",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "08PM",
+      "nombre": "INSTITUTO DE LAS MUJERES DEL",
+      "address": {
+        "streetAddress": "TACUBA                                                      76",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6020",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "08PS",
+      "nombre": "PROCURADURIA SOCIAL DEL",
+      "address": {
+        "streetAddress": "COLIMA                                                      161",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6700",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "901",
+      "nombre": "SECRETARIA DE FINANZAS",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "09PC",
+      "nombre": "FIDEICOMISO DE RECUPERACION",
+      "address": {
+        "streetAddress": "NETZAHUALCOYOTL                                             120",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6080",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "09PD",
+      "nombre": "FIDEICOMISO PUBLICO \"CIUDAD DIGITAL\"",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "09FN",
+      "nombre": "FIDEICOMISO INNOVA",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "09FT",
+      "nombre": "FIDEICOMISO DE APOYO A LA",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "09PV",
+      "nombre": "PROCDMX, S.A DE C.V.",
+      "address": {
+        "streetAddress": "FRAY SERVANDO TERESA DE MIER                                77",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6800",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "1001",
+      "nombre": "SECRETARIA DE TRANSPORTES Y VIALIDAD",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "10PB",
+      "nombre": "METROBUS",
+      "address": {
+        "streetAddress": "CUAUHTEMOC                                                  16",
+        "locality": "CUAUHTEMOC, DOCTORES",
+        "region": "DF",
+        "postalCode": "6720",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "10PE",
+      "nombre": "SERVICIO DE TRANSPORTES ELECTRICOS",
+      "address": {
+        "streetAddress": "MUNICIPIO LIBRE                                             402",
+        "locality": "IZTAPALAPA, SAN ANDRES TETEPILCO",
+        "region": "DF",
+        "postalCode": "9440",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "10PM",
+      "nombre": "SISTEMA DE TRANSPORTE COLECTIVO",
+      "address": {
+        "streetAddress": "DELICIAS                                                    67",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6070",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  },
+  {
+    "dependencia": {
+      "id": "10PP",
+      "nombre": "FIDEICOMISO PARA EL FONDO",
+      "address": {
+        "streetAddress": "PLAZA DE LA CONSTITUCION                                    AREA1",
+        "locality": "CUAUHTEMOC,CENTRO",
+        "region": "DF",
+        "postalCode": "6000",
+        "countryName": "MX"
+      },
+      "contactPoint": {
+        "name": null,
+        "email": null,
+        "telephone": null,
+        "faxNumber": null,
+        "url": null
+      }
+    }
+  }
+]

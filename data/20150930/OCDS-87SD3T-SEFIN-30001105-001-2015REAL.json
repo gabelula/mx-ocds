@@ -1,0 +1,205 @@
+{
+	"uri": "http://inovacion.finanzas.df.gob.mx/ocds",
+	"publishedDate": "02/01/2015",
+	"publisher": {
+		"scheme": "http://innovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+		"name": "CDMX-SEFIN",
+		"uri": "http://www.finanzas.df.gob.mx/",
+		"uid": "901"
+	},
+	"releases": [{
+		"ocid": "OCDS-87SD3T-SEFIN-30001105-001-2015REAL",
+		"id": "1",
+		"date": "02/01/2015",
+		"tag": "contract",
+		"initiationType": "tender",
+		"planning": {
+			"budget": {
+				"amount": {
+					"amount": "14386309.34",
+					"currency": "mxn"
+				},
+				"project": "AUTORIZACION PRESUPUESTAL SPP/006/2015"
+			},
+			"documents": [{
+				"id": "1",
+				"title": "SUFICIENCIA",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/6_poa.xlsx",
+				"datePublished": "02/01/2015",
+				"format": "application/pdf",
+				"language": "es"
+			},
+			{
+				"id": "2",
+				"title": "SUFICIENCIA",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/19332.pdf",
+				"datePublished": "02/01/2015",
+				"format": "application/pdf",
+				"language": "es"
+			}]
+		},
+		"buyer": {
+			"identifier": "GDF-9712054NA",
+			"name": "GOBIERNO DEL DISTRITO FEDERAL (GDF)",
+			"address": {
+					"streetAddress": "DR. LAVISTA 144, ACCESO 2 SOTANO, COL. DOCTORES",
+					"locality": "MEXICO DF",
+					"region": "DF",
+					"postalCode": "06000",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "PEDRO JESUS LARA LASTRA",
+					"email": "plara@finanzas.df.gob.mx",
+					"telephone": "51342500",
+					"faxNumber": "51342500",
+					"url": "WWWW.FINANZAS.DF.GOB.MX"
+			}
+		},
+		"tender": {
+			"id": "OCDS-87SD3T-SEFIN-30001105-001-2015REAL",
+			"title": "SERVICIO DE LIMPIEZA",
+			"description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN",
+			"status": "completa",
+			"items": [{
+				"id": "1",
+				"description": "SERVICIO DE LIMPIEZA",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"value": {
+				"amount": "14386309.34",
+				"currency": "mxn"
+			},
+			"procurementMethod": "LICITACION",
+			"awardCriteria": "MEJOR PROPUESTA",
+			"submissionMethod": "ESCRITO",
+			"tenderPeriod": {
+				"startDate": "01/01/2015",
+				"endDate": "29/01/2015"
+			},
+			"enquiryPeriod": {
+				"startDate": "20/01/2015",
+				"endDate": "20/01/2015"
+			},
+			"hasEnquiries": null,
+			"eligibilityCriteria": " Servicio,Precio,Servicio,Precio,Servicio,Precio,S",
+			"awardPeriod": {
+				"startDate": "29/01/2015",
+				"endDate": "29/01/2015"
+			},
+			"numberOfTenderers": "1",
+			"tenders": [{
+				"identifier": "GLM970924397",
+				"name": "GRUPO DE LIMPIEZA Y MANTENIMIENTO",
+				"address": {
+				"streetAddress": "CERRO GORDO",
+				"locality": "JORGE JIMENEZ CANTU   TLALNEPANTLA",
+				"region": "MEX",
+				"postalCode": "54190",
+				"countryName": "MX"
+			},
+			"contactPoint": {
+				"name": "GIOVANNI RENE GUTIERREZ GONZALEZ",
+				"email": "GIOVANNI@HOTMAIL.COM",
+				"telephone": "56741062",
+				"faxNumber": "24550752",
+				"url": null
+			}
+			}],
+			"procuringEntity": {
+				"identifier": "GDF-9712054NA",
+				"name": "SECRETARIA DE FINANZAS",
+				"address": {
+					"streetAddress": "DR. LAVISTA 144, ACCESO 2 SOTANO, COL. DOCTORES",
+					"locality": "MEXICO DF",
+					"region": "DF",
+					"postalCode": "06000",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "PEDRO JESUS LARA LASTRA",
+					"email": "PLARA@FINANZAS.DF.GOB.MX",
+					"telephone": "51342500",
+					"faxNumber": "51342500",
+					"url": "WWWW.FINANZAS.DF.GOB.MX"
+				}
+			},
+			"documents": [{
+				"id": "1",
+				"title": "BASES",
+				"url": "http://innovacion.finanzas.df.gob.mx/ocpdesarro/bases_lpn_30001105_001_2015.pdf",
+				"datePublished": "14/01/2015",
+				"format": " application/pdf",
+				"language": "es"
+			}],
+			"milestones": [],
+			"amendment": null
+		},
+		"awards": [{
+			"id": "1",
+			"title": "SERVICIO DE LIMPIEZA",
+			"description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN",
+			"status": "pendiente",
+			"date": "28/09/2015",
+			"value": {
+				"amount": "4386309.34",
+				"currency": "mxn"
+			},
+			"suppliers": {
+				"identifier": "GLM970924397",
+				"name": "GRUPO DE LIMPIEZA Y MANTENIMIENTO",
+				"address": {
+				"streetAddress": "CERRO GORDO",
+				"locality": "JORGE JIMENEZ CANTU   TLALNEPANTLA",
+				"region": "MEX",
+				"postalCode": "54190",
+				"countryName": "MX"
+			},
+			"contactPoint": {
+				"name": "GIOVANNI RENE GUTIERREZ GONZALEZ",
+				"email": "GIOVANNI@HOTMAIL.COM",
+				"telephone": "56741062",
+				"faxNumber": "24550752",
+				"url": null
+			},
+				"additionalProperties": {
+					
+				}
+			},
+			"items": [{
+				"id": "1",
+				"description": "SERVICIO DE LIMPIEZA",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"documents": [],
+			"amendment": null
+		}],
+		"contracts": [{
+			"id": "1",
+			"awardID": "GLM970924397",
+			"title": "CS-011/2015",
+			"description": "LIMPIEZA A LOS INMUEBLES DE LA SEFIN",
+			"status": "pendiente",
+			"period": {
+				"startDate": "01/01/2015",
+				"endDate": "31/12/2015"
+			},
+			"value": {
+				"amount": "12760006.00",
+				"currency": "mxn"
+			},
+			"items": [{
+				"id": "1",
+				"description": "SERVICIO DE LIMPIEZA",
+				"quantity": "1",
+				"unit": "SER"
+			}],
+			"dateSigned": "29/09/2015",
+			"documents": [],
+			"amendment": null
+		}],
+		"language": "es"
+	}]
+}
