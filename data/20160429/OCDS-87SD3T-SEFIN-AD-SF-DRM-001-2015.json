@@ -1,0 +1,256 @@
+{
+  "uri": "http://innovacion.finanzas.df.gob.mx/OCDS/OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015.json",
+  "publishedDate": "2015-11-04T00:00:00-05:00",
+  "publisher": {
+    "scheme": "http://innovacion.finanzas.df.gob.mx/ocds/ArchivoJSONDep/Dependencias.json",
+    "name": "CDMX-SEFIN",
+    "uri": "http://www.finanzas.df.gob.mx/",
+    "uid": "901"
+  },
+  "releases": [
+    {
+      "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015",
+      "id": "1",
+      "date": "2015-11-04T00:00:00-05:00",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "planning": {
+        "budget": {
+          "amount": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "project": "AUTORIZACI�N PRESUPUESTAL SPP/454/2015"
+        },
+        "documents": []
+      },
+      "buyer": {
+        "identifier": {
+          "id": "0901",
+          "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONDep/Dependencias.json"
+        },
+        "name": "SECRETAR�A DE FINANZAS",
+        "address": {
+          "streetAddress": "DR. LAVISTA",
+          "locality": "M�XICO D. F.",
+          "region": "DF",
+          "postalCode": "06720",
+          "countryName": "MX"
+        },
+        "contactPoint": {
+          "name": "MIGUEL �NGEL VIDAL FRANCO",
+          "email": "mvidal@finanzas.df.gob.mx",
+          "telephone": "51342500",
+          "faxNumber": "51342500",
+          "url": "WWW.FINANZAS.DF.GOB.MX"
+        }
+      },
+      "tender": {
+        "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015",
+        "title": "MANTENIMIENTO EXTINTORES",
+        "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+        "status": "complete",
+        "items": [
+          {
+            "id": "1",
+            "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+            "quantity": 1,
+            "unit": {
+              "name": "SER"
+            }
+          }
+        ],
+        "value": {
+          "amount": 429000,
+          "currency": "MXN"
+        },
+        "procurementMethod": "limited",
+        "awardCriteria": "bestValueToGovernment",
+        "submissionMethod": [
+          "written"
+        ],
+        "tenderPeriod": {
+          "startDate": "2015-11-04T00:00:00-05:00",
+          "endDate": "2015-11-09T00:00:00-05:00"
+        },
+        "enquiryPeriod": {
+          "startDate": "2015-11-04T00:00:00-05:00",
+          "endDate": "2015-11-09T00:00:00-05:00"
+        },
+        "hasEnquiries": true,
+        "eligibilityCriteria": " Servicio,Condiciones,Precio,Otro&ANEXO TECNICO",
+        "awardPeriod": {
+          "startDate": "2015-11-09T00:00:00-05:00",
+          "endDate": "2015-11-17T00:00:00-05:00"
+        },
+        "numberOfTenderers": 3,
+        "tenderers": [
+          {
+            "identifier": {
+              "id": "DCO990909GBA",
+              "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+            },
+            "name": "DESARROLLO COMERCIAL ORION,",
+            "address": {
+              "streetAddress": "HERIBERTO FRIAS",
+              "locality": "BENITO JUAREZ",
+              "region": "DF",
+              "postalCode": "03100",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "ROGELIO IZKANDER CASABAL PEREZ",
+              "email": "No Capturado",
+              "telephone": "91830540",
+              "faxNumber": "91830540",
+              "url": "No Capturado"
+            }
+          },
+          {
+            "identifier": {
+              "id": "MEM8704099U1",
+              "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+            },
+            "name": "MARK EXTINGUISHER DE MEXICO,",
+            "address": {
+              "streetAddress": "OTUMBA",
+              "locality": "TLALNEPANTLA EDO. DE MEXICO",
+              "region": "MEX",
+              "postalCode": "54070",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "ARTURO ORTEGA PORCAYO",
+              "email": "No Capturado",
+              "telephone": "53611536",
+              "faxNumber": "53611536",
+              "url": "WWW.MAKSEGURIDAD.COM"
+            }
+          },
+          {
+            "identifier": {
+              "id": "SIC0306206M8",
+              "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+            },
+            "name": "SERVICIOS INTEGRALES CONTRA INCENDI",
+            "address": {
+              "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+              "locality": "SAN MATEO; AZCAPOTZALCO",
+              "region": "DF",
+              "postalCode": "02490",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "DIANA IRIS TOUS AMEZCUA",
+              "email": "No Capturado",
+              "telephone": "55614071",
+              "faxNumber": "55614071",
+              "url": "No Capturado"
+            }
+          }
+        ],
+        "procuringEntity": {
+          "identifier": {
+            "id": "0901",
+            "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONDep/Dependencias.json"
+          },
+          "name": "SECRETARiA DE FINANZAS",
+          "address": {
+            "streetAddress": "DR. LAVISTA",
+            "locality": "M�XICO D. F.",
+            "region": "DF",
+            "postalCode": "06720",
+            "countryName": "MX"
+          },
+          "contactPoint": {
+            "name": "PEDRO JES�S LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx",
+            "telephone": "51342500",
+            "faxNumber": "51342500",
+            "url": "WWW.FINANZAS.DF.GOB.MX"
+          }
+        },
+        "documents": []
+      },
+      "awards": [
+        {
+          "id": "1",
+          "title": "MANTENIMIENTO EXTINTORES",
+          "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+          "status": "active",
+          "date": "2016-01-28T00:00:00-05:00",
+          "value": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "suppliers": [
+            {
+              "identifier": {
+                "id": "SIC0306206M8",
+                "uri": "http://10.1.65.188/achavez/OCDS/ArchivoJSONProv/Proveedores.json"
+              },
+              "name": "SERVICIOS INTEGRALES CONTRA INCENDI",
+              "address": {
+                "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+                "locality": "SAN MATEO; AZCAPOTZALCO",
+                "region": "DF",
+                "postalCode": "02490",
+                "countryName": "MX"
+              },
+              "contactPoint": {
+                "name": "DIANA IRIS TOUS AMEZCUA",
+                "email": "No Capturado",
+                "telephone": "55614071",
+                "faxNumber": "55614071",
+                "url": "No Capturado"
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "1",
+              "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+              "quantity": 369827,
+              "unit": {
+                "name": "SER"
+              }
+            }
+          ],
+          "documents": []
+        }
+      ],
+      "contracts": [
+        {
+          "id": "1",
+          "awardID": "1",
+          "title": "CS-092/2015",
+          "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+          "status": "active",
+          "period": {
+            "startDate": "2015-11-13T00:00:00-05:00",
+            "endDate": "2015-12-31T00:00:00-05:00"
+          },
+          "value": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "items": [
+            {
+              "id": "1",
+              "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+              "quantity": 369827,
+              "unit": {
+                "name": "SER"
+              }
+            }
+          ],
+          "dateSigned": null,
+          "documents": []
+        }
+      ],
+      "language": "es"
+    }
+  ]
+}
