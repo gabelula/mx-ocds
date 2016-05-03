@@ -35,7 +35,7 @@ We need to model:
 - "If there is then a desire to show the break-down of amounts for each year, I would suggest considering whether this could be done with line-items. E.g., having a line-item for 2015, one for 2016 and so-on, each with the specific values for that year."
 
 
-"planning": {
+``"planning": {
                 "budget": {
                   "period": {
                         "startDate":"2015-11-04T00:00:00-06:00",
@@ -48,13 +48,13 @@ We need to model:
                     },
                     "project": "AUTORIZACION PRESUPUESTAL SPP/471/2015"
                 }
-            }
+            }``
 
 
 
 ##### Sample of data
 
-"planning": {
+``"planning": {
                 "budget": {
                     "amount": {
                         "amount": 20054250.52,  // budget for all the years
@@ -69,9 +69,9 @@ We need to model:
                     "project": "AUTORIZACION PRESUPUESTAL SPP/471/2015"
                 },
                 "documents": []
-       }
+       }``
 
-       "contracts": [
+``       "contracts": [
                 {
                     "id": "1",
                     "awardID": "1",
@@ -104,8 +104,8 @@ We need to model:
                     "dateSigned": "2015-11-27T00:00:00-06:00",
                     "documents": []
                 }
-       ]
-       
+       ]``
+
 ##### Justification
 
 ## Compare Federal vs CDMX
