@@ -35,7 +35,8 @@ We need to model:
 - "If there is then a desire to show the break-down of amounts for each year, I would suggest considering whether this could be done with line-items. E.g., having a line-item for 2015, one for 2016 and so-on, each with the specific values for that year."
 
 
-* Planning
+###### Planning
+
 ```
 "planning": {
                 "budget": {
@@ -53,10 +54,10 @@ We need to model:
             }
 ```
 
-- bandera multiyear
-- amount is para total
-- no agregamos period pues ya estara en contract.period
-- amount per year para cada año <--- estimado de presupuesto para ese año (va a depender del valor del dolar)
+- multiyear flag : we need a way to know if this is a multi-year budget
+- amount is for the total (as in the OCDS)
+- we do not add period because it is going to be in the contract.period
+- amount per year for each year : estimated budget for each year (it depends a lot on the dollar/mxn rate)
 
 ```
        "contracts": [
@@ -94,6 +95,10 @@ We need to model:
                 }
        ]
 ```
+
+- multiyear : this is a multi-year contract
+- period : period startDate and endDate for the whole time of the contract
+- valueYear : value per year spend on this contract
 
 ##### Sample of data
 
