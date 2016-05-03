@@ -35,44 +35,28 @@ We need to model:
 - "If there is then a desire to show the break-down of amounts for each year, I would suggest considering whether this could be done with line-items. E.g., having a line-item for 2015, one for 2016 and so-on, each with the specific values for that year."
 
 
+* Planning
 ```
 "planning": {
                 "budget": {
-                  "period": {
-                        "startDate":"2015-11-04T00:00:00-06:00",
-                        "endDate":"2019-11-04T00:00:00-06:00",
-                        "multiYear": true
-                    },
+                    "multiYear": true
                     "amount": {
                         "amount": 7054250.52,
                         "currency": "MXN"
                     },
+                    "amountYear": {
+                      "amount": 1000,
+                      "currency": "MXN"
+                    }
                     "project": "AUTORIZACION PRESUPUESTAL SPP/471/2015"
                 }
             }
 ```
 
-
-##### Sample of data
-
-```
-"planning": {
-                "budget": {
-                    "amount": {
-                        "amount": 20054250.52,  // budget for all the years
-                        "currency": "MXN"
-                    },
-                    "multiYear": true ,
-                      "amountPerYear": {       
-                        "amount": 7054250.52,  // budget assigned for that year
-                        "currency": "MXN"
-                    },
-                    "rationale": "",
-                    "project": "AUTORIZACION PRESUPUESTAL SPP/471/2015"
-                },
-                "documents": []
-       }
-```
+- bandera multiyear
+- amount is para total
+- no agregamos period pues ya estara en contract.period
+- amount per year para cada año <--- estimado de presupuesto para ese año (va a depender del valor del dolar)
 
 ```
        "contracts": [
@@ -85,13 +69,13 @@ We need to model:
                     "multiYear": true
                     "period": {
                         "startDate": "2015-11-27T00:00:00-06:00",  
-                        "endDate": "2016-12-31T00:00:00-06:00"
+                        "endDate": "2019-12-31T00:00:00-06:00"
                     },
                     "value": {
                          "amount": 1209300.00,  //  total value for the contract for all the years
                          "currency": "USD"
                     },
-                    "valuePerYear": {
+                    "valueYear": {
                         "amount": 403100.03,  // this is only for 2015
                         "currency": "USD"
                     },   
@@ -110,6 +94,9 @@ We need to model:
                 }
        ]
 ```
+
+##### Sample of data
+
 
 ##### Justification
 
