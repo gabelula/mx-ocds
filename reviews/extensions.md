@@ -59,6 +59,8 @@ We need to model:
 - we do not add period because it is going to be in the contract.period
 - amount per year for each year : estimated budget for each year (it depends a lot on the dollar/mxn rate)
 
+###### Contract
+
 ```
        "contracts": [
                 {
