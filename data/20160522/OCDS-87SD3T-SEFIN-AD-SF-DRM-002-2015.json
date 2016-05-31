@@ -1,1 +1,375 @@
-{"publisher": {"uid": "901", "scheme": "http://www.contratosabiertos.cdmx.gob.mx", "name": "CDMX-SEFIN", "uri": "http://www.finanzas.df.gob.mx/"}, "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015", "releases": [{"language": "es", "contracts": [{"status": "active", "documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cad_031_2015_20160505_140802.pdf", "title": "CONTRATO CAD/031/2015", "datePublished": "2015-11-13T00:00:00-05:00", "id": "1"}], "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO", "title": "CAD/031/2015", "items": [{"quantity": 30, "id": "1", "unit": {"name": "PZA"}, "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"}, {"quantity": 13, "id": "2", "unit": {"name": "PZA"}, "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"}, {"quantity": 16, "id": "3", "unit": {"name": "PZA"}, "description": "PRISMA CON PORTA PRISMA Y BASTON"}, {"quantity": 16, "id": "4", "unit": {"name": "PZA"}, "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"}, {"quantity": 2, "id": "5", "unit": {"name": "PZA"}, "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"}], "period": {"startDate": "2015-11-13T00:00:00-05:00", "endDate": "2015-12-31T00:00:00-05:00"}, "value": {"currency": "MXN", "amount": 236083.2}, "dateSigned": "2015-11-13T00:00:00-05:00", "awardID": "1", "id": "1"}], "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015", "tag": ["contract"], "initiationType": "tender", "buyer": {"contactPoint": {"telephone": "51342500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "51342500", "name": "MIGUEL ÁNGEL VIDAL FRANCO", "email": "mvidal@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "planning": {"documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizaciones_275_277_234_20160505_144033.pdf", "title": "AUTORIZACION PRESUPUESTAL 275 277 234", "datePublished": "2015-07-02T00:00:00-05:00", "id": "1"}], "budget": {"project": "AUTORIZACIÓN PRESUPUESTAL SPP/277/2015", "amount": {"currency": "MXN", "amount": 241430.8}}}, "awards": [{"status": "pending", "documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/adjudicacion_3565_20160505_144205.pdf", "title": "OFICIO DE ADJUDICACION 3565", "datePublished": "2015-11-13T00:00:00-05:00", "id": "1"}], "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO", "title": "DIVERSOS MATERIALES TOPOGRAFICOS", "items": [{"quantity": 2, "id": "1", "unit": {"name": "PZA"}, "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"}, {"quantity": 13, "id": "2", "unit": {"name": "PZA"}, "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"}, {"quantity": 30, "id": "3", "unit": {"name": "PZA"}, "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"}, {"quantity": 16, "id": "4", "unit": {"name": "PZA"}, "description": "PRISMA CON PORTA PRISMA Y BASTON"}, {"quantity": 16, "id": "5", "unit": {"name": "PZA"}, "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"}], "suppliers": [{"contactPoint": {"telephone": "33300776", "url": "WWW.SYSTOP.COM.MX", "faxNumber": "33300776", "name": "EMMANUEL DELGADO ZAMILPA", "email": "juan.delgado@systop.com.mx"}, "identifier": {"id": "SST020927197", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SISTEMAS Y SERVICIOS PARA TOPOGRAFI", "address": {"postalCode": "03650", "countryName": "MX", "streetAddress": "MATIAS ROMERO", "region": "DF", "locality": "BENITO JUAREZ"}}], "value": {"currency": "MXN", "amount": 236083.2}, "date": "2016-01-27T00:00:00-05:00", "id": "1"}], "date": "2015-05-29T00:00:00-05:00", "tender": {"status": "complete", "procurementMethod": "limited", "eligibilityCriteria": " Servicio,Condiciones,Precio", "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO", "title": "DIVERSOS MATERIALES TOPOGRAFICOS", "items": [{"quantity": 2, "id": "1", "unit": {"name": "PZA"}, "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"}, {"quantity": 13, "id": "2", "unit": {"name": "PZA"}, "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"}, {"quantity": 30, "id": "3", "unit": {"name": "PZA"}, "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"}, {"quantity": 16, "id": "4", "unit": {"name": "PZA"}, "description": "PRISMA CON PORTA PRISMA Y BASTON"}, {"quantity": 16, "id": "5", "unit": {"name": "PZA"}, "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"}], "tenderers": [{"contactPoint": {"telephone": "33300776", "url": "WWW.SYSTOP.COM.MX", "faxNumber": "33300776", "name": "EMMANUEL DELGADO ZAMILPA", "email": "juan.delgado@systop.com.mx"}, "identifier": {"id": "SST020927197", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SISTEMAS Y SERVICIOS PARA TOPOGRAFI", "address": {"postalCode": "03650", "countryName": "MX", "streetAddress": "MATIAS ROMERO", "region": "DF", "locality": "BENITO JUAREZ"}}, {"contactPoint": {"telephone": "012717145415", "url": "No Capturado", "faxNumber": "012717145415", "name": "ANDRÉS O. LARA GARCÍA", "email": "No Capturado"}, "identifier": {"id": "VIE110408KH5", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "VECTORES LAS ING EST CONST Y SUP", "address": {"postalCode": "94590", "countryName": "MX", "streetAddress": "CALLE 19", "region": "VER", "locality": "COL BENITO JUAREZ, CORDOBA VER"}}], "value": {"currency": "MXN", "amount": 241430.8}, "submissionMethod": ["written"], "procuringEntity": {"contactPoint": {"telephone": "5134-2500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "5134-2500", "name": "PEDRO JESÚS LARA LASTRA", "email": "plara@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "awardPeriod": {"startDate": "2015-11-13T00:00:00-05:00", "endDate": "2015-11-13T00:00:00-05:00"}, "awardCriteria": "bestValueToGovernment", "enquiryPeriod": {"startDate": null, "endDate": null}, "documents": [{"language": "es", "format": " application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/req_316_317_318_319_320_20160505_144122.pdf", "title": "REQUISICION 316 317 318 319 320", "datePublished": "2015-05-29T00:00:00-05:00", "id": "1"}, {"language": "es", "format": " application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/estudio_precios_20160505_144142.pdf", "title": "ESTUDIO DE PRECIO DE MERCADO", "datePublished": "2015-06-03T00:00:00-05:00", "id": "2"}], "hasEnquiries": true, "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015", "numberOfTenderers": 2, "tenderPeriod": {"startDate": "2015-06-02T00:00:00-05:00", "endDate": "2015-06-02T00:00:00-05:00"}}, "id": "1"}], "publishedDate": "2015-05-29T00:00:00-05:00"}
+{
+  "publisher": {
+    "uid": "901",
+    "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+    "name": "CDMX-SEFIN",
+    "uri": "http://www.finanzas.df.gob.mx/"
+  },
+  "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015",
+  "releases": [
+    {
+      "language": "es",
+      "contracts": [
+        {
+          "status": "active",
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cad_031_2015_20160505_140802.pdf",
+              "title": "CONTRATO CAD/031/2015",
+              "datePublished": "2015-11-13T00:00:00-05:00",
+              "id": "1"
+            }
+          ],
+          "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO",
+          "title": "CAD/031/2015",
+          "items": [
+            {
+              "quantity": 30,
+              "id": "1",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"
+            },
+            {
+              "quantity": 13,
+              "id": "2",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"
+            },
+            {
+              "quantity": 16,
+              "id": "3",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "PRISMA CON PORTA PRISMA Y BASTON"
+            },
+            {
+              "quantity": 16,
+              "id": "4",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"
+            },
+            {
+              "quantity": 2,
+              "id": "5",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"
+            }
+          ],
+          "period": {
+            "startDate": "2015-11-13T00:00:00-05:00",
+            "endDate": "2015-12-31T00:00:00-05:00"
+          },
+          "value": {
+            "currency": "MXN",
+            "amount": 236083.2
+          },
+          "dateSigned": "2015-11-13T00:00:00-05:00",
+          "awardID": "1",
+          "id": "1"
+        }
+      ],
+      "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "contactPoint": {
+          "telephone": "51342500",
+          "url": "WWW.FINANZAS.DF.GOB.MX",
+          "faxNumber": "51342500",
+          "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+          "email": "mvidal@finanzas.df.gob.mx"
+        },
+        "identifier": {
+          "id": "GDF9712054NA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        },
+        "name": "SECRETARÍA DE FINANZAS",
+        "address": {
+          "postalCode": "6720",
+          "countryName": "MX",
+          "streetAddress": "DR. LAVISTA",
+          "region": "DF",
+          "locality": "MÉXICO D. F."
+        }
+      },
+      "planning": {
+        "documents": [
+          {
+            "language": "es",
+            "format": "application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizaciones_275_277_234_20160505_144033.pdf",
+            "title": "AUTORIZACION PRESUPUESTAL 275 277 234",
+            "datePublished": "2015-07-02T00:00:00-05:00",
+            "id": "1"
+          }
+        ],
+        "budget": {
+          "project": "AUTORIZACIÓN PRESUPUESTAL SPP/277/2015",
+          "amount": {
+            "currency": "MXN",
+            "amount": 241430.8
+          }
+        }
+      },
+      "awards": [
+        {
+          "status": "pending",
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/adjudicacion_3565_20160505_144205.pdf",
+              "title": "OFICIO DE ADJUDICACION 3565",
+              "datePublished": "2015-11-13T00:00:00-05:00",
+              "id": "1"
+            }
+          ],
+          "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO",
+          "title": "DIVERSOS MATERIALES TOPOGRAFICOS",
+          "items": [
+            {
+              "quantity": 2,
+              "id": "1",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"
+            },
+            {
+              "quantity": 13,
+              "id": "2",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"
+            },
+            {
+              "quantity": 30,
+              "id": "3",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"
+            },
+            {
+              "quantity": 16,
+              "id": "4",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "PRISMA CON PORTA PRISMA Y BASTON"
+            },
+            {
+              "quantity": 16,
+              "id": "5",
+              "unit": {
+                "name": "PZA"
+              },
+              "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"
+            }
+          ],
+          "suppliers": [
+            {
+              "contactPoint": {
+                "telephone": "33300776",
+                "url": "WWW.SYSTOP.COM.MX",
+                "faxNumber": "33300776",
+                "name": "EMMANUEL DELGADO ZAMILPA",
+                "email": "juan.delgado@systop.com.mx"
+              },
+              "identifier": {
+                "id": "SST020927197",
+                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+              },
+              "name": "SISTEMAS Y SERVICIOS PARA TOPOGRAFI",
+              "address": {
+                "postalCode": "03650",
+                "countryName": "MX",
+                "streetAddress": "MATIAS ROMERO",
+                "region": "DF",
+                "locality": "BENITO JUAREZ"
+              }
+            }
+          ],
+          "value": {
+            "currency": "MXN",
+            "amount": 236083.2
+          },
+          "date": "2016-01-27T00:00:00-05:00",
+          "id": "1"
+        }
+      ],
+      "date": "2015-05-29T00:00:00-05:00",
+      "tender": {
+        "status": "complete",
+        "procurementMethod": "limited",
+        "eligibilityCriteria": " Servicio,Condiciones,Precio",
+        "description": "HERRAMIENTAS MENORES Y MATERIAL ELECTRICO",
+        "title": "DIVERSOS MATERIALES TOPOGRAFICOS",
+        "items": [
+          {
+            "quantity": 2,
+            "id": "1",
+            "unit": {
+              "name": "PZA"
+            },
+            "description": "CARGADOR P/4 BATERIAS RECARGABLES LEICA"
+          },
+          {
+            "quantity": 13,
+            "id": "2",
+            "unit": {
+              "name": "PZA"
+            },
+            "description": "BATERIA RECARGABLE TIPO LEICA MOD.GEB111"
+          },
+          {
+            "quantity": 30,
+            "id": "3",
+            "unit": {
+              "name": "PZA"
+            },
+            "description": "FLEXOMETRO (CINTA METALICA D/CRUCETA)60M"
+          },
+          {
+            "quantity": 16,
+            "id": "4",
+            "unit": {
+              "name": "PZA"
+            },
+            "description": "PRISMA CON PORTA PRISMA Y BASTON"
+          },
+          {
+            "quantity": 16,
+            "id": "5",
+            "unit": {
+              "name": "PZA"
+            },
+            "description": "TRIPIE P/ESTACION TOTAL LEICA MOD.TCR 30"
+          }
+        ],
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "33300776",
+              "url": "WWW.SYSTOP.COM.MX",
+              "faxNumber": "33300776",
+              "name": "EMMANUEL DELGADO ZAMILPA",
+              "email": "juan.delgado@systop.com.mx"
+            },
+            "identifier": {
+              "id": "SST020927197",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "SISTEMAS Y SERVICIOS PARA TOPOGRAFI",
+            "address": {
+              "postalCode": "03650",
+              "countryName": "MX",
+              "streetAddress": "MATIAS ROMERO",
+              "region": "DF",
+              "locality": "BENITO JUAREZ"
+            }
+          },
+          {
+            "contactPoint": {
+              "telephone": "012717145415",
+              "url": "No Capturado",
+              "faxNumber": "012717145415",
+              "name": "ANDRÉS O. LARA GARCÍA",
+              "email": "No Capturado"
+            },
+            "identifier": {
+              "id": "VIE110408KH5",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "VECTORES LAS ING EST CONST Y SUP",
+            "address": {
+              "postalCode": "94590",
+              "countryName": "MX",
+              "streetAddress": "CALLE 19",
+              "region": "VER",
+              "locality": "COL BENITO JUAREZ, CORDOBA VER"
+            }
+          }
+        ],
+        "value": {
+          "currency": "MXN",
+          "amount": 241430.8
+        },
+        "submissionMethod": [
+          "written"
+        ],
+        "procuringEntity": {
+          "contactPoint": {
+            "telephone": "5134-2500",
+            "url": "WWW.FINANZAS.DF.GOB.MX",
+            "faxNumber": "5134-2500",
+            "name": "PEDRO JESÚS LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx"
+          },
+          "identifier": {
+            "id": "GDF9712054NA",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          },
+          "name": "SECRETARÍA DE FINANZAS",
+          "address": {
+            "postalCode": "6720",
+            "countryName": "MX",
+            "streetAddress": "DR. LAVISTA",
+            "region": "DF",
+            "locality": "MÉXICO D. F."
+          }
+        },
+        "awardPeriod": {
+          "startDate": "2015-11-13T00:00:00-05:00",
+          "endDate": "2015-11-13T00:00:00-05:00"
+        },
+        "awardCriteria": "bestValueToGovernment",
+        "enquiryPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "documents": [
+          {
+            "language": "es",
+            "format": " application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/req_316_317_318_319_320_20160505_144122.pdf",
+            "title": "REQUISICION 316 317 318 319 320",
+            "datePublished": "2015-05-29T00:00:00-05:00",
+            "id": "1"
+          },
+          {
+            "language": "es",
+            "format": " application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/estudio_precios_20160505_144142.pdf",
+            "title": "ESTUDIO DE PRECIO DE MERCADO",
+            "datePublished": "2015-06-03T00:00:00-05:00",
+            "id": "2"
+          }
+        ],
+        "hasEnquiries": true,
+        "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015",
+        "numberOfTenderers": 2,
+        "tenderPeriod": {
+          "startDate": "2015-06-02T00:00:00-05:00",
+          "endDate": "2015-06-02T00:00:00-05:00"
+        }
+      },
+      "id": "1"
+    }
+  ],
+  "publishedDate": "2015-05-29T00:00:00-05:00"
+}

@@ -55,7 +55,7 @@
       "buyer": {
         "contactPoint": {
           "telephone": "51342500",
-          "url": "WWW.FINANZAS.DF.GOB.MX",
+          "url": "http://WWW.FINANZAS.DF.GOB.MX",
           "faxNumber": "51342500",
           "name": "MIGUEL ÁNGEL VIDAL FRANCO",
           "email": "mvidal@finanzas.df.gob.mx"
@@ -121,7 +121,6 @@
             {
               "contactPoint": {
                 "telephone": "55614071",
-                "url": "No Capturado",
                 "faxNumber": "55614071",
                 "name": "DIANA IRIS TOUS AMEZCUA",
                 "email": "No Capturado"
@@ -169,7 +168,6 @@
           {
             "contactPoint": {
               "telephone": "91830540",
-              "url": "No Capturado",
               "faxNumber": "91830540",
               "name": "ROGELIO IZKANDER CASABAL PEREZ",
               "email": "No Capturado"
@@ -190,7 +188,7 @@
           {
             "contactPoint": {
               "telephone": "53611536",
-              "url": "WWW.MAKSEGURIDAD.COM",
+              "url": "http://WWW.MAKSEGURIDAD.COM",
               "faxNumber": "53611536",
               "name": "ARTURO ORTEGA PORCAYO",
               "email": "No Capturado"
@@ -211,7 +209,6 @@
           {
             "contactPoint": {
               "telephone": "55614071",
-              "url": "No Capturado",
               "faxNumber": "55614071",
               "name": "DIANA IRIS TOUS AMEZCUA",
               "email": "No Capturado"
@@ -240,7 +237,7 @@
         "procuringEntity": {
           "contactPoint": {
             "telephone": "5134-2500",
-            "url": "WWW.FINANZAS.DF.GOB.MX",
+            "url": "http://WWW.FINANZAS.DF.GOB.MX",
             "faxNumber": "5134-2500",
             "name": "PEDRO JESÚS LARA LASTRA",
             "email": "plara@finanzas.df.gob.mx"
