@@ -241,30 +241,30 @@ if len(contract_completeness) != 0:
         if len (contract_completeness[a]) != 0:
             print 'Average Completenes %8.2f ' %  (sum(contract_completeness[c].values())/len(contract_completeness[c]))
 
-# Summarize to CSV for PLOTTING
-with open('tags.csv', 'w') as csvfile:
-    fieldnames = tag.keys()
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerow(tag)
-
-with open('published_dates.csv', 'w') as csvfile:
-    fieldnames = published_date.keys()
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerow(published_date)
-
-with open('award_criteria.csv', 'w') as csvfile:
-    fieldnames = award_criteria.keys()
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerow(award_criteria)
-
-with open('award_period.csv', 'w') as csvfile:
-    fieldnames = award_period.keys()
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerow(award_period)
+# # Summarize to CSV for PLOTTING
+# with open('tags.csv', 'w') as csvfile:
+#     fieldnames = tag.keys()
+#     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#     writer.writeheader()
+#     writer.writerow(tag)
+#
+# with open('published_dates.csv', 'w') as csvfile:
+#     fieldnames = published_date.keys()
+#     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#     writer.writeheader()
+#     writer.writerow(published_date)
+#
+# with open('award_criteria.csv', 'w') as csvfile:
+#     fieldnames = award_criteria.keys()
+#     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#     writer.writeheader()
+#     writer.writerow(award_criteria)
+#
+# with open('award_period.csv', 'w') as csvfile:
+#     fieldnames = award_period.keys()
+#     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#     writer.writeheader()
+#     writer.writerow(award_period)
 # enquiry_period = {}
 # has_enquiries = {}
 # eligibility_criteria = {}
@@ -285,7 +285,7 @@ with open('award_period.csv', 'w') as csvfile:
 
 # PLOTTING
 
-print tag
-series = pd.Series(tag.keys(), tag.values(), name='tags')
-series.plot(kind='pie', figsize=(6, 6))
-plt.savefig('tags.png', bbox_inches='tight')
+# print tag
+# series = pd.Series(tag.keys(), tag.values(), name='tags')
+# series.plot(kind='pie', figsize=(6, 6))
+# plt.savefig('tags.png', bbox_inches='tight')

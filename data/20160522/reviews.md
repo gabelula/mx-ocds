@@ -34,6 +34,7 @@ WWW.MAKSEGURIDAD.COM' is not a 'uri'
 
 # Notes
 
+- Extension on multi-year
 - Each time they publish data they are publishing only one release
 However, there is a potential issue with the release.id, which appears to always be '1'. It would be useful to prefix the full OCID onto this, so that if someone did want to bundle together multiple releases in future, they would not need to change the release IDs in order to make sure all release IDs in the package are unique (see http://standard.open-contracting.org/latest/en/schema/identifiers/#local-identifiers)
 
@@ -42,7 +43,7 @@ However, there is a potential issue with the release.id, which appears to always
   - 20% award
   - 7% tender
 
-- Exchange Rate: CDMX need it in award, contract and implementation phases.
+- Exchange Rate: CDMX need it in award, contract and implementation phases. https://github.com/open-contracting/standard/issues/277
 
 # Phases
 
@@ -89,6 +90,8 @@ Number of tenderers
 - 27% - 2
 - 33% - 3
 
+Are they only adding the tenderers that are already in their system (that have won an award before).
+
 procurement method
 
 - 73% limited
@@ -99,7 +102,9 @@ status
 - 93% complete
 - 7% active
 
-submission method is alwas 'written'
+For the active one, check if they added a contract phase or not.
+
+submission method is always 'written'
 
 documents
   - 38% "Estudio de Precio de Mercado"
@@ -114,6 +119,7 @@ procuring entity
 
 tenderers
   identifier.URI is not going to a list of providers
+  publish the list of providers or remove identifier?
 
 ## Awards
 ## Contracts
