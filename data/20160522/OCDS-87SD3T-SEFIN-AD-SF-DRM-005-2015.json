@@ -1,1 +1,233 @@
-{"publisher": {"uid": "901", "scheme": "http://www.contratosabiertos.cdmx.gob.mx", "name": "CDMX-SEFIN", "uri": "http://www.finanzas.df.gob.mx/"}, "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015", "releases": [{"language": "es", "contracts": [], "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015", "tag": ["award"], "initiationType": "tender", "buyer": {"contactPoint": {"telephone": "51342500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "51342500", "name": "MIGUEL ÁNGEL VIDAL FRANCO", "email": "mvidal@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "planning": {"documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizacion_412_20160505_143807.pdf", "title": "AUTORIZACION PRESUPUESTAL 412", "datePublished": "2015-10-26T00:00:00-05:00", "id": "1"}], "budget": {"project": "AUTORIZACIÓN PRESUPUESTAL SPP/412/2015", "amount": {"currency": "MXN", "amount": 418383}}}, "awards": [{"status": "pending", "documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/adjudicacion_3563_20160505_143928.pdf", "title": "OFICIO DE ADJUDICACION 3563", "datePublished": "2015-11-13T00:00:00-05:00", "id": "1"}], "description": "SER INTEGRAL E INSTALACION TRANSFORMADOR PERISUR", "title": "SERVICIO INTEGRAL", "items": [], "suppliers": [{"contactPoint": {"telephone": "54855922", "url": "WWW.SITSA.MX", "faxNumber": "54855922", "name": "RAFAEL JAUREGUI RUIZ", "email": "No Capturado"}, "identifier": {"id": "SIT020308GRA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SERVICIO INDUSTRIAL TECNICO SA DE C", "address": {"postalCode": "04850", "countryName": "MX", "streetAddress": "MIGUEL HIDALGO", "region": "DF", "locality": "EJIDO DE SANTA URSULA COAPA     COYOACAN"}}], "value": {"currency": "MXN", "amount": 418383}, "date": "2016-05-03T00:00:00-05:00", "id": "1"}], "date": "2015-09-04T00:00:00-05:00", "tender": {"status": "complete", "procurementMethod": "limited", "eligibilityCriteria": " Servicio,Condiciones,Precio,Otro&ANEXO TECNICO", "description": "SER INTEGRAL E INSTALACION TRANSFORMADOR PERISUR", "title": "SERVICIO INTEGRAL", "items": [{"quantity": 1, "id": "1", "unit": {"name": "SER"}, "description": "SERVICIO E INSTALACION DE TRANSFORMADOR"}], "tenderers": [{"contactPoint": {"telephone": "21564102", "url": "WWW.SCANDIESEL.COM.MX", "faxNumber": "21564102", "name": "EDNA ELISA SANCHEZ ALVAREZ", "email": "No Capturado"}, "identifier": {"id": "ISG000613L14", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SCANDIESEL, S. A. DE C. V.", "address": {"postalCode": "14420", "countryName": "MX", "streetAddress": "AV. CAMINO A LA CANTERA", "region": "DF", "locality": "COL. SANTA URSULA XITLA"}}, {"contactPoint": {"telephone": "54855922", "url": "WWW.SITSA.MX", "faxNumber": "54855922", "name": "RAFAEL JAUREGUI RUIZ", "email": "No Capturado"}, "identifier": {"id": "SIT020308GRA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SERVICIO INDUSTRIAL TECNICO SA DE CV", "address": {"postalCode": "04850", "countryName": "MX", "streetAddress": "MIGUEL HIDALGO", "region": "DF", "locality": "EJIDO DE SANTA URSULA COAPA     COYOACAN"}}], "value": {"currency": "MXN", "amount": 418383}, "submissionMethod": ["written"], "procuringEntity": {"contactPoint": {"telephone": "5134-2500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "5134-2500", "name": "PEDRO JESÚS LARA LASTRA", "email": "plara@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "awardPeriod": {"startDate": "2015-11-10T00:00:00-05:00", "endDate": "2015-11-13T00:00:00-05:00"}, "awardCriteria": "bestValueToGovernment", "enquiryPeriod": {"startDate": "2015-10-05T00:00:00-05:00", "endDate": "2015-10-07T00:00:00-05:00"}, "documents": [{"language": "es", "format": " application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/requisicion_423_20160505_143843.pdf", "title": "REQUISICION 423", "datePublished": "2015-09-04T00:00:00-05:00", "id": "1"}, {"language": "es", "format": " application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/estudio_precios_20160505_143905.pdf", "title": "ESTUDIO DE PRECIO DE MERCADO", "datePublished": "2015-10-09T00:00:00-05:00", "id": "2"}], "hasEnquiries": true, "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015", "numberOfTenderers": 2, "tenderPeriod": {"startDate": "2015-10-05T00:00:00-05:00", "endDate": "2015-10-07T00:00:00-05:00"}}, "id": "1"}], "publishedDate": "2015-09-04T00:00:00-05:00"}
+{
+  "publisher": {
+    "uid": "901",
+    "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+    "name": "CDMX-SEFIN",
+    "uri": "http://www.finanzas.df.gob.mx/"
+  },
+  "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015",
+  "releases": [
+    {
+      "language": "es",
+      "contracts": [],
+      "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "contactPoint": {
+          "telephone": "51342500",
+          "url": "WWW.FINANZAS.DF.GOB.MX",
+          "faxNumber": "51342500",
+          "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+          "email": "mvidal@finanzas.df.gob.mx"
+        },
+        "identifier": {
+          "id": "GDF9712054NA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        },
+        "name": "SECRETARÍA DE FINANZAS",
+        "address": {
+          "postalCode": "6720",
+          "countryName": "MX",
+          "streetAddress": "DR. LAVISTA",
+          "region": "DF",
+          "locality": "MÉXICO D. F."
+        }
+      },
+      "planning": {
+        "documents": [
+          {
+            "language": "es",
+            "format": "application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizacion_412_20160505_143807.pdf",
+            "title": "AUTORIZACION PRESUPUESTAL 412",
+            "datePublished": "2015-10-26T00:00:00-05:00",
+            "id": "1"
+          }
+        ],
+        "budget": {
+          "project": "AUTORIZACIÓN PRESUPUESTAL SPP/412/2015",
+          "amount": {
+            "currency": "MXN",
+            "amount": 418383
+          }
+        }
+      },
+      "awards": [
+        {
+          "status": "pending",
+          "documents": [
+            {
+              "language": "es",
+              "format": "application/pdf",
+              "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/adjudicacion_3563_20160505_143928.pdf",
+              "title": "OFICIO DE ADJUDICACION 3563",
+              "datePublished": "2015-11-13T00:00:00-05:00",
+              "id": "1"
+            }
+          ],
+          "description": "SER INTEGRAL E INSTALACION TRANSFORMADOR PERISUR",
+          "title": "SERVICIO INTEGRAL",
+          "items": [],
+          "suppliers": [
+            {
+              "contactPoint": {
+                "telephone": "54855922",
+                "url": "WWW.SITSA.MX",
+                "faxNumber": "54855922",
+                "name": "RAFAEL JAUREGUI RUIZ",
+                "email": "No Capturado"
+              },
+              "identifier": {
+                "id": "SIT020308GRA",
+                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+              },
+              "name": "SERVICIO INDUSTRIAL TECNICO SA DE C",
+              "address": {
+                "postalCode": "04850",
+                "countryName": "MX",
+                "streetAddress": "MIGUEL HIDALGO",
+                "region": "DF",
+                "locality": "EJIDO DE SANTA URSULA COAPA     COYOACAN"
+              }
+            }
+          ],
+          "value": {
+            "currency": "MXN",
+            "amount": 418383
+          },
+          "date": "2016-05-03T00:00:00-05:00",
+          "id": "1"
+        }
+      ],
+      "date": "2015-09-04T00:00:00-05:00",
+      "tender": {
+        "status": "complete",
+        "procurementMethod": "limited",
+        "eligibilityCriteria": " Servicio,Condiciones,Precio,Otro&ANEXO TECNICO",
+        "description": "SER INTEGRAL E INSTALACION TRANSFORMADOR PERISUR",
+        "title": "SERVICIO INTEGRAL",
+        "items": [
+          {
+            "quantity": 1,
+            "id": "1",
+            "unit": {
+              "name": "SER"
+            },
+            "description": "SERVICIO E INSTALACION DE TRANSFORMADOR"
+          }
+        ],
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "21564102",
+              "url": "WWW.SCANDIESEL.COM.MX",
+              "faxNumber": "21564102",
+              "name": "EDNA ELISA SANCHEZ ALVAREZ",
+              "email": "No Capturado"
+            },
+            "identifier": {
+              "id": "ISG000613L14",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "SCANDIESEL, S. A. DE C. V.",
+            "address": {
+              "postalCode": "14420",
+              "countryName": "MX",
+              "streetAddress": "AV. CAMINO A LA CANTERA",
+              "region": "DF",
+              "locality": "COL. SANTA URSULA XITLA"
+            }
+          },
+          {
+            "contactPoint": {
+              "telephone": "54855922",
+              "url": "WWW.SITSA.MX",
+              "faxNumber": "54855922",
+              "name": "RAFAEL JAUREGUI RUIZ",
+              "email": "No Capturado"
+            },
+            "identifier": {
+              "id": "SIT020308GRA",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "SERVICIO INDUSTRIAL TECNICO SA DE CV",
+            "address": {
+              "postalCode": "04850",
+              "countryName": "MX",
+              "streetAddress": "MIGUEL HIDALGO",
+              "region": "DF",
+              "locality": "EJIDO DE SANTA URSULA COAPA     COYOACAN"
+            }
+          }
+        ],
+        "value": {
+          "currency": "MXN",
+          "amount": 418383
+        },
+        "submissionMethod": [
+          "written"
+        ],
+        "procuringEntity": {
+          "contactPoint": {
+            "telephone": "5134-2500",
+            "url": "WWW.FINANZAS.DF.GOB.MX",
+            "faxNumber": "5134-2500",
+            "name": "PEDRO JESÚS LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx"
+          },
+          "identifier": {
+            "id": "GDF9712054NA",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          },
+          "name": "SECRETARÍA DE FINANZAS",
+          "address": {
+            "postalCode": "6720",
+            "countryName": "MX",
+            "streetAddress": "DR. LAVISTA",
+            "region": "DF",
+            "locality": "MÉXICO D. F."
+          }
+        },
+        "awardPeriod": {
+          "startDate": "2015-11-10T00:00:00-05:00",
+          "endDate": "2015-11-13T00:00:00-05:00"
+        },
+        "awardCriteria": "bestValueToGovernment",
+        "enquiryPeriod": {
+          "startDate": "2015-10-05T00:00:00-05:00",
+          "endDate": "2015-10-07T00:00:00-05:00"
+        },
+        "documents": [
+          {
+            "language": "es",
+            "format": " application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/requisicion_423_20160505_143843.pdf",
+            "title": "REQUISICION 423",
+            "datePublished": "2015-09-04T00:00:00-05:00",
+            "id": "1"
+          },
+          {
+            "language": "es",
+            "format": " application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/estudio_precios_20160505_143905.pdf",
+            "title": "ESTUDIO DE PRECIO DE MERCADO",
+            "datePublished": "2015-10-09T00:00:00-05:00",
+            "id": "2"
+          }
+        ],
+        "hasEnquiries": true,
+        "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015",
+        "numberOfTenderers": 2,
+        "tenderPeriod": {
+          "startDate": "2015-10-05T00:00:00-05:00",
+          "endDate": "2015-10-07T00:00:00-05:00"
+        }
+      },
+      "id": "1"
+    }
+  ],
+  "publishedDate": "2015-09-04T00:00:00-05:00"
+}

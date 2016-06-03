@@ -1,1 +1,211 @@
-{"publisher": {"uid": "901", "scheme": "http://www.contratosabiertos.cdmx.gob.mx", "name": "CDMX-SEFIN", "uri": "http://www.finanzas.df.gob.mx/"}, "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-A-014-2015", "releases": [{"language": "es", "contracts": [], "ocid": "OCDS-87SD3T-SEFIN-DRM-A-014-2015", "tag": ["award"], "initiationType": "tender", "buyer": {"contactPoint": {"telephone": "51342500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "51342500", "name": "MIGUEL ÁNGEL VIDAL FRANCO", "email": "mvidal@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "planning": {"documents": [{"language": "es", "format": "application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizacion_284_20160505_143622.pdf", "title": "AUTORIZACION PRESUPUESTAL 284", "datePublished": "2015-07-14T00:00:00-05:00", "id": "1"}], "budget": {"project": "AUTORIZACIÓN PRESUPUESTAL SPP/284/2015", "amount": {"currency": "MXN", "amount": 475557.66}}}, "awards": [{"status": "pending", "documents": [], "description": "ARRENDAMIENTO DE INMUEBLE", "title": "ARRENDAMIENTO INMUEBLES", "items": [], "suppliers": [{"contactPoint": {"telephone": "No Capturado", "url": "No Capturado", "faxNumber": "No Capturado", "name": "JUAN BLANCO FORTES", "email": "No Capturado"}, "identifier": {"id": "CCF121101KQ4", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "COMERCIAL CITY FRESKO S. DE R.L. DE", "address": {"postalCode": "03730", "countryName": "MX", "streetAddress": "AV REVOLUCION", "region": "DF", "locality": "SAN JUAN; BENITO JUAREZ"}}], "value": {"currency": "MXN", "amount": 552598.49}, "date": "2016-05-03T00:00:00-05:00", "id": "1"}], "date": "2015-07-14T00:00:00-05:00", "tender": {"status": "complete", "procurementMethod": "limited", "eligibilityCriteria": null, "description": "ARRENDAMIENTO DE INMUEBLE", "title": "ARRENDAMIENTO INMUEBLES", "items": [{"quantity": 1, "id": "1", "unit": {"name": "SER"}, "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"}, {"quantity": 1, "id": "2", "unit": {"name": "SER"}, "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"}, {"quantity": 1, "id": "3", "unit": {"name": "SER"}, "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"}], "tenderers": [{"contactPoint": {"telephone": "No Capturado", "url": "No Capturado", "faxNumber": "No Capturado", "name": "JUAN BLANCO FORTES", "email": "No Capturado"}, "identifier": {"id": "CCF121101KQ4", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "COMERCIAL CITY FRESKO S. DE R.L. DE", "address": {"postalCode": "03730", "countryName": "MX", "streetAddress": "AV REVOLUCION", "region": "DF", "locality": "SAN JUAN; BENITO JUAREZ"}}], "value": {"currency": "MXN", "amount": 475557.66}, "submissionMethod": ["written"], "procuringEntity": {"contactPoint": {"telephone": "5134-2500", "url": "WWW.FINANZAS.DF.GOB.MX", "faxNumber": "5134-2500", "name": "PEDRO JESÚS LARA LASTRA", "email": "plara@finanzas.df.gob.mx"}, "identifier": {"id": "GDF9712054NA", "uri": "http://www.contratosabiertos.cdmx.gob.mx"}, "name": "SECRETARÍA DE FINANZAS", "address": {"postalCode": "6720", "countryName": "MX", "streetAddress": "DR. LAVISTA", "region": "DF", "locality": "MÉXICO D. F."}}, "awardPeriod": {"startDate": "2015-05-29T00:00:00-05:00", "endDate": "2015-05-29T00:00:00-05:00"}, "awardCriteria": "bestValueToGovernment", "enquiryPeriod": {"startDate": null, "endDate": null}, "documents": [{"language": "es", "format": " application/pdf", "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/requisicion_075_20160505_143648.pdf", "title": "REQUISICION 75", "datePublished": "2014-12-18T00:00:00-05:00", "id": "1"}], "hasEnquiries": true, "id": "OCDS-87SD3T-SEFIN-DRM-A-014-2015", "numberOfTenderers": 1, "tenderPeriod": {"startDate": "2015-05-29T00:00:00-05:00", "endDate": "2015-05-29T00:00:00-05:00"}}, "id": "1"}], "publishedDate": "2015-07-14T00:00:00-05:00"}
+{
+  "publisher": {
+    "uid": "901",
+    "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+    "name": "CDMX-SEFIN",
+    "uri": "http://www.finanzas.df.gob.mx/"
+  },
+  "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+  "releases": [
+    {
+      "language": "es",
+      "contracts": [],
+      "ocid": "OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+      "tag": [
+        "award"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "contactPoint": {
+          "telephone": "51342500",
+          "url": "WWW.FINANZAS.DF.GOB.MX",
+          "faxNumber": "51342500",
+          "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+          "email": "mvidal@finanzas.df.gob.mx"
+        },
+        "identifier": {
+          "id": "GDF9712054NA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        },
+        "name": "SECRETARÍA DE FINANZAS",
+        "address": {
+          "postalCode": "6720",
+          "countryName": "MX",
+          "streetAddress": "DR. LAVISTA",
+          "region": "DF",
+          "locality": "MÉXICO D. F."
+        }
+      },
+      "planning": {
+        "documents": [
+          {
+            "language": "es",
+            "format": "application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizacion_284_20160505_143622.pdf",
+            "title": "AUTORIZACION PRESUPUESTAL 284",
+            "datePublished": "2015-07-14T00:00:00-05:00",
+            "id": "1"
+          }
+        ],
+        "budget": {
+          "project": "AUTORIZACIÓN PRESUPUESTAL SPP/284/2015",
+          "amount": {
+            "currency": "MXN",
+            "amount": 475557.66
+          }
+        }
+      },
+      "awards": [
+        {
+          "status": "pending",
+          "documents": [],
+          "description": "ARRENDAMIENTO DE INMUEBLE",
+          "title": "ARRENDAMIENTO INMUEBLES",
+          "items": [],
+          "suppliers": [
+            {
+              "contactPoint": {
+                "telephone": "No Capturado",
+                "url": "No Capturado",
+                "faxNumber": "No Capturado",
+                "name": "JUAN BLANCO FORTES",
+                "email": "No Capturado"
+              },
+              "identifier": {
+                "id": "CCF121101KQ4",
+                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+              },
+              "name": "COMERCIAL CITY FRESKO S. DE R.L. DE",
+              "address": {
+                "postalCode": "03730",
+                "countryName": "MX",
+                "streetAddress": "AV REVOLUCION",
+                "region": "DF",
+                "locality": "SAN JUAN; BENITO JUAREZ"
+              }
+            }
+          ],
+          "value": {
+            "currency": "MXN",
+            "amount": 552598.49
+          },
+          "date": "2016-05-03T00:00:00-05:00",
+          "id": "1"
+        }
+      ],
+      "date": "2015-07-14T00:00:00-05:00",
+      "tender": {
+        "status": "complete",
+        "procurementMethod": "limited",
+        "eligibilityCriteria": null,
+        "description": "ARRENDAMIENTO DE INMUEBLE",
+        "title": "ARRENDAMIENTO INMUEBLES",
+        "items": [
+          {
+            "quantity": 1,
+            "id": "1",
+            "unit": {
+              "name": "SER"
+            },
+            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"
+          },
+          {
+            "quantity": 1,
+            "id": "2",
+            "unit": {
+              "name": "SER"
+            },
+            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"
+          },
+          {
+            "quantity": 1,
+            "id": "3",
+            "unit": {
+              "name": "SER"
+            },
+            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON"
+          }
+        ],
+        "tenderers": [
+          {
+            "contactPoint": {
+              "telephone": "No Capturado",
+              "url": "No Capturado",
+              "faxNumber": "No Capturado",
+              "name": "JUAN BLANCO FORTES",
+              "email": "No Capturado"
+            },
+            "identifier": {
+              "id": "CCF121101KQ4",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "COMERCIAL CITY FRESKO S. DE R.L. DE",
+            "address": {
+              "postalCode": "03730",
+              "countryName": "MX",
+              "streetAddress": "AV REVOLUCION",
+              "region": "DF",
+              "locality": "SAN JUAN; BENITO JUAREZ"
+            }
+          }
+        ],
+        "value": {
+          "currency": "MXN",
+          "amount": 475557.66
+        },
+        "submissionMethod": [
+          "written"
+        ],
+        "procuringEntity": {
+          "contactPoint": {
+            "telephone": "5134-2500",
+            "url": "WWW.FINANZAS.DF.GOB.MX",
+            "faxNumber": "5134-2500",
+            "name": "PEDRO JESÚS LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx"
+          },
+          "identifier": {
+            "id": "GDF9712054NA",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          },
+          "name": "SECRETARÍA DE FINANZAS",
+          "address": {
+            "postalCode": "6720",
+            "countryName": "MX",
+            "streetAddress": "DR. LAVISTA",
+            "region": "DF",
+            "locality": "MÉXICO D. F."
+          }
+        },
+        "awardPeriod": {
+          "startDate": "2015-05-29T00:00:00-05:00",
+          "endDate": "2015-05-29T00:00:00-05:00"
+        },
+        "awardCriteria": "bestValueToGovernment",
+        "enquiryPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "documents": [
+          {
+            "language": "es",
+            "format": " application/pdf",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/requisicion_075_20160505_143648.pdf",
+            "title": "REQUISICION 75",
+            "datePublished": "2014-12-18T00:00:00-05:00",
+            "id": "1"
+          }
+        ],
+        "hasEnquiries": true,
+        "id": "OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+        "numberOfTenderers": 1,
+        "tenderPeriod": {
+          "startDate": "2015-05-29T00:00:00-05:00",
+          "endDate": "2015-05-29T00:00:00-05:00"
+        }
+      },
+      "id": "1"
+    }
+  ],
+  "publishedDate": "2015-07-14T00:00:00-05:00"
+}
