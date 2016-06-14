@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 
 # Using http://standard.open-contracting.org/latest/en/schema/release/
 
-import pymongo, json
+import pymongo, json, io
 
 def level_basic(basic_fields, release):
     basic_values_file = 'intermediate.json'
@@ -11,18 +11,18 @@ def level_basic(basic_fields, release):
     completed_fields = 0
     missing_fields = []
     for i in basic_fields:
-        if release.has_key(i):
+        if i in release:
             for f in basic_fields[i]: # basic_fields[i] is always a list
                 if type(f) is dict: # for example {"tenderers": [ "identifier" ] }
                     for p in f:
                         if type(f[p]) is list:
                             for j in f[p]:
-                                if type(release[i][p]) is list:
+                                if (p in release[i]) and (type(release[i][p]) is list):
                                     total_fields = total_fields + 1
                                     found = False
                                     if type(j) is str:
                                         for x in release[i][p]:
-                                            if x[j]:
+                                            if j in x:
                                                 found = True
                                                 completed_fields = completed_fields + 1
                                                 k = i + '.' + p + '.' + j
@@ -31,8 +31,8 @@ def level_basic(basic_fields, release):
                                     if type(j) is dict:
                                         for m in j:
                                             for x in release[i][p]:
-                                                if x[m]:
-                                                    print x[m]
+                                                if m in x:
+                                                    print(x[m])
                                                     found = True
                                                     completed_fields = completed_fields + 1
                                                     k = i + '.' + p + '.' + m
@@ -40,17 +40,17 @@ def level_basic(basic_fields, release):
                                                     break
                                     if not found :
                                         missing_fields.append(j)
-                                if type(release[i][p]) is dict:
+                                if (p in release[i]) and (type(release[i][p]) is dict):
                                     for x in release[i][p]:
                                         if x == j:
                                             completed_fields = completed_fields + 1
                                             k = i + '.' + p + '.' + j
                                             basic_values[k] = release[i][p][x]
                                 else:
-                                    print "YEAH???"
+                                    print("YEAH??? ", p)
                 else: # for example "title"
                     total_fields = total_fields + 1
-                    if release[i].has_key(f):
+                    if f in release[i]:
                         completed_fields = completed_fields + 1
                         k = i + '.' +  f
                         basic_values[f] = release[i][f]
@@ -78,13 +78,20 @@ def main():
     with open('intermediate_fields.json', 'r') as outfile:
         basic_fields = json.load(outfile)
 
+    report = io.open('eval_intermediate.json', 'w', encoding='utf-8')
+
     for c in contracts:
         for release in c['releases']:
+            r = {}
+            r['ocid'] = release['ocid'],
+            r['missing'] = []
             # check level of completeness for basic level
             basic, missing_fields = level_basic(basic_fields, release)
-            print 'Basic Level: %8.2f complete' % basic
+            #print('Intermediate Level for ', release['ocid'],': ', basic, ' complete')
             for m in missing_fields:
-                print '\t Missing field: %s' % m
+                #print('\t Missing field: ', m)
+                r['missing'].append(m)
+            report.write(json.dumps(r, ensure_ascii=False))
 
 if __name__ == "__main__":
     main()
