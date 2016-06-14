@@ -1,0 +1,56 @@
+{
+  "buyer": [
+    "address",
+    "name"
+  ],
+  "tender": [
+    {
+      "tenderers": [
+        "identifier"
+      ]
+    },
+    "title",
+    "description",
+    "status",
+    "procurementMethod",
+    {
+      "tenderPeriod": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "items": [
+        "description",
+        "quantity"
+      ]
+    },
+    "documents"
+  ],
+  "award": [
+    "id",
+    "title",
+    "description",
+    "date",
+    "value",
+    {
+      "supplier": [
+        "name",
+        "address"
+      ]
+    }
+  ],
+  "contract": [
+    "id",
+    "title",
+    "status",
+    "period",
+    "value",
+    {
+      "items": [
+        "description",
+        "quantity"
+      ]
+    }
+  ]
+}
