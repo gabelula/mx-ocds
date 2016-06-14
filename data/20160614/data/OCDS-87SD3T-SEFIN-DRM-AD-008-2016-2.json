@@ -1,0 +1,246 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-008-2016-2",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-008-2016-2",
+            "id": "1",
+            "date": "2016-01-27T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 311460,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-123-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/123/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_123_20160610_153141.pdf",
+                        "datePublished": "2016-02-25T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MEXICO, DISTRITO FEDERAL",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-008-2016-2",
+                "title": "AGENCIA CALIFICADORA PARA LA CALIDAD CREDITICIA",
+                "description": "AGENCIA CALIFICADORA PARA LA CALIDAD CREDITICIA",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "AGENCIA CALIFICADORA DE CREDITO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 311460,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-01-27T00:00:00-06:00",
+                    "endDate": "2016-02-01T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-03-08T00:00:00-06:00",
+                    "endDate": "2016-03-08T00:00:00-06:00"
+                },
+                "numberOfTenderers": 1,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "FME980717NN8",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "FITCH MEXICO, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "AV. NSAN PEDRO NTE.",
+                            "locality": "GARZA GARCIA",
+                            "region": "NL",
+                            "postalCode": "66220",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "EDUARDO HERNÁNDEZ DE LA GARZA",
+                            "email": "",
+                            "telephone": "59551600",
+                            "faxNumber": "59551600",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 103",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_103_20160610_153318.pdf",
+                        "datePublished": "2016-01-27T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "AGENCIA CALIFICADORA PARA LA CALIDAD CREDITICIA",
+                    "description": "AGENCIA CALIFICADORA PARA LA CALIDAD CREDITICIA",
+                    "status": "active",
+                    "date": "2016-03-30T00:00:00-06:00",
+                    "value": {
+                        "amount": 311460,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "FME980717NN8",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "FITCH MEXICO, S. A. DE C. V.",
+                            "address": {
+                                "streetAddress": "AV. NSAN PEDRO NTE.",
+                                "locality": "GARZA GARCIA",
+                                "region": "NL",
+                                "postalCode": "66220",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "EDUARDO HERNÁNDEZ DE LA GARZA",
+                                "email": "",
+                                "telephone": "59551600",
+                                "faxNumber": "59551600",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "AGENCIA CALIFICADORA DE CREDITO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0920",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0920_20160610_153419.pdf",
+                            "datePublished": "2016-03-29T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-013/2016",
+                    "description": "AGENCIA CALIFICADORA PARA LA CALIDAD CREDITICIA",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-03-30T00:00:00-06:00",
+                        "endDate": "2016-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 311460,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "AGENCIA CALIFICADORA DE CREDITO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

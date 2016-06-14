@@ -1,0 +1,253 @@
+{
+	"uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-AD-SF-DRM-066-2015",
+	"publishedDate": "2016-06-13T00:00:00-06:00",
+	"publisher": {
+		"scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+		"name": "CDMX-SEFIN",
+		"uri": "http://www.finanzas.df.gob.mx/",
+		"uid": "0901"
+	},
+	"releases": [{
+		"ocid": "OCDS-87SD3T-AD-SF-DRM-066-2015",
+		"id": "1",
+		"date": "2015-12-22T00:00:00-06:00",
+		"tag": ["contract"],
+		"initiationType": "tender",
+		"planning": {
+			"budget": {
+				"amount": {
+					"amount": 767465,
+					"currency": "MXN"
+				},
+				"project": "AUTORIZACIÓN PRESUPUESTAL SPP-043-2016"
+			},
+			"documents": []
+		},
+		"buyer": {
+			"identifier": {
+				"id": "GDF9712054NA",
+				"uri": "http://www.contratosabiertos.cdmx.gob.mx"
+			},
+			"name": "SECRETARÍA DE FINANZAS",
+			"address": {
+				"streetAddress": "DR. LAVISTA",
+				"locality": "DISTRITO FEDERAL",
+				"region": "DF",
+				"postalCode": "6720",
+				"countryName": "MX"
+			},
+			"contactPoint": {
+				"name": "MIGUEL ANGEL VIDAL FRANCO",
+				"email": "mvidal@finanzas.df.gob.mx",
+				"telephone": "51342500",
+				"faxNumber": "",
+				"url": "http://WWW.FINANZAS.DF.GOB.MX"
+			}
+		},
+		"tender": {
+			"id": "OCDS-87SD3T-AD-SF-DRM-066-2015",
+			"title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+			"description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+			"status": "complete",
+			"items": [{
+				"id": "1",
+				"description": "COMPUTADORA PORTATIL TIPO 1",
+				"quantity": 200,
+				"unit": {
+					"name": "SER"
+				}
+			},
+			{
+				"id": "2",
+				"description": "COMPUTADORA PERSONAL TIPO 1",
+				"quantity": 872,
+				"unit": {
+					"name": "SER"
+				}
+			}],
+			"value": {
+				"amount": 767465,
+				"currency": "MXN"
+			},
+			"procurementMethod": "selective",
+			"awardCriteria": "bestValueToGovernment",
+			"submissionMethod": ["written"],
+			"tenderPeriod": {
+				"startDate": "2015-12-22T00:00:00-06:00",
+				"endDate": "2015-12-23T00:00:00-06:00"
+			},
+			"enquiryPeriod": {
+				"startDate": null,
+				"endDate": null
+			},
+			"hasEnquiries": true,
+			"eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+			"awardPeriod": {
+				"startDate": "2015-12-30T00:00:00-06:00",
+				"endDate": "2015-12-30T00:00:00-06:00"
+			},
+			"numberOfTenderers": 1,
+			"tenderers": [{
+				"identifier": {
+					"id": "FOS000306HXA",
+					"uri": "http://www.contratosabiertos.cdmx.gob.mx"
+				},
+				"name": "Focus On Services S.A. de C.V.",
+				"address": {
+					"streetAddress": "Lagos de Moreno",
+					"locality": "Gustavo A. Madero",
+					"region": "DF",
+					"postalCode": "7510",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "JUAN GABRIEL STUBBE TORRES",
+					"email": "",
+					"telephone": "56873040",
+					"faxNumber": "",
+					"url": null
+				}
+			}],
+			"procuringEntity": {
+				"identifier": {
+					"id": "GDF9712054NA",
+					"uri": "http://www.contratosabiertos.cdmx.gob.mx"
+				},
+				"name": "SECRETARÍA DE FINANZAS",
+				"address": {
+					"streetAddress": "DR. LAVISTA",
+					"locality": "MÉXICO D. F.",
+					"region": "DF",
+					"postalCode": "6720",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "PEDRO JESUS LARA LASTRA",
+					"email": "plara@finanzas.df.gob.mx",
+					"telephone": "51342500",
+					"faxNumber": "",
+					"url": "http://WWW.FINANZAS.DF.GOB.MX"
+				}
+			},
+			"documents": []
+		},
+		"awards": [{
+			"id": "1",
+			"title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+			"description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+			"status": "active",
+			"date": "2016-03-04T00:00:00-06:00",
+			"value": {
+				"amount": 767465,
+				"currency": "MXN"
+			},
+			"suppliers": [{
+				"identifier": {
+					"id": "FOS000306HXA",
+					"uri": "http://www.contratosabiertos.cdmx.gob.mx"
+				},
+				"name": "Focus On Services S.A. de C.V.",
+				"address": {
+					"streetAddress": "Lagos de Moreno",
+					"locality": "Gustavo A. Madero",
+					"region": "DF",
+					"postalCode": "7510",
+					"countryName": "MX"
+				},
+				"contactPoint": {
+					"name": "JUAN GABRIEL STUBBE TORRES",
+					"email": "",
+					"telephone": "56873040",
+					"faxNumber": "",
+					"url": null
+				}
+			}],
+			"items": [{
+				"id": "1",
+				"description": "COMPUTADORA PORTATIL TIPO 1",
+				"quantity": 200,
+				"unit": {
+					"name": "SER"
+				}
+			},
+			{
+				"id": "2",
+				"description": "COMPUTADORA PERSONAL TIPO 1",
+				"quantity": 872,
+				"unit": {
+					"name": "SER"
+				}
+			}],
+			"documents": []
+		}],
+		"contracts": [{
+			"id": "1",
+			"awardID": "1",
+			"title": "CA-001/2016",
+			"description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
+			"status": "pending",
+			"period": {
+				"startDate": "2016-01-01T00:00:00-06:00",
+				"endDate": "2016-03-31T00:00:00-06:00"
+			},
+			"value": {
+				"amount": 767465,
+				"currency": "MXN"
+			},
+			"items": [{
+				"id": "1",
+				"description": "COMPUTADORA PORTATIL TIPO 1",
+				"quantity": 200,
+				"unit": {
+					"name": "SER"
+				}
+			},
+			{
+				"id": "2",
+				"description": "COMPUTADORA PERSONAL TIPO 1",
+				"quantity": 872,
+				"unit": {
+					"name": "SER"
+				}
+			}],
+			"dateSigned": "2015-12-30T00:00:00-06:00",
+			"documents": [],
+			"implementation": {
+				"transactions": [{
+					"id": "CLC0010000010-2016",
+					"date": "2016-04-08T00:00:00-06:00",
+					"amount": {
+						"amount": 220536,
+						"currency": "MXN"
+					},
+					"providerOrganization": {
+						"id": "0901",
+						"legalName": "SECRETARÍA DE FINANZAS",
+						"uri": null
+					},
+					"receiverOrganization": {
+						"id": "FOS000306HXA",
+						"legalName": "Focus On Services S.A. de C.V.",
+						"uri": null
+					}
+				}],
+				"milestones": [{
+					"id": "5000012556-00010-2016",
+					"title": "Entrada de merancía",
+					"description": "Entrada de merancía",
+					"dueDate": "2016-03-10T00:00:00-06:00",
+					"status": "partiallyMet"
+				},
+				{
+					"id": "5000012556-00020-2016",
+					"title": "Entrada de merancía",
+					"description": "Entrada de merancía",
+					"dueDate": "2016-03-10T00:00:00-06:00",
+					"status": "partiallyMet"
+				}],
+				"documents": []
+			}
+		}],
+		"language": "es"
+	}]
+}

@@ -1,0 +1,294 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-LPN-001-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-LPN-001-2016",
+            "id": "1",
+            "date": "2016-01-18T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 15111539,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-022-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/022/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_022_20160613_134553.pdf",
+                        "datePublished": "2016-01-25T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-LPN-001-2016",
+                "title": "SERVICIO DE LIMPIEZA",
+                "description": "SERVICIO DE LIMPIEZA",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 15111539,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "open",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-01-28T00:00:00-06:00",
+                    "endDate": "2016-01-28T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": "2016-02-03T00:00:00-06:00",
+                    "endDate": "2016-02-03T00:00:00-06:00"
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-02-12T00:00:00-06:00",
+                    "endDate": "2016-02-12T00:00:00-06:00"
+                },
+                "numberOfTenderers": 2,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "FICO91204UGA",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "FICOT, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "ANTONIO RODRIGUEZ",
+                            "locality": "BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3660",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "OSCAR DE LA ROSA REVILLA",
+                            "email": "",
+                            "telephone": "5639-0576",
+                            "faxNumber": "5639-0576",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "JLS121217JU4",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "JOAD LIMPIEZA Y SERVICIOS SA DE CV",
+                        "address": {
+                            "streetAddress": "MIGUEL LAURENT",
+                            "locality": "DEL VALLE; BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3200",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "GIOVANNI RENE GUTIERREZ GONZALEZ",
+                            "email": "",
+                            "telephone": "5674-0969",
+                            "faxNumber": "5674-0969",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 080",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_080_20160613_134702.pdf",
+                        "datePublished": "2016-01-18T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO DE LIMPIEZA",
+                    "description": "SERVICIO DE LIMPIEZA",
+                    "status": "active",
+                    "date": "2016-03-15T00:00:00-06:00",
+                    "value": {
+                        "amount": 15111539,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "JLS121217JU4",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "MIGUEL LAURENT",
+                                "locality": "DEL VALLE; BENITO JUAREZ",
+                                "region": "DF",
+                                "postalCode": "3200",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "GIOVANNI RENE GUTIERREZ GONZALEZ",
+                                "email": "",
+                                "telephone": "5674-0969",
+                                "faxNumber": "5674-0969",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "ACTA FALLO LPN 001 2016",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/acta_fallo_20160613_135218.pdf",
+                            "datePublished": "2016-02-12T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-007/2016",
+                    "description": "SERVICIO DE LIMPIEZA",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-02-16T00:00:00-06:00",
+                        "endDate": "2016-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 14972720,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIO DE LIMPIEZA INMUEBLES DE LA SF",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2016-02-12T00:00:00-06:00",
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000398-2016",
+                                "date": "2016-06-01T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 612751,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "JLS121217JU4",
+                                    "legalName": "JOAD LIMPIEZA Y SERVICIOS SA DE CV",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012811-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-05-12T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

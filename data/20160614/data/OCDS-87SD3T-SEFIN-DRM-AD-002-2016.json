@@ -1,0 +1,315 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-002-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-002-2016",
+            "id": "1",
+            "date": "2016-01-27T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 1100260,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-124-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/124/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_124_20160610_142202.pdf",
+                        "datePublished": "2016-02-25T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-002-2016",
+                "title": "PRODUCCIÓN DE UN SPOT DE RADIO Y TELEVISIÓN",
+                "description": "PRODUCCIÓN DE UN SPOT DE RADIO Y TELEVISIÓN",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "PRODUCCION DE SPOTS RADIO Y TELEVISION",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 1100260,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-01-27T00:00:00-06:00",
+                    "endDate": "2016-01-28T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-02-26T00:00:00-06:00",
+                    "endDate": "2016-02-26T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "GWL100426RL2",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "GEN W LAB, S.C.",
+                        "address": {
+                            "streetAddress": "RIO GUADALQUIVIR",
+                            "locality": "COL. CUAUHTEMOC, DEL. CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "6500",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ALEJANDRO AYALA SARMIENTO",
+                            "email": "",
+                            "telephone": "5208-5415",
+                            "faxNumber": "5208-5415",
+                            "url": "http://WWW.GENW.COM.MX"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "RURL681029JZ8",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "JOSE LUIS RUEDA REYES",
+                        "address": {
+                            "streetAddress": "EDIF 9",
+                            "locality": "UNIDAD CUITLAHUAC AZCAPOTZALCO",
+                            "region": "DF",
+                            "postalCode": "2500",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "JOSE LUIS RUEDA REYES",
+                            "email": "",
+                            "telephone": "5264-3195",
+                            "faxNumber": "5264-3195",
+                            "url": "http://WWW.CABEZAFILMS.COM"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "ZBA070131IY3",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "ZEGGART B2B & MEDIA, S.A. DE C.V.",
+                        "address": {
+                            "streetAddress": "VARSOVIA",
+                            "locality": "COL. JUAREZ, DEL. CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "6600",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "SERGIO A. GARCES RENDÓN",
+                            "email": "",
+                            "telephone": "2454-0440",
+                            "faxNumber": "2454-0440",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 101",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_101_20160610_142244.pdf",
+                        "datePublished": "2016-01-27T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "PRODUCCIÓN DE UN SPOT DE RADIO Y TELEVISIÓN",
+                    "description": "PRODUCCIÓN DE UN SPOT DE RADIO Y TELEVISIÓN",
+                    "status": "active",
+                    "date": "2016-03-09T00:00:00-06:00",
+                    "value": {
+                        "amount": 1100260,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "RURL681029JZ8",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "EDIF 9",
+                                "locality": "UNIDAD CUITLAHUAC AZCAPOTZALCO",
+                                "region": "DF",
+                                "postalCode": "2500",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "JOSE LUIS RUEDA REYES",
+                                "email": "",
+                                "telephone": "5264-3195",
+                                "faxNumber": "5264-3195",
+                                "url": "http://WWW.CABEZAFILMS.COM"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PRODUCCION DE SPOTS RADIO Y TELEVISION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0628",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0628_20160610_142357.pdf",
+                            "datePublished": "2016-02-26T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-008/2016",
+                    "description": "PRODUCCIÓN DE UN SPOT DE RADIO Y TELEVISIÓN",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-02-26T00:00:00-06:00",
+                        "endDate": "2016-03-04T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 1100260,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PRODUCCION DE SPOTS RADIO Y TELEVISION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000081-2016",
+                                "date": "2016-04-15T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 948500,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "RURL681029JZ8",
+                                    "legalName": "JOSE LUIS RUEDA REYES",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012558-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-10T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

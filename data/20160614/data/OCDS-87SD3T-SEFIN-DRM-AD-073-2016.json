@@ -1,0 +1,304 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-073-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-073-2016",
+            "id": "1",
+            "date": "2015-12-22T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 118761,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-052-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/052/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizaci%c3%b3n_052_20160613_114215.pdf",
+                        "datePublished": "2016-01-29T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-073-2016",
+                "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "IMPRESORA LASER A COLOR KYOCERA",
+                        "quantity": 10,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "IMPRESORA LASER MONOCROMATICA KYOCERA",
+                        "quantity": 148,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 118761,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-22T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-22T00:00:00-06:00"
+                },
+                "numberOfTenderers": 1,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "TPL030219RE3",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "TEC PLUSS S.A. DE C.V.",
+                        "address": {
+                            "streetAddress": "ANGEL URRAZA",
+                            "locality": "DEL VALLE; BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3100",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "SANTIAGO ALFREDO AMEZAGA ZAYNOS",
+                            "email": "santiago.amezaga@tecpluss.com",
+                            "telephone": "3095-3099",
+                            "faxNumber": "3095-3099",
+                            "url": "http://WWW.TECPLUSS.COM"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 034",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisici%c3%b3n_034_20160613_114251.pdf",
+                        "datePublished": "2015-12-22T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "status": "active",
+                    "date": "2016-04-15T00:00:00-06:00",
+                    "value": {
+                        "amount": 118761,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "TPL030219RE3",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "TEC PLUSS S.A. DE C.V.",
+                            "address": {
+                                "streetAddress": "ANGEL URRAZA",
+                                "locality": "DEL VALLE; BENITO JUAREZ",
+                                "region": "DF",
+                                "postalCode": "3100",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "SANTIAGO ALFREDO AMEZAGA ZAYNOS",
+                                "email": "santiago.amezaga@tecpluss.com",
+                                "telephone": "3095-3099",
+                                "faxNumber": "3095-3099",
+                                "url": "http://WWW.TECPLUSS.COM"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "IMPRESORA LASER A COLOR KYOCERA",
+                            "quantity": 10,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "IMPRESORA LASER MONOCROMATICA KYOCERA",
+                            "quantity": 148,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 4138",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicaci%c3%b3n_4138_20160613_114419.pdf",
+                            "datePublished": "2016-12-31T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-A-002/2016",
+                    "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-01-01T00:00:00-06:00",
+                        "endDate": "2016-03-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 118761,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "IMPRESORA LASER A COLOR KYOCERA",
+                            "quantity": 10,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "IMPRESORA LASER MONOCROMATICA KYOCERA",
+                            "quantity": 148,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000150-2016",
+                                "date": "2016-05-04T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 102381,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "TPL030219RE3",
+                                    "legalName": "TEC PLUSS S.A. DE C.V.",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012755-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-19T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            },
+                            {
+                                "id": "5000012755-00020-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-19T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

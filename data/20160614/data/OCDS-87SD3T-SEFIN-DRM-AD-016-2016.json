@@ -1,0 +1,288 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-016-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-016-2016",
+            "id": "1",
+            "date": "2016-02-19T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 420384,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-143-2016"
+                },
+                "documents": []
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-016-2016",
+                "title": "MANTENIMIENTO EQUIPOS DE AIRE ACONDICIONADO",
+                "description": "MANTENIMIENTO EQUIPOS DE AIRE ACONDICIONADO",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "MANTENIMIENTO EQUIPO AIRE ACONDICIONADO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 420384,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-02-22T00:00:00-06:00",
+                    "endDate": "2016-02-22T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-03-03T00:00:00-06:00",
+                    "endDate": "2016-03-03T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "CPR090813H23",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "CONSTRUCTORA Y PROMOTORA REGINA S.A",
+                        "address": {
+                            "streetAddress": "VERSALLES",
+                            "locality": "JUAREZ; CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "6600",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "DAVID DELGADILLO VALVERDE",
+                            "email": "",
+                            "telephone": "5513-4192",
+                            "faxNumber": "5513-4192",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "IAZ980610EP5",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "INDUSTRIA AZUL, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "VICENTE GUERRERO",
+                            "locality": "COL SN BARTOLO AMEY DEL ALVARO O",
+                            "region": "DF",
+                            "postalCode": "1800",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "MARIA DE LOS ANGELES RAMOS PEÑA",
+                            "email": "",
+                            "telephone": "5810-0949",
+                            "faxNumber": "5810-0949",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "ISG000613L14",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "INGENIERIA EN SERVICIOS GOB,",
+                        "address": {
+                            "streetAddress": "PLAN DE GUADALUPE",
+                            "locality": "COLONIA LA CEBADA DEL XOCHIMILCO",
+                            "region": "DF",
+                            "postalCode": "16018",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "YOSELÍN SARAI MENDOZA FLORES",
+                            "email": "",
+                            "telephone": "5555-2351",
+                            "faxNumber": "5555-2351",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 142",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_142_20160610_155656.pdf",
+                        "datePublished": "2016-02-19T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "MANTENIMIENTO EQUIPOS DE AIRE ACONDICIONADO",
+                    "description": "MANTENIMIENTO EQUIPOS DE AIRE ACONDICIONADO",
+                    "status": "active",
+                    "date": "2016-04-11T00:00:00-06:00",
+                    "value": {
+                        "amount": 420384,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "CPR090813H23",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "CONSTRUCTORA Y PROMOTORA REGINA",
+                            "address": {
+                                "streetAddress": "VERSALLES",
+                                "locality": "JUAREZ; CUAUHTEMOC",
+                                "region": "DF",
+                                "postalCode": "6600",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "DAVID DELGADILLO VALVERDE",
+                                "email": "",
+                                "telephone": "5513-4192",
+                                "faxNumber": "5513-4192",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "MANTENIMIENTO EQUIPO AIRE ACONDICIONADO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0884",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0884_20160610_155737.pdf",
+                            "datePublished": "2016-03-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-016/2016",
+                    "description": "MANTENIMIENTO EQUIPOS DE AIRE ACONDICIONADO",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-03-22T00:00:00-06:00",
+                        "endDate": "2016-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 420384,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "MANTENIMIENTO EQUIPO AIRE ACONDICIONADO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO CS-016/2016",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cs_016_2016_20160613_133649.pdf",
+                            "datePublished": "2016-03-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

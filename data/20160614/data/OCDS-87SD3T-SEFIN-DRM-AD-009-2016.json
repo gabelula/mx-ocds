@@ -1,0 +1,402 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-009-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-009-2016",
+            "id": "1",
+            "date": "2015-12-23T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 152499,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-032-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/032/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_032_20160610_153755.pdf",
+                        "datePublished": "2016-01-29T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-009-2016",
+                "title": "SERVICIO DE IMPRESIÓN DE CARTELES Y LONAS",
+                "description": "SERVICIO DE IMPRESIÓN DE CARTELES Y LONAS",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "CARTEL",
+                        "quantity": 200,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "LONA",
+                        "quantity": 26,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 152499,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-01-18T00:00:00-06:00",
+                    "endDate": "2016-01-18T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-01-18T00:00:00-06:00",
+                    "endDate": "2016-01-18T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "BAB121203VD1",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "BH ABUNDO, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "HOMERO",
+                            "locality": "COL CHAPULTEPEC MOR DEL MIGUEL H",
+                            "region": "DF",
+                            "postalCode": "11570",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ISABEL MIRANDA JAIME",
+                            "email": "",
+                            "telephone": "5535-2332",
+                            "faxNumber": "5535-2332",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "CKI130702HN5",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "CORPORATIVO KIMALA SA DE CV",
+                        "address": {
+                            "streetAddress": "CLZ MELCHOR OCAMPO",
+                            "locality": "CUAUHTEMOC CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "6500",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "MIRIAM GÓMEZ ARELLANO",
+                            "email": "",
+                            "telephone": "5260-2303",
+                            "faxNumber": "5260-2303",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "EAS110721A11",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "ETANIM ASOCIADOS, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "QUINTANA ROO",
+                            "locality": "COL ROMA SUR DEL CUAUHTÉMOC",
+                            "region": "DF",
+                            "postalCode": "6760",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "CARLOS SALAME MIZRAHI",
+                            "email": "",
+                            "telephone": "5596-3856",
+                            "faxNumber": "5596-3856",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 014 015 041",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_014%2c015%2c041_20160610_153858.pdf",
+                        "datePublished": "2015-12-23T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO DE IMPRESIÓN DE CARTELES Y LONAS",
+                    "description": "SERVICIO DE IMPRESIÓN DE CARTELES Y LONAS",
+                    "status": "active",
+                    "date": "2016-04-25T00:00:00-06:00",
+                    "value": {
+                        "amount": 152499,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "CKI130702HN5",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "CLZ MELCHOR OCAMPO",
+                                "locality": "CUAUHTEMOC CUAUHTEMOC",
+                                "region": "DF",
+                                "postalCode": "6500",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "MIRIAM GÓMEZ ARELLANO",
+                                "email": "",
+                                "telephone": "5260-2303",
+                                "faxNumber": "5260-2303",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CARTEL",
+                            "quantity": 200,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "LONA",
+                            "quantity": 26,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0233",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0233_20160610_153959.pdf",
+                            "datePublished": "2016-01-20T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-S-004/2016",
+                    "description": "SERVICIO DE IMPRESIÓN DE CARTELES Y LONAS",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-01-21T00:00:00-06:00",
+                        "endDate": "2016-02-29T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 152499,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CARTEL",
+                            "quantity": 200,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "LONA",
+                            "quantity": 26,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2016-01-20T00:00:00-06:00",
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000178-2016",
+                                "date": "2016-05-04T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 131465,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "CKI130702HN5",
+                                    "legalName": "CORPORATIVO KIMALA SA DE CV",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012782-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00020-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00030-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00040-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00050-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00060-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00070-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00080-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00090-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012782-00100-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-25T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-014-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-014-2016",
+            "id": "1",
+            "date": "2016-02-19T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 418598,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-146-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/146/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_146_20160610_154533.pdf",
+                        "datePublished": "2016-03-08T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-014-2016",
+                "title": "MANTENIMIENTO SUBESTACIÓN ELÉCTRICA",
+                "description": "MANTENIMIENTO SUBESTACIÓN ELÉCTRICA",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "MANTENIMIENTO A SUBESTACION ELECTRICA",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 418598,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-02-22T00:00:00-06:00",
+                    "endDate": "2016-02-22T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-02-25T00:00:00-06:00",
+                    "endDate": "2016-02-25T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "BJS000105NG4",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "B.J. SERVICIOS Y PROYECTOS INDUSTRI",
+                        "address": {
+                            "streetAddress": "AGUSTIN YAÑEZ",
+                            "locality": "IZTAPALAPA",
+                            "region": "DF",
+                            "postalCode": "9060",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ING. VICENTE BUENDIA JARAMILLO",
+                            "email": "",
+                            "telephone": "5646-5385",
+                            "faxNumber": "5646-8385",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "CSI0912221I6",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "CONSTRUCTORA Y SERVICIOS INTEGRALES",
+                        "address": {
+                            "streetAddress": "ALMA FUERTE MZ 38",
+                            "locality": "COLONIA ZAPOTITLA DEL TLAHUAC",
+                            "region": "DF",
+                            "postalCode": "13310",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ING. EMILIO G. CORTES GARCÍA",
+                            "email": "",
+                            "telephone": "2636-8317",
+                            "faxNumber": "2636-8317",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "GCD120706B91",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "GREEN CONTINUITY DATA CENTERS",
+                        "address": {
+                            "streetAddress": "FRANCISCO NEGRETE MZ E LT 3",
+                            "locality": "FRACC AURIS LERMA EDO MEXICO",
+                            "region": "DF",
+                            "postalCode": "52004",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ING. MIGUEL ÁNGEL ESCOBEDO LEYVA",
+                            "email": "mescobedo@greencontinuity.com",
+                            "telephone": "5541-9081",
+                            "faxNumber": "5541-9081",
+                            "url": "http://WWW.GREENCONTINUITY.COM"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 141",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_141_20160610_154558.pdf",
+                        "datePublished": "2016-02-19T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "MANTENIMIENTO SUBESTACIÓN ELÉCTRICA",
+                    "description": "MANTENIMIENTO SUBESTACIÓN ELÉCTRICA",
+                    "status": "active",
+                    "date": "2016-04-07T00:00:00-06:00",
+                    "value": {
+                        "amount": 418598,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "BJS000105NG4",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "B.J. SERVICIOS Y PROYECTOS INDUS",
+                            "address": {
+                                "streetAddress": "AGUSTIN YAÑEZ",
+                                "locality": "IZTAPALAPA",
+                                "region": "DF",
+                                "postalCode": "9060",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "ING. VICENTE BUENDIA JARAMILLO",
+                                "email": "",
+                                "telephone": "5646-5385",
+                                "faxNumber": "5646-8385",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "MANTENIMIENTO A SUBESTACION ELECTRICA",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0885",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0885_20160610_154647.pdf",
+                            "datePublished": "2016-03-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-017/2016",
+                    "description": "MANTENIMIENTO SUBESTACIÓN ELÉCTRICA",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-03-22T00:00:00-06:00",
+                        "endDate": "2016-04-30T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 418598,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "MANTENIMIENTO A SUBESTACION ELECTRICA",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

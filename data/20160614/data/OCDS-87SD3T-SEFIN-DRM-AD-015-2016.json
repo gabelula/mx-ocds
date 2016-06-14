@@ -1,0 +1,297 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-015-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-015-2016",
+            "id": "1",
+            "date": "2016-02-10T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 348498,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-152-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/152/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_152_20160610_155324.pdf",
+                        "datePublished": "2016-03-11T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-015-2016",
+                "title": "SERVICIO DE FUMIGACIÓN Y DESRATIZACIÓN",
+                "description": "SERVICIO DE FUMIGACIÓN Y DESRATIZACIÓN",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "FUMIGACION Y DESRATIZACION",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 348498,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-02-22T00:00:00-06:00",
+                    "endDate": "2016-03-17T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-02-22T00:00:00-06:00",
+                    "endDate": "2016-02-22T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "ASI030129LD0",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "ABASTO Y SERVICIOS INTEGRADOS SA DE",
+                        "address": {
+                            "streetAddress": "MONROVIA",
+                            "locality": "PORTALES BENITO JUÁREZ",
+                            "region": "DF",
+                            "postalCode": "3300",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "DIANA VAZQUEZ TORRES",
+                            "email": "",
+                            "telephone": "5601-2293",
+                            "faxNumber": "5601-2293",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "FMU13071716A",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "FUMIGACION Y MULTISERVICIOS,",
+                        "address": {
+                            "streetAddress": "AV. 1",
+                            "locality": "COL SAN PEDRO DE LOS PINOS",
+                            "region": "DF",
+                            "postalCode": "3901",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "PERLA MARGARITA ROMERO VELAZQUEZ",
+                            "email": "",
+                            "telephone": "",
+                            "faxNumber": "",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "PSC110314TLA",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "PROFESIONALES EN SERV DE CONTROL",
+                        "address": {
+                            "streetAddress": "AV PASEO DE LOS FLAMINGOS",
+                            "locality": "COL FRACC LAS ALAMEDAS EDO MEXICO",
+                            "region": "DF",
+                            "postalCode": "52970",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "MARIO ALBERTO CARO MORENO",
+                            "email": "",
+                            "telephone": "5716-2876",
+                            "faxNumber": "5716-2876",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 131",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_131_20160610_155353.pdf",
+                        "datePublished": "2016-02-10T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO DE FUMIGACIÓN Y DESRATIZACIÓN",
+                    "description": "SERVICIO DE FUMIGACIÓN Y DESRATIZACIÓN",
+                    "status": "active",
+                    "date": "2016-04-05T00:00:00-06:00",
+                    "value": {
+                        "amount": 348498,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "ASI030129LD0",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "ABASTO Y SERVICIOS INTEGRADOS SA",
+                            "address": {
+                                "streetAddress": "MONROVIA",
+                                "locality": "PORTALES BENITO JUÁREZ",
+                                "region": "DF",
+                                "postalCode": "3300",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "DIANA VAZQUEZ TORRES",
+                                "email": "",
+                                "telephone": "5601-2293",
+                                "faxNumber": "5601-2293",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "FUMIGACION Y DESRATIZACION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0883",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0883_20160610_155432.pdf",
+                            "datePublished": "2016-03-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-015/2016",
+                    "description": "SERVICIO DE FUMIGACIÓN Y DESRATIZACIÓN",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-04-01T00:00:00-06:00",
+                        "endDate": "2016-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 348498,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "FUMIGACION Y DESRATIZACION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO CS-015/2016",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cs_015_2016_20160613_133151.pdf",
+                            "datePublished": "2016-03-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

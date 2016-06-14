@@ -1,0 +1,353 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+            "id": "1",
+            "date": "2015-07-14T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 475558,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-284-2015"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACION PRESUPUESTAL 284",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_284_20160505_143622.pdf",
+                        "datePublished": "2015-07-14T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-A-014-2015",
+                "title": "ARRENDAMIENTO INMUEBLES",
+                "description": "ARRENDAMIENTO DE INMUEBLE",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 475558,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-05-29T00:00:00-06:00",
+                    "endDate": "2015-05-29T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "",
+                "awardPeriod": {
+                    "startDate": "2015-05-29T00:00:00-06:00",
+                    "endDate": "2015-05-29T00:00:00-06:00"
+                },
+                "numberOfTenderers": 1,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "CCF121101KQ4",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "COMERCIAL CITY FRESKO S. DE R.L. DE",
+                        "address": {
+                            "streetAddress": "AV REVOLUCION",
+                            "locality": "SAN JUAN; BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3730",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "JUAN BLANCO FORTES",
+                            "email": "",
+                            "telephone": "",
+                            "faxNumber": "",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "51342500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICION 75",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_075_20160505_143648.pdf",
+                        "datePublished": "2014-12-18T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "ARRENDAMIENTO INMUEBLES",
+                    "description": "ARRENDAMIENTO DE INMUEBLE",
+                    "status": "pending",
+                    "date": "2016-05-03T00:00:00-06:00",
+                    "value": {
+                        "amount": 475558,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "CCF121101KQ4",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "COMERCIAL CITY FRESKO S. DE R.L.",
+                            "address": {
+                                "streetAddress": "AV REVOLUCION",
+                                "locality": "SAN JUAN; BENITO JUAREZ",
+                                "region": "DF",
+                                "postalCode": "3730",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "JUAN BLANCO FORTES",
+                                "email": "",
+                                "telephone": "",
+                                "faxNumber": "",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": []
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CD05-14-02-ADOF-080.",
+                    "description": "ARRENDAMIENTO DE INMUEBLE",
+                    "status": "pending",
+                    "period": {
+                        "startDate": null,
+                        "endDate": null
+                    },
+                    "value": {
+                        "amount": 552598,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "INMUEBLE AV LAS TORRES 446 DEL A OBREGON",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-06-30T00:00:00-06:00",
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO CM2 AL A-012/2015",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/cm2_al_a_009_2015_20160505_141105.pdf",
+                            "datePublished": "2015-06-30T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010015665-2015",
+                                "date": "2016-02-05T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 204982,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "CCF121101KQ4",
+                                    "legalName": "COMERCIAL CITY FRESKO S. DE R.L. DE",
+                                    "uri": null
+                                }
+                            },
+                            {
+                                "id": "CLC0010016646-2015",
+                                "date": "2016-02-05T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 204982,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "CCF121101KQ4",
+                                    "legalName": "COMERCIAL CITY FRESKO S. DE R.L. DE",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012254-00001-2015",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2015-12-31T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            },
+                            {
+                                "id": "5000012257-00002-2015",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2015-12-31T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            },
+                            {
+                                "id": "5000012403-00005-2015",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2015-12-31T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

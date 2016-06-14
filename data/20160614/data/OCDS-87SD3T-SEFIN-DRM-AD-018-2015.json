@@ -1,0 +1,240 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-018-2015",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-018-2015",
+            "id": "1",
+            "date": "2015-11-03T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 425000,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-456-2015"
+                },
+                "documents": []
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-018-2015",
+                "title": "SERVICIO INTEGRAL DEL EVENTO",
+                "description": "SERVICIO INTEGRAL DEL EVENTO",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "SERVICIOS INTEGRALES",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 425000,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-11-04T00:00:00-06:00",
+                    "endDate": "2015-11-05T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO,OTRO&ANEXO TECNICO",
+                "awardPeriod": {
+                    "startDate": "2015-11-13T00:00:00-06:00",
+                    "endDate": "2015-11-13T00:00:00-06:00"
+                },
+                "numberOfTenderers": 2,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "CSB070901IV1",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "CMG SOLUCIONES BTL S.A. DE C.V.",
+                        "address": {
+                            "streetAddress": "MONTE ELBRUZ",
+                            "locality": "CHAPULTEPEC MORALES; MIGUEL HIDALGO",
+                            "region": "DF",
+                            "postalCode": "11570",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "CLAUDIO MEJAN GANEM",
+                            "email": "cmejan@gideas.com.mx",
+                            "telephone": "50230300",
+                            "faxNumber": "50230300",
+                            "url": "http://WWW.GIDEAS.COM.MX"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "FBM1002263D8",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "FLOW BM, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "NUEVO LEÓN",
+                            "locality": "COL CONDESA DEL CUAUHTEMOC",
+                            "region": "DF",
+                            "postalCode": "",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "PAMELA FLORES DE SAHAGUN",
+                            "email": "",
+                            "telephone": "52768240",
+                            "faxNumber": "52768240",
+                            "url": "http://WWW.FLOWBM.COM"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "51342500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": []
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO INTEGRAL DEL EVENTO",
+                    "description": "SERVICIO INTEGRAL DEL EVENTO",
+                    "status": "active",
+                    "date": "2016-01-28T00:00:00-06:00",
+                    "value": {
+                        "amount": 425000,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "CSB070901IV1",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "CMG SOLUCIONES BTL S.A. DE C.V.",
+                            "address": {
+                                "streetAddress": "MONTE ELBRUZ",
+                                "locality": "CHAPULTEPEC MORALES; MIGUEL HIDALGO",
+                                "region": "DF",
+                                "postalCode": "11570",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "CLAUDIO MEJAN GANEM",
+                                "email": "cmejan@gideas.com.mx",
+                                "telephone": "50230300",
+                                "faxNumber": "50230300",
+                                "url": "http://WWW.GIDEAS.COM.MX"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIOS INTEGRALES",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": []
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-091/2015",
+                    "description": "SERVICIO INTEGRAL DEL EVENTO",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2015-12-14T00:00:00-06:00",
+                        "endDate": "2015-12-18T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 425000,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SERVICIOS INTEGRALES",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-11-13T00:00:00-06:00",
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

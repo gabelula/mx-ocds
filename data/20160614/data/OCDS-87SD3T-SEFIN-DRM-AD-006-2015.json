@@ -1,0 +1,332 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-006-2015",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-006-2015",
+            "id": "1",
+            "date": "2015-12-02T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 754000,
+                        "currency": "MXN"
+                    },
+                    "project": ""
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACION PRESUPUESTAL 502",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_502_20160505_142341.pdf",
+                        "datePublished": "2015-12-21T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-006-2015",
+                "title": "SPOT DESCUENTO POR PAGO ANUAL DE PREDIAL 2016",
+                "description": "SPOT RADIO Y TELEVISIÒN PREDIAL (ENERO_FEBRERO)",
+                "status": "active",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "SPOT RADIO Y TELEVISION",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 754000,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestProposal",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-12-16T00:00:00-06:00",
+                    "endDate": "2015-12-31T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-31T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "GOCH811002LL2",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "HUGO ALFONSO GÓMEZ CRUZ",
+                        "address": {
+                            "streetAddress": "JOSÉ MARÍA PARRAS",
+                            "locality": "IZTAPALAPA",
+                            "region": "DF",
+                            "postalCode": "9100",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "HUGO ALFONSO GÓMEZ CRUZ",
+                            "email": "",
+                            "telephone": "67185614",
+                            "faxNumber": "67185614",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "GWL100426RL2",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "GEN WL",
+                        "address": {
+                            "streetAddress": "RIO GUADALQUIVIR",
+                            "locality": "CUAUHTÉMOC",
+                            "region": "DF",
+                            "postalCode": "6500",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ALEJANDRO AYALA",
+                            "email": "",
+                            "telephone": "",
+                            "faxNumber": "",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "RURL681029JZ8",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "JOSE LUIS RUEDA REYES",
+                        "address": {
+                            "streetAddress": "EDIF 9",
+                            "locality": "UNIDAD CUITLAHUAC AZCAPOTZALCO",
+                            "region": "DF",
+                            "postalCode": "2500",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "JOSÉ LUIS RUEDA REYES",
+                            "email": "",
+                            "telephone": "52643195",
+                            "faxNumber": "52643195",
+                            "url": "http://WWW.CABEZAFILMS.COM"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "51342500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICION 517",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_517_20160505_142408.pdf",
+                        "datePublished": "2015-12-02T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    },
+                    {
+                        "id": "2",
+                        "title": "ESTUDIO DE PRECIO DE MERCADO",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/estudio_precios_20160505_142429.pdf",
+                        "datePublished": "2015-12-16T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SPOT DESCUENTO POR PAGO ANUAL DE PREDIAL 2016",
+                    "description": "SPOT RADIO Y TELEVISIÒN PREDIAL (ENERO_FEBRERO)",
+                    "status": "active",
+                    "date": "2015-12-28T00:00:00-06:00",
+                    "value": {
+                        "amount": 754000,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "RURL681029JZ8",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "EDIF 9",
+                                "locality": "UNIDAD CUITLAHUAC AZCAPOTZALCO",
+                                "region": "DF",
+                                "postalCode": "2500",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "JOSÉ LUIS RUEDA REYES",
+                                "email": "",
+                                "telephone": "52643195",
+                                "faxNumber": "52643195",
+                                "url": "http://WWW.CABEZAFILMS.COM"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SPOT RADIO Y TELEVISION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACION 4018",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_4018_20160505_142456.pdf",
+                            "datePublished": "2015-12-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-093/2015",
+                    "description": "SPOT RADIO Y TELEVISIÒN PREDIAL (ENERO_FEBRERO)",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2015-12-22T00:00:00-06:00",
+                        "endDate": "2015-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 754000,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "SPOT RADIO Y TELEVISION",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-12-22T00:00:00-06:00",
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO CS-093/2015",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cs_093_2015_20160505_141459.pdf",
+                            "datePublished": "2015-12-22T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010018116-2015",
+                                "date": "2016-02-08T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 650000,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "RURL681029JZ8",
+                                    "legalName": "JOSE LUIS RUEDA REYES",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012458-00010-2015",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2015-12-31T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

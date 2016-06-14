@@ -1,0 +1,274 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-LPN-016-2015",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-LPN-016-2015",
+            "id": "1",
+            "date": "2015-10-14T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 200000,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-481-2015"
+                },
+                "documents": []
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-LPN-016-2015",
+                "title": "CENSO CATASTRAL",
+                "description": "EJECUCIÓN DE TRABAJOS DEL CENSO CATASTRAL",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "CENSO CATASTRAL INMOBILIARIO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 200000,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "open",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-12-28T00:00:00-06:00",
+                    "endDate": "2015-12-28T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-22T00:00:00-06:00"
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "",
+                "awardPeriod": {
+                    "startDate": "2015-12-30T00:00:00-06:00",
+                    "endDate": "2015-12-30T00:00:00-06:00"
+                },
+                "numberOfTenderers": 2,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "CAR990323SN1",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "CARTODATA, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "CIRCUNVALACION OTE",
+                            "locality": "ZAPOPAN, JALISCO",
+                            "region": "JAL",
+                            "postalCode": "45010",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ARQ. ERIC LUIS ANTONIO AUDIRAC LASS",
+                            "email": "ventas@cartodata.com",
+                            "telephone": "3336271562",
+                            "faxNumber": "3336271562",
+                            "url": "http://WWW.CARTODATA.COM"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "SMI680112PG9",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "SERVICIOS MEXICANOS DE INGENIERIA",
+                        "address": {
+                            "streetAddress": "AVENIDA COYOACAN",
+                            "locality": "BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3100",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ING. CARLOS DAVID SANCHEZ PEÑALOZA",
+                            "email": "atecion.clientes@semicmex.com.mx",
+                            "telephone": "55756287",
+                            "faxNumber": "55756287",
+                            "url": "http://WWW.SEMICMEX.COM.MX"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "",
+                        "uri": null
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "",
+                        "locality": "",
+                        "region": "",
+                        "postalCode": "",
+                        "countryName": ""
+                    },
+                    "contactPoint": {
+                        "name": "",
+                        "email": "",
+                        "telephone": "",
+                        "faxNumber": "",
+                        "url": null
+                    }
+                },
+                "documents": []
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "CENSO CATASTRAL",
+                    "description": "EJECUCIÓN DE TRABAJOS DEL CENSO CATASTRAL",
+                    "status": "active",
+                    "date": "2016-04-08T00:00:00-06:00",
+                    "value": {
+                        "amount": 200000,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "SMI680112PG9",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "AVENIDA COYOACAN",
+                                "locality": "BENITO JUAREZ",
+                                "region": "DF",
+                                "postalCode": "3100",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "ING. CARLOS DAVID SANCHEZ PEÑALOZA",
+                                "email": "atecion.clientes@semicmex.com.mx",
+                                "telephone": "55756287",
+                                "faxNumber": "55756287",
+                                "url": "http://WWW.SEMICMEX.COM.MX"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CENSO CATASTRAL INMOBILIARIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": []
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-MA-010/2015",
+                    "description": "EJECUCIÓN DE TRABAJOS DEL CENSO CATASTRAL",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2015-12-31T00:00:00-06:00",
+                        "endDate": "2016-04-30T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 9742882,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CENSO CATASTRAL INMOBILIARIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-12-30T00:00:00-06:00",
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000175-2016",
+                                "date": "2016-05-04T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 1859835,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "SMI680112PG9",
+                                    "legalName": "SERVICIOS MEXICANOS DE INGENIERIA C",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012643-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-13T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            },
+                            {
+                                "id": "5000012802-00020-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-05-05T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

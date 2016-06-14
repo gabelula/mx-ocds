@@ -1,0 +1,246 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-071-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-071-2016",
+            "id": "1",
+            "date": "2015-12-22T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 34243,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-040-2016"
+                },
+                "documents": []
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-071-2016",
+                "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "PLOTTER",
+                        "quantity": 2,
+                        "unit": {
+                            "name": "E"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 34243,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-22T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2015-12-22T00:00:00-06:00",
+                    "endDate": "2015-12-22T00:00:00-06:00"
+                },
+                "numberOfTenderers": 1,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "MIC860903U51",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "MICROFORMAS, S. A. DE C. V.",
+                        "address": {
+                            "streetAddress": "LUZ SAVIÑON",
+                            "locality": "BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3020",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ROSA MARÍA URIBE CEDILLO",
+                            "email": "ruribe@microformas.com.mx",
+                            "telephone": "1167-5200",
+                            "faxNumber": "1167-5200",
+                            "url": "http://WWW.MICROFORMAS.COM.MX"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": []
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "status": "active",
+                    "date": "2016-04-18T00:00:00-06:00",
+                    "value": {
+                        "amount": 34243,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "MIC860903U51",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "MICROFORMAS, S. A. DE C. V.",
+                            "address": {
+                                "streetAddress": "LUZ SAVIÑON",
+                                "locality": "BENITO JUAREZ",
+                                "region": "DF",
+                                "postalCode": "3020",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "ROSA MARÍA URIBE CEDILLO",
+                                "email": "ruribe@microformas.com.mx",
+                                "telephone": "1167-5200",
+                                "faxNumber": "1167-5200",
+                                "url": "http://WWW.MICROFORMAS.COM.MX"
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PLOTTER",
+                            "quantity": 2,
+                            "unit": {
+                                "name": "E"
+                            }
+                        }
+                    ],
+                    "documents": []
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-A-005/2016",
+                    "description": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-01-01T00:00:00-06:00",
+                        "endDate": "2016-03-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 34243,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "PLOTTER",
+                            "quantity": 2,
+                            "unit": {
+                                "name": "E"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2016-01-01T00:00:00-06:00",
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000151-2016",
+                                "date": "2016-05-04T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 29520,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "MIC860903U51",
+                                    "legalName": "\"MICROFORMAS, S. A. DE C. V.\"",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012744-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-19T00:00:00-06:00",
+                                "status": "partiallyMet"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

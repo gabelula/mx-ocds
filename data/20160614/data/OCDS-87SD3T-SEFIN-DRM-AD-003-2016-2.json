@@ -1,0 +1,418 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-003-2016-2",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-003-2016-2",
+            "id": "1",
+            "date": "2015-12-28T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 128369,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-027-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/027/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_027_20160610_150311.pdf",
+                        "datePublished": "2016-01-27T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO, D.F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ANGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "5134-2500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-003-2016-2",
+                "title": "VASOS DESECHABLES, CUCHARAS DES, CAFÉ, TÉ, AZUCAR",
+                "description": "VASOS DESECHABLES, CUCHARAS DES, CAFÉ, TÉ, AZUCAR",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "VASOS P-CAFE 8OZ.",
+                        "quantity": 90000,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "CUCHARAS",
+                        "quantity": 70000,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "description": "CAFE SOLUBLE",
+                        "quantity": 40,
+                        "unit": {
+                            "name": "KG"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "description": "TE (SOBRES)",
+                        "quantity": 51350,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "description": "AZUCAR (SOBRES)",
+                        "quantity": 72000,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 128369,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-01-05T00:00:00-06:00",
+                    "endDate": "2016-01-05T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "",
+                "awardPeriod": {
+                    "startDate": "2016-01-04T00:00:00-06:00",
+                    "endDate": "2016-01-04T00:00:00-06:00"
+                },
+                "numberOfTenderers": 2,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "GORO551025A89",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "OSCAR JAVIER GOMAR RUIZ",
+                        "address": {
+                            "streetAddress": "4a CDA 2 FEB.",
+                            "locality": "NATIVITAS; XOCHIMILCO",
+                            "region": "DF",
+                            "postalCode": "16450",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "OSCAR JAVIER GOMAR RUIZ",
+                            "email": "",
+                            "telephone": "2157-4681",
+                            "faxNumber": "2157-4681",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "MOOA691210UH5",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "MARIA ANGELICA MONTIEL ORTIZ",
+                        "address": {
+                            "streetAddress": "CORAS MANZANA",
+                            "locality": "COL AJUSCO COYOACAN DEL COYOACAN",
+                            "region": "DF",
+                            "postalCode": "4300",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "MARIA ANGELICA MONTIEL ORTIZ",
+                            "email": "gpoajusco@axtel.net",
+                            "telephone": "1055-0098",
+                            "faxNumber": "1055-0107",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO, D.F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESUS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "5134-2500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 44 45 46 47",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisiciones_044_045_046_047_20160610_150356.pdf",
+                        "datePublished": "2015-12-28T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "VASOS DESECHABLES, CUCHARAS DES, CAFÉ, TÉ, AZUCAR",
+                    "description": "VASOS DESECHABLES, CUCHARAS DES, CAFÉ, TÉ, AZUCAR",
+                    "status": "active",
+                    "date": "2016-03-23T00:00:00-06:00",
+                    "value": {
+                        "amount": 128369,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "GORO551025A89",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "OSCAR JAVIER GOMAR RUIZ",
+                            "address": {
+                                "streetAddress": "4a CDA 2 FEB.",
+                                "locality": "NATIVITAS; XOCHIMILCO",
+                                "region": "DF",
+                                "postalCode": "16450",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "OSCAR JAVIER GOMAR RUIZ",
+                                "email": "",
+                                "telephone": "2157-4681",
+                                "faxNumber": "2157-4681",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "VASOS P-CAFE 8OZ.",
+                            "quantity": 90000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CUCHARAS",
+                            "quantity": 70000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "CAFE SOLUBLE",
+                            "quantity": 40,
+                            "unit": {
+                                "name": "KG"
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "description": "TE (SOBRES)",
+                            "quantity": 51350,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "description": "AZUCAR (SOBRES)",
+                            "quantity": 72000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0061",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0061_20160610_150452.pdf",
+                            "datePublished": "2016-01-07T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-AD/003/2016",
+                    "description": "VASOS DESECHABLES, CUCHARAS DES, CAFÉ, TÉ, AZUCAR",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-01-07T00:00:00-06:00",
+                        "endDate": "2016-01-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 128369,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "VASOS P-CAFE 8OZ.",
+                            "quantity": 90000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "CUCHARAS",
+                            "quantity": 70000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "description": "CAFE SOLUBLE",
+                            "quantity": 40,
+                            "unit": {
+                                "name": "KG"
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "description": "TE (SOBRES)",
+                            "quantity": 51350,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "description": "AZUCAR (SOBRES)",
+                            "quantity": 72000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000138-2016",
+                                "date": "2016-05-06T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 120305,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "GORO551025A89",
+                                    "legalName": "OSCAR JAVIER GOMAR RUIZ",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012630-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-23T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012630-00020-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-23T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012631-00030-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-23T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012631-00040-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-23T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012631-00050-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-03-23T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

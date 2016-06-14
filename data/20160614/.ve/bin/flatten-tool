@@ -1,0 +1,6 @@
+#!/Users/Gabriela/Code/ocds/mx-ocds/data/20160614/.ve/bin/python3.5
+# EASY-INSTALL-DEV-SCRIPT: 'flattentool==0.0.0','flatten-tool'
+__requires__ = 'flattentool==0.0.0'
+__import__('pkg_resources').require('flattentool==0.0.0')
+__file__ = '/Users/Gabriela/Code/ocds/mx-ocds/data/20160614/.ve/src/flattentool/flatten-tool'
+exec(compile(open(__file__).read(), __file__, 'exec'))

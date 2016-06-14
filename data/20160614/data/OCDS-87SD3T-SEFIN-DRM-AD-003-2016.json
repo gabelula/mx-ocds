@@ -1,0 +1,319 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-003-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-003-2016",
+            "id": "1",
+            "date": "2016-03-01T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 530407,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-126-2016"
+                },
+                "documents": []
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "5134-2500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-003-2016",
+                "title": "SERVICIO DE ADECUACIÓN DE BAJO PUENTE",
+                "description": "SERVICIO DE ADECUACIÓN DE BAJO PUENTE",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "ADECUACIÓN DE ESPACIO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "description": "ADECUACIÓN DE ESPACIO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 530407,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-02-09T00:00:00-06:00",
+                    "endDate": "2016-02-09T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-03-02T00:00:00-06:00",
+                    "endDate": "2016-03-02T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "DIN960129660",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "DPC INGENIERÍA, SA DE CV",
+                        "address": {
+                            "streetAddress": "AUGUSTO RODIN",
+                            "locality": "COLONIA NAPOLES",
+                            "region": "DF",
+                            "postalCode": "3810",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ISAIAS ROMERO ESCALONA",
+                            "email": "",
+                            "telephone": "5682-3260",
+                            "faxNumber": "5682-3260",
+                            "url": "http://WWW.DPCINGENIERIA.COM.MX"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "MCA920618M24",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "MARTINEZ CASTILLO SA DE CV",
+                        "address": {
+                            "streetAddress": "HACIENDA DE LA GAVIA",
+                            "locality": "ATIZAPAN DE ZARAGOZA IZCALLI EL CAM",
+                            "region": "MEX",
+                            "postalCode": "52928",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "JUAN CARLOS MARTÍNEZ DEL O.",
+                            "email": "",
+                            "telephone": "5887-4000",
+                            "faxNumber": "5887-4000",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "SIT020308GRA",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "SERVICIO TÉCNICO INDUSTRIAL",
+                        "address": {
+                            "streetAddress": "MIGUEL HIDALGO",
+                            "locality": "COL EJIDO STA URSULA C DEL COYOACAN",
+                            "region": "DF",
+                            "postalCode": "4850",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "RAFAEL JAUREGUI RUIZ",
+                            "email": "",
+                            "telephone": "5485-5922",
+                            "faxNumber": "5485-5922",
+                            "url": "http://WWW.SITSA.MX"
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "5134-2500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": []
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SERVICIO DE ADECUACIÓN DE BAJO PUENTE",
+                    "description": "SERVICIO DE ADECUACIÓN DE BAJO PUENTE",
+                    "status": "active",
+                    "date": "2016-04-06T00:00:00-06:00",
+                    "value": {
+                        "amount": 530407,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "MCA920618M24",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "HACIENDA DE LA GAVIA",
+                                "locality": "ATIZAPAN DE ZARAGOZA IZCALLI EL CAM",
+                                "region": "MEX",
+                                "postalCode": "52928",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "JUAN CARLOS MARTÍNEZ DEL O.",
+                                "email": "",
+                                "telephone": "5887-4000",
+                                "faxNumber": "5887-4000",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "ADECUACIÓN DE ESPACIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "ADECUACIÓN DE ESPACIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": []
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CS-011/2016",
+                    "description": "SERVICIO DE ADECUACIÓN DE BAJO PUENTE",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-03-02T00:00:00-06:00",
+                        "endDate": "2016-03-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 530407,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "ADECUACIÓN DE ESPACIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        },
+                        {
+                            "id": "2",
+                            "description": "ADECUACIÓN DE ESPACIO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010000157-2016",
+                                "date": "2016-05-04T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 365830,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "MCA920618M24",
+                                    "legalName": "MARTINEZ CASTILLO SA DE CV",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012758-00010-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-20T00:00:00-06:00",
+                                "status": "met"
+                            },
+                            {
+                                "id": "5000012775-00012-2016",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2016-04-22T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

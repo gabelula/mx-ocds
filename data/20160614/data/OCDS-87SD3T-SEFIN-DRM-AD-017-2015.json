@@ -1,0 +1,332 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-017-2015",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-017-2015",
+            "id": "1",
+            "date": "2015-11-04T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 71344,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACIÓN PRESUPUESTAL SPP-448-2015"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACION PRESUPUESTAL 448",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_448_20160505_141427.pdf",
+                        "datePublished": "2015-11-11T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DR. LAVISTA",
+                    "locality": "MÉXICO D. F.",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ÁNGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-017-2015",
+                "title": "SISTEMA DE SONORIZACION Y VOCEO",
+                "description": "INSTALACIÓN Y COLOCACION SISTEMA SONORIZACION",
+                "status": "complete",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "INSTALACIÓN Y COLOCACIÓN DE EQUIPAMIENTO",
+                        "quantity": 1,
+                        "unit": {
+                            "name": "SER"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 71344,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2015-11-04T00:00:00-06:00",
+                    "endDate": "2015-11-12T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO,OTRO&ANEXO TECNICO",
+                "awardPeriod": {
+                    "startDate": "2015-11-12T00:00:00-06:00",
+                    "endDate": "2015-11-12T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "DCO990909GBA",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "DESARROLLO COMERCIAL ORION,",
+                        "address": {
+                            "streetAddress": "HERIBERTO FRIAS",
+                            "locality": "BENITO JUAREZ",
+                            "region": "DF",
+                            "postalCode": "3100",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ROGELIO IZKANDER CASABAL PEREZ",
+                            "email": "",
+                            "telephone": "91830540",
+                            "faxNumber": "91830540",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "MEM8704099U1",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "MARK EXTINGUISHER DE MEXICO,",
+                        "address": {
+                            "streetAddress": "OTUMBA",
+                            "locality": "TLALNEPANTLA EDO. DE MEXICO",
+                            "region": "MEX",
+                            "postalCode": "54070",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "ARTURO ORTEGA PORCAYO",
+                            "email": "ventas@makseguridad.com",
+                            "telephone": "53611536",
+                            "faxNumber": "53611536",
+                            "url": "http://WWW.MAKSEGURIDAD.COM"
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "SIC0306206M8",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "SERVICIOS INTEGRALES CONTRA INCENDI",
+                        "address": {
+                            "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+                            "locality": "SAN MATEO; AZCAPOTZALCO",
+                            "region": "DF",
+                            "postalCode": "2490",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "DIANA IRIS TOUS AMEZCUA",
+                            "email": "",
+                            "telephone": "55614071",
+                            "faxNumber": "55614071",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESÚS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "51342500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICION 490",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_490_20160505_141453.pdf",
+                        "datePublished": "2015-11-04T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    },
+                    {
+                        "id": "2",
+                        "title": "ESTUDIO DE PRECIO DE MERCADO",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/estudio_precios_20160505_141514.pdf",
+                        "datePublished": "2015-11-12T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "SISTEMA DE SONORIZACION Y VOCEO",
+                    "description": "INSTALACIÓN Y COLOCACION SISTEMA SONORIZACION",
+                    "status": "active",
+                    "date": "2016-01-28T00:00:00-06:00",
+                    "value": {
+                        "amount": 71344,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "SIC0306206M8",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+                                "locality": "SAN MATEO; AZCAPOTZALCO",
+                                "region": "DF",
+                                "postalCode": "2490",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "DIANA IRIS TOUS AMEZCUA",
+                                "email": "",
+                                "telephone": "55614071",
+                                "faxNumber": "55614071",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "INSTALACIÓN Y COLOCACIÓN DE EQUIPAMIENTO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACION 3637",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_3637_20160505_141548.pdf",
+                            "datePublished": "2015-11-12T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-S-035/2015",
+                    "description": "INSTALACIÓN Y COLOCACION SISTEMA SONORIZACION",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2015-11-13T00:00:00-06:00",
+                        "endDate": "2015-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 71344,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "INSTALACIÓN Y COLOCACIÓN DE EQUIPAMIENTO",
+                            "quantity": 1,
+                            "unit": {
+                                "name": "SER"
+                            }
+                        }
+                    ],
+                    "dateSigned": "2015-11-12T00:00:00-06:00",
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "CONTRATO CP-S-035/2015",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cp_s_035_2015_20160505_141842.pdf",
+                            "datePublished": "2015-11-12T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ],
+                    "implementation": {
+                        "transactions": [
+                            {
+                                "id": "CLC0010018212-2015",
+                                "date": "2016-02-08T00:00:00-06:00",
+                                "amount": {
+                                    "amount": 61503,
+                                    "currency": "MXN"
+                                },
+                                "providerOrganization": {
+                                    "id": "0901",
+                                    "legalName": "SECRETARÍA DE FINANZAS",
+                                    "uri": null
+                                },
+                                "receiverOrganization": {
+                                    "id": "SIC0306206M8",
+                                    "legalName": "SERVICIOS INTEGRALES CONTRA INCENDI",
+                                    "uri": null
+                                }
+                            }
+                        ],
+                        "milestones": [
+                            {
+                                "id": "5000012484-00010-2015",
+                                "title": "Entrada de merancía",
+                                "description": "Entrada de merancía",
+                                "dueDate": "2015-12-31T00:00:00-06:00",
+                                "status": "met"
+                            }
+                        ],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

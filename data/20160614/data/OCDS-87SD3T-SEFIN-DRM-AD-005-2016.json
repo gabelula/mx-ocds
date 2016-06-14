@@ -1,0 +1,288 @@
+{
+    "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-005-2016",
+    "publishedDate": "2016-06-13T00:00:00-06:00",
+    "publisher": {
+        "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+        "name": "CDMX-SEFIN",
+        "uri": "http://www.finanzas.df.gob.mx/",
+        "uid": "0901"
+    },
+    "releases": [
+        {
+            "ocid": "OCDS-87SD3T-SEFIN-DRM-AD-005-2016",
+            "id": "1",
+            "date": "2016-01-27T00:00:00-06:00",
+            "tag": [
+                "contract"
+            ],
+            "initiationType": "tender",
+            "planning": {
+                "budget": {
+                    "amount": {
+                        "amount": 66468,
+                        "currency": "MXN"
+                    },
+                    "project": "AUTORIZACION PRESUPUESTAL SPP-100-2016"
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "AUTORIZACIÓN PRESUPUESTAL SPP/100/2016",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_100_20160610_151105.pdf",
+                        "datePublished": "2016-02-18T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "buyer": {
+                "identifier": {
+                    "id": "GDF9712054NA",
+                    "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                },
+                "name": "SECRETARÍA DE FINANZAS",
+                "address": {
+                    "streetAddress": "DOCTOR LAVISTA",
+                    "locality": "MEXICO DF",
+                    "region": "DF",
+                    "postalCode": "6720",
+                    "countryName": "MX"
+                },
+                "contactPoint": {
+                    "name": "MIGUEL ANGEL VIDAL FRANCO",
+                    "email": "mvidal@finanzas.df.gob.mx",
+                    "telephone": "51342500",
+                    "faxNumber": "51342500",
+                    "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                }
+            },
+            "tender": {
+                "id": "OCDS-87SD3T-SEFIN-DRM-AD-005-2016",
+                "title": "MARCHAMOS",
+                "description": "MARCHAMOS",
+                "status": "planned",
+                "items": [
+                    {
+                        "id": "1",
+                        "description": "CANDADOS DE SEGURIDAD PLASTICO Y METAL(M",
+                        "quantity": 15000,
+                        "unit": {
+                            "name": "PZA"
+                        }
+                    }
+                ],
+                "value": {
+                    "amount": 66468,
+                    "currency": "MXN"
+                },
+                "procurementMethod": "limited",
+                "awardCriteria": "bestValueToGovernment",
+                "submissionMethod": [
+                    "written"
+                ],
+                "tenderPeriod": {
+                    "startDate": "2016-02-03T00:00:00-06:00",
+                    "endDate": "2016-02-11T00:00:00-06:00"
+                },
+                "enquiryPeriod": {
+                    "startDate": null,
+                    "endDate": null
+                },
+                "hasEnquiries": true,
+                "eligibilityCriteria": "SERVICIO,CONDICIONES,PRECIO",
+                "awardPeriod": {
+                    "startDate": "2016-03-07T00:00:00-06:00",
+                    "endDate": "2016-03-07T00:00:00-06:00"
+                },
+                "numberOfTenderers": 3,
+                "tenderers": [
+                    {
+                        "identifier": {
+                            "id": "CFE950615573",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "COMERCIAL FERRETERA",
+                        "address": {
+                            "streetAddress": "",
+                            "locality": "",
+                            "region": "",
+                            "postalCode": "",
+                            "countryName": ""
+                        },
+                        "contactPoint": {
+                            "name": "",
+                            "email": "",
+                            "telephone": "",
+                            "faxNumber": "",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "DIA100928DD6",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "DISEÑO INTEGRAL ALZE S.A DE C.V",
+                        "address": {
+                            "streetAddress": "PLAYA PESCADORES",
+                            "locality": "REFORMA IZTACCIHUATL",
+                            "region": "DF",
+                            "postalCode": "8840",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "COMERCIAL FERRETERA EDALMEX SA CV",
+                            "email": "",
+                            "telephone": "55429557",
+                            "faxNumber": "55429557",
+                            "url": null
+                        }
+                    },
+                    {
+                        "identifier": {
+                            "id": "FBA010824TH1",
+                            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                        },
+                        "name": "Ferreteria Bafersa s.a. de c.v.",
+                        "address": {
+                            "streetAddress": "FRAY SERVANDO TERESA DE M",
+                            "locality": "CUAUHTÉMOC",
+                            "region": "DF",
+                            "postalCode": "6820",
+                            "countryName": "MX"
+                        },
+                        "contactPoint": {
+                            "name": "FERRETERIA BAFERSA S.A. DE C.V",
+                            "email": "",
+                            "telephone": "91136123",
+                            "faxNumber": "91136123",
+                            "url": null
+                        }
+                    }
+                ],
+                "procuringEntity": {
+                    "identifier": {
+                        "id": "GDF9712054NA",
+                        "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                    },
+                    "name": "SECRETARÍA DE FINANZAS",
+                    "address": {
+                        "streetAddress": "DR. LAVISTA",
+                        "locality": "MÉXICO D. F.",
+                        "region": "DF",
+                        "postalCode": "6720",
+                        "countryName": "MX"
+                    },
+                    "contactPoint": {
+                        "name": "PEDRO JESUS LARA LASTRA",
+                        "email": "plara@finanzas.df.gob.mx",
+                        "telephone": "51342500",
+                        "faxNumber": "51342500",
+                        "url": "http://WWW.FINANZAS.DF.GOB.MX"
+                    }
+                },
+                "documents": [
+                    {
+                        "id": "1",
+                        "title": "REQUISICIÓN NÚMERO 103",
+                        "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/requisicion_103_20160610_151320.pdf",
+                        "datePublished": "2016-01-27T00:00:00-06:00",
+                        "format": "application/pdf",
+                        "language": "es"
+                    }
+                ]
+            },
+            "awards": [
+                {
+                    "id": "1",
+                    "title": "MARCHAMOS",
+                    "description": "MARCHAMOS",
+                    "status": "active",
+                    "date": "2016-03-16T00:00:00-06:00",
+                    "value": {
+                        "amount": 66468,
+                        "currency": "MXN"
+                    },
+                    "suppliers": [
+                        {
+                            "identifier": {
+                                "id": "FBA010824TH1",
+                                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+                            },
+                            "name": "",
+                            "address": {
+                                "streetAddress": "FRAY SERVANDO TERESA DE M",
+                                "locality": "CUAUHTÉMOC",
+                                "region": "DF",
+                                "postalCode": "6820",
+                                "countryName": "MX"
+                            },
+                            "contactPoint": {
+                                "name": "FERRETERIA BAFERSA S.A. DE C.V",
+                                "email": "",
+                                "telephone": "91136123",
+                                "faxNumber": "91136123",
+                                "url": null
+                            }
+                        }
+                    ],
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CANDADOS DE SEGURIDAD PLASTICO Y METAL(M",
+                            "quantity": 15000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "1",
+                            "title": "OFICIO DE ADJUDICACIÓN 0705",
+                            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/adjudicacion_0705_20160610_151436.pdf",
+                            "datePublished": "2016-03-07T00:00:00-06:00",
+                            "format": "application/pdf",
+                            "language": "es"
+                        }
+                    ]
+                }
+            ],
+            "contracts": [
+                {
+                    "id": "1",
+                    "awardID": "1",
+                    "title": "CP-AD/006/2016",
+                    "description": "MARCHAMOS",
+                    "status": "pending",
+                    "period": {
+                        "startDate": "2016-06-07T00:00:00-06:00",
+                        "endDate": "2016-12-31T00:00:00-06:00"
+                    },
+                    "value": {
+                        "amount": 66468,
+                        "currency": "MXN"
+                    },
+                    "items": [
+                        {
+                            "id": "1",
+                            "description": "CANDADOS DE SEGURIDAD PLASTICO Y METAL(M",
+                            "quantity": 15000,
+                            "unit": {
+                                "name": "PZA"
+                            }
+                        }
+                    ],
+                    "dateSigned": null,
+                    "documents": [],
+                    "implementation": {
+                        "transactions": [],
+                        "milestones": [],
+                        "documents": []
+                    }
+                }
+            ],
+            "language": "es"
+        }
+    ]
+}

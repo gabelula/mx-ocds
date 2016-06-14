@@ -1,0 +1,279 @@
+{
+  "buyer": [
+    {
+      "identifier": [
+        "id",
+        "scheme",
+        "legalName"
+      ]
+    },
+    {
+      "address": [
+        "streetAddress",
+        "locality",
+        "region",
+        "postalCode",
+        "countryName"
+      ]
+    },
+    "name"
+  ],
+  "planning": [
+    "rationale",
+    {
+    "budget": [
+        "source",
+        "id",
+        "description",
+        {
+          "amount":[
+            "amount",
+            "currency"
+          ]
+        },
+        "project",
+        "projectID",
+        "uri"
+      ]
+    },
+    {
+      "documents": [
+      "id",
+      "documentType",
+      "title",
+      "description",
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+      ]
+    }
+  ],
+  "tender": [
+    {
+      "tenderers": [
+        {
+          "identifier": [
+            "scheme",
+            "id",
+            "legalName",
+            "uri"
+          ]
+        },
+        "name",
+        {
+          "address": [
+            "streetAddress",
+            "locality",
+            "region",
+            "postalCode",
+            "countryName"
+          ]
+        },
+        {
+          "contactPoint": [
+            "url"
+          ]
+        }
+      ]
+    },
+    "title",
+    "description",
+    "status",
+    "procurementMethod",
+    {
+      "tenderPeriod": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "items": [
+        "classification",
+        "description",
+        "quantity"
+      ]
+    },
+    {
+      "documents": [
+        "id",
+        "title",
+        "description",
+        "url",
+        "datePublished",
+        "dateModified",
+        "format",
+        "language"
+      ]
+    },
+    "awardCriteria",
+    "submissionMethod",
+    {
+      "minValue":[
+        "amount",
+        "currency"
+      ]
+    },
+    {
+      "value": [
+        "amount",
+        "currency"
+      ]
+    },
+    {
+      "enquiryPeriod": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "items": [
+        "description",
+        "quantity",
+        {
+          "classification": [
+            "scheme",
+            "id",
+            "description"
+          ]
+        }
+      ]
+    },
+    "numberOfTenderers"
+  ],
+  "award": [
+    "id",
+    "title",
+    "description",
+    "date",
+    "quantity",
+    {
+      "value": [
+        "amount",
+        "currency"
+        ]
+    },
+    {
+      "items": [
+        "id",
+        "description",
+        "classification"
+      ]
+    },
+    {
+      "supplier": [
+        {
+          "identifier": [
+            "scheme",
+            "id",
+            "legalName",
+            "uri"
+          ]
+        },
+        "name",
+        {
+          "address": [
+            "streetAddress",
+            "locality",
+            "region",
+            "postalCode",
+            "countryName"
+          ]
+        }
+      ]
+    },
+    {
+      "documents": [
+        "id",
+        "documentType",
+        "title",
+        "description",
+        "url",
+        "datePublished",
+        "dateModified",
+        "format",
+        "language"
+      ]
+    }
+  ],
+  "contract": [
+    "id",
+    "awardID",
+    "title",
+    "status",
+    {
+      "period": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    "dateSigned",
+    "value",
+    {
+      "items": [
+        {
+          "classification": [
+            "scheme",
+            "id",
+            "description",
+            "uri"
+          ]
+        },
+        "description",
+        "quantity"
+      ]
+    },
+    {
+      "documents": [
+        "id",
+        "documentType",
+        "title",
+        "description",
+        "url",
+        "datePublished",
+        "dateModified",
+        "format",
+        "language"
+      ]
+    },
+    {
+      "implementation": [
+        {
+          "milestones": [
+            "id",
+            "title",
+            "description",
+            "dueDate",
+            {
+              "documents": [
+                "id",
+                "documentType",
+                "title",
+                "description",
+                "url",
+                "datePublished",
+                "dateModified",
+                "format",
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "documents": [
+            "id",
+            "documentType",
+            "title",
+            "description",
+            "url",
+            "datePublished",
+            "dateModified",
+            "format",
+            "language"
+          ]
+        }
+      ]
+    }
+  ]
+}
