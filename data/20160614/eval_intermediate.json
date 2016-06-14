@@ -1,8 +1,39 @@
 [
   {
+    "missing": [
+      "classification",
+      "id",
+      "title",
+      "description",
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language",
+      {
+        "classification": [
+          "scheme",
+          "id",
+          "description"
+        ]
+      },
+      "Field not found: rationale",
+      "id",
+      "documentType",
+      "title",
+      "description",
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-AD-SF-DRM-063-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "id",
@@ -30,12 +61,13 @@
       "dateModified",
       "format",
       "language"
-    ]
-  },
-  {
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-AD-SF-DRM-066-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "id",
@@ -63,22 +95,17 @@
       "dateModified",
       "format",
       "language"
-    ]
-  },
-  {
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-AD-SF-DRM-069-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
-      "id",
-      "title",
       "description",
-      "url",
-      "datePublished",
       "dateModified",
-      "format",
-      "language",
       {
         "classification": [
           "scheme",
@@ -87,21 +114,16 @@
         ]
       },
       "Field not found: rationale",
-      "id",
       "documentType",
-      "title",
       "description",
-      "url",
-      "datePublished",
-      "dateModified",
-      "format",
-      "language"
-    ]
-  },
-  {
+      "dateModified"
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -117,12 +139,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -138,12 +161,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-A-014-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -159,12 +183,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-A-015-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -180,12 +205,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-002-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -201,16 +227,23 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-003-2016-2"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
+      "id",
+      "title",
       "description",
+      "url",
+      "datePublished",
       "dateModified",
+      "format",
+      "language",
       {
         "classification": [
           "scheme",
@@ -219,25 +252,26 @@
         ]
       },
       "Field not found: rationale",
+      "id",
       "documentType",
+      "title",
       "description",
-      "dateModified"
-    ]
-  },
-  {
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-003-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
-      "id",
-      "title",
       "description",
-      "url",
-      "datePublished",
       "dateModified",
-      "format",
-      "language",
       {
         "classification": [
           "scheme",
@@ -246,21 +280,16 @@
         ]
       },
       "Field not found: rationale",
-      "id",
       "documentType",
-      "title",
       "description",
-      "url",
-      "datePublished",
-      "dateModified",
-      "format",
-      "language"
-    ]
-  },
-  {
+      "dateModified"
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-004-2016-2"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -276,12 +305,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-005-2016-2"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -297,12 +327,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-005-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -318,12 +349,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-006-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -339,12 +371,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-006-2016-2"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -360,12 +393,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-007-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -381,12 +415,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-008-2016-2"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -402,12 +437,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-009-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -423,16 +459,23 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-013-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
+      "id",
+      "title",
       "description",
+      "url",
+      "datePublished",
       "dateModified",
+      "format",
+      "language",
       {
         "classification": [
           "scheme",
@@ -441,25 +484,26 @@
         ]
       },
       "Field not found: rationale",
+      "id",
       "documentType",
+      "title",
       "description",
-      "dateModified"
-    ]
-  },
-  {
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-013-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
-      "id",
-      "title",
       "description",
-      "url",
-      "datePublished",
       "dateModified",
-      "format",
-      "language",
       {
         "classification": [
           "scheme",
@@ -468,21 +512,16 @@
         ]
       },
       "Field not found: rationale",
-      "id",
       "documentType",
-      "title",
       "description",
-      "url",
-      "datePublished",
-      "dateModified",
-      "format",
-      "language"
-    ]
-  },
-  {
+      "dateModified"
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-014-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -498,12 +537,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-015-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -516,15 +556,22 @@
         ]
       },
       "Field not found: rationale",
+      "id",
       "documentType",
+      "title",
       "description",
-      "dateModified"
-    ]
-  },
-  {
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+    ],
+    "completeness": 97.22222222222223,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-016-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -537,25 +584,26 @@
         ]
       },
       "Field not found: rationale",
-      "id",
       "documentType",
-      "title",
       "description",
-      "url",
-      "datePublished",
-      "dateModified",
-      "format",
-      "language"
-    ]
-  },
-  {
+      "dateModified"
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-017-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
+      "id",
+      "title",
       "description",
+      "url",
+      "datePublished",
       "dateModified",
+      "format",
+      "language",
       {
         "classification": [
           "scheme",
@@ -564,15 +612,22 @@
         ]
       },
       "Field not found: rationale",
+      "id",
       "documentType",
+      "title",
       "description",
-      "dateModified"
-    ]
-  },
-  {
+      "url",
+      "datePublished",
+      "dateModified",
+      "format",
+      "language"
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-018-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "id",
@@ -600,22 +655,17 @@
       "dateModified",
       "format",
       "language"
-    ]
-  },
-  {
+    ],
+    "completeness": 80.55555555555556,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-071-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
-      "id",
-      "title",
       "description",
-      "url",
-      "datePublished",
       "dateModified",
-      "format",
-      "language",
       {
         "classification": [
           "scheme",
@@ -624,21 +674,16 @@
         ]
       },
       "Field not found: rationale",
-      "id",
       "documentType",
-      "title",
       "description",
-      "url",
-      "datePublished",
-      "dateModified",
-      "format",
-      "language"
-    ]
-  },
-  {
+      "dateModified"
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-073-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -654,12 +699,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-074-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -675,12 +721,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-CC-002-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -696,12 +743,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-CC-003-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -717,12 +765,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-CC-008-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -738,12 +787,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-AD-CC-009-2015"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -759,12 +809,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-LPN-001-2016"
-    ],
+    ]
+  },
+  {
     "missing": [
       "classification",
       "description",
@@ -780,33 +831,13 @@
       "documentType",
       "description",
       "dateModified"
-    ]
-  },
-  {
+    ],
+    "completeness": 113.88888888888889,
     "ocid": [
       "OCDS-87SD3T-SEFIN-DRM-LPN-007-2015"
-    ],
-    "missing": [
-      "classification",
-      "description",
-      "dateModified",
-      {
-        "classification": [
-          "scheme",
-          "id",
-          "description"
-        ]
-      },
-      "Field not found: rationale",
-      "documentType",
-      "description",
-      "dateModified"
     ]
   },
   {
-    "ocid": [
-      "OCDS-87SD3T-SEFIN-DRM-LPN-016-2015"
-    ],
     "missing": [
       "classification",
       "id",
@@ -834,6 +865,10 @@
       "dateModified",
       "format",
       "language"
+    ],
+    "completeness": 80.55555555555556,
+    "ocid": [
+      "OCDS-87SD3T-SEFIN-DRM-LPN-016-2015"
     ]
   }
 ]

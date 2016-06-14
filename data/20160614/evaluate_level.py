@@ -60,9 +60,9 @@ def level_basic(basic_fields, release):
     completeness = (completed_fields*100)/total_fields
 
     # write all the fields for basic implementation
-    bvf = release['ocid'] +'_' + basic_values_file
-    with open(bvf, 'w') as outfile:
-        json.dumps(basic_values, outfile)
+    # bvf = release['ocid'] +'_' + basic_values_file
+    # with open(bvf, 'w') as outfile:
+    #     json.dumps(basic_values, outfile)
 
     return completeness, missing_fields
 
@@ -87,6 +87,7 @@ def main():
             r['missing'] = []
             # check level of completeness for basic level
             basic, missing_fields = level_basic(basic_fields, release)
+            r['completeness'] = basic
             #print('Intermediate Level for ', release['ocid'],': ', basic, ' complete')
             for m in missing_fields:
                 #print('\t Missing field: ', m)
