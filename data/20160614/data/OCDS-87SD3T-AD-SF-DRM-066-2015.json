@@ -49,22 +49,24 @@
 			"title": "ARRENDAMIENTO DE BIENES INFORMÁTICOS",
 			"description": "200 COMPUTADORAS PORTÁTILES Y 872 PC ESCRITORIO",
 			"status": "complete",
-			"items": [{
-				"id": "1",
-				"description": "COMPUTADORA PORTATIL TIPO 1",
-				"quantity": 200,
-				"unit": {
-					"name": "SER"
+			"items": [
+				{
+					"id": "1",
+					"description": "COMPUTADORA PORTATIL TIPO 1",
+					"quantity": 200,
+					"unit": {
+						"name": "SER"
+					}
+				},
+				{
+					"id": "2",
+					"description": "COMPUTADORA PERSONAL TIPO 1",
+					"quantity": 872,
+					"unit": {
+						"name": "SER"
+					}
 				}
-			},
-			{
-				"id": "2",
-				"description": "COMPUTADORA PERSONAL TIPO 1",
-				"quantity": 872,
-				"unit": {
-					"name": "SER"
-				}
-			}],
+			],
 			"value": {
 				"amount": 767465,
 				"currency": "MXN"

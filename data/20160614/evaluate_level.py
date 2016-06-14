@@ -46,8 +46,8 @@ def level_basic(basic_fields, release):
                                             completed_fields = completed_fields + 1
                                             k = i + '.' + p + '.' + j
                                             basic_values[k] = release[i][p][x]
-                                else:
-                                    print("YEAH??? ", p)
+                                # else:
+                                #     print("YEAH??? ", p)
                 else: # for example "title"
                     total_fields = total_fields + 1
                     if f in release[i]:
@@ -75,15 +75,25 @@ def main():
     contracts = collection.find()
 
 
-    with open('intermediate_fields.json', 'r') as outfile:
+    with open('basic_fields.json', 'r') as outfile:
         basic_fields = json.load(outfile)
 
-    report = io.open('eval_intermediate.json', 'w', encoding='utf-8')
+    report = io.open('eval_basic.json', 'w', encoding='utf-8')
 
     for c in contracts:
         for release in c['releases']:
             r = {}
-            r['ocid'] = release['ocid'],
+            r['ocid'] = release['ocid']
+            # amount of items
+            ti = len(release['tender']['items'])
+            ai = 0
+            ci = 0
+            for a in release['awards']:
+                 ai = ai + len(a['items'])
+            for con in release['contracts']:
+                ci = ci + len(con['items'])
+            if ti != ai or ai != ci :
+                print(release['ocid'],' ITEMS IN Tender: ' , ti , ' Awards: ' , ai , ' Contract: ' , ci )
             r['missing'] = []
             # check level of completeness for basic level
             basic, missing_fields = level_basic(basic_fields, release)

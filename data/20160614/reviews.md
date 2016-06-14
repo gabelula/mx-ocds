@@ -7,24 +7,7 @@ Data pass validation succesful.
 ### Recommendations
 
 * procurement details missing. I still did not see the glossary.
-* amount of items not matching between stages
-
-OCDS-87SD3T-AD-SF-DRM-066-2015  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015  ITEMS IN Tender:  5  Awards:  5  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-A-014-2015  ITEMS IN Tender:  3  Awards:  3  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-A-015-2015  ITEMS IN Tender:  3  Awards:  3  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-003-2016-2  ITEMS IN Tender:  5  Awards:  5  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-003-2016  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-006-2016-2  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-009-2016  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-073-2016  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-074-2016  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-CC-002-2016  ITEMS IN Tender:  4  Awards:  4  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-CC-003-2016  ITEMS IN Tender:  2  Awards:  2  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-CC-008-2015  ITEMS IN Tender:  3  Awards:  3  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-AD-CC-009-2015  ITEMS IN Tender:  7  Awards:  7  Contract:  1
-OCDS-87SD3T-SEFIN-DRM-LPN-007-2015  ITEMS IN Tender:  3  Awards:  3  Contract:  1
-
+* amount of items DO match between stages. DONE
 * Correct the supplier details or publish empty fields instead of the placeholders. DONE
 * Ensure all contracts have a status. DONE
 * Ensure all documents have a document type. NOT DONE
