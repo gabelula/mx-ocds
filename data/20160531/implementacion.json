@@ -1,0 +1,366 @@
+{
+  "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015",
+  "publishedDate": "2015-11-04T00:00:00-05:00",
+  "publisher": {
+    "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+    "name": "CDMX-SEFIN",
+    "uri": "http://www.finanzas.df.gob.mx/",
+    "uid": "901"
+  },
+  "releases": [
+    {
+      "ocid": "OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015",
+      "id": "1",
+      "date": "2015-11-04T00:00:00-05:00",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "planning": {
+        "budget": {
+          "amount": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "project": "AUTORIZACION PRESUPUESTAL SPP/454/2015"
+        },
+        "documents": [
+          {
+            "id": "1",
+            "title": "AUTORIZACION PRESUPUESTAL 454",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/autorizacion_454_20160505_133653.pdf",
+            "datePublished": "2015-11-12T00:00:00-05:00",
+            "format": "application/pdf",
+            "language": "es"
+          }
+        ]
+      },
+      "buyer": {
+        "identifier": {
+          "id": "GDF9712054NA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        },
+        "name": "SECRETARIA DE FINANZAS",
+        "address": {
+          "streetAddress": "DR. LAVISTA",
+          "locality": "MÉXICO D. F.",
+          "region": "DF",
+          "postalCode": "6720",
+          "countryName": "MX"
+        },
+        "contactPoint": {
+          "name": "MIGUEL ANGEL VIDAL FRANCO",
+          "email": "mvidal@finanzas.df.gob.mx",
+          "telephone": "51342500",
+          "faxNumber": "51342500",
+          "url": "http://WWW.FINANZAS.DF.GOB.MX"
+        }
+      },
+      "tender": {
+        "id": "OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015",
+        "title": "MANTENIMIENTO EXTINTORES",
+        "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+        "status": "complete",
+        "items": [
+          {
+            "id": "1",
+            "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+            "quantity": 1,
+            "unit": {
+              "name": "SER"
+            }
+          }
+        ],
+        "value": {
+          "amount": 429000,
+          "currency": "MXN"
+        },
+        "procurementMethod": "limited",
+        "awardCriteria": "bestValueToGovernment",
+        "submissionMethod": [
+          "written"
+        ],
+        "tenderPeriod": {
+          "startDate": "2015-11-04T00:00:00-05:00",
+          "endDate": "2015-11-09T00:00:00-05:00"
+        },
+        "enquiryPeriod": {
+          "startDate": "2015-11-04T00:00:00-05:00",
+          "endDate": "2015-11-09T00:00:00-05:00"
+        },
+        "hasEnquiries": true,
+        "eligibilityCriteria": "Servicio,Condiciones,Precio,Otro&ANEXO TECNICO",
+        "awardPeriod": {
+          "startDate": "2015-11-09T00:00:00-05:00",
+          "endDate": "2015-11-17T00:00:00-05:00"
+        },
+        "numberOfTenderers": 3,
+        "tenderers": [
+          {
+            "identifier": {
+              "id": "DCO990909GBA",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "DESARROLLO COMERCIAL ORION,",
+            "address": {
+              "streetAddress": "HERIBERTO FRIAS",
+              "locality": "BENITO JUAREZ",
+              "region": "DF",
+              "postalCode": "03100",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "ROGELIO IZKANDER CASABAL PEREZ",
+              "email": "No Capturado",
+              "telephone": "91830540",
+              "faxNumber": "91830540",
+              "url": null
+            }
+          },
+          {
+            "identifier": {
+              "id": "MEM8704099U1",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "MARK EXTINGUISHER DE MEXICO",
+            "address": {
+              "streetAddress": "OTUMBA",
+              "locality": "TLALNEPANTLA EDO. DE MEXICO",
+              "region": "MEX",
+              "postalCode": "54070",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "ARTURO ORTEGA PORCAYO",
+              "email": "No Capturado",
+              "telephone": "53611536",
+              "faxNumber": "53611536",
+              "url": "http://www.makseguridad.com"
+            }
+          },
+          {
+            "identifier": {
+              "id": "SIC0306206M8",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "SERVICIOS INTEGRALES CONTRA INCENDI",
+            "address": {
+              "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+              "locality": "SAN MATEO; AZCAPOTZALCO",
+              "region": "DF",
+              "postalCode": "02490",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "DIANA IRIS TOUS AMEZCUA",
+              "email": "No Capturado",
+              "telephone": "55614071",
+              "faxNumber": "55614071",
+              "url": null
+            }
+          }
+        ],
+        "procuringEntity": {
+          "identifier": {
+            "id": "GDF9712054NA",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          },
+          "name": "SECRETARIA DE FINANZAS",
+          "address": {
+            "streetAddress": "DR. LAVISTA",
+            "locality": "MEXICO D. F.",
+            "region": "DF",
+            "postalCode": "6720",
+            "countryName": "MX"
+          },
+          "contactPoint": {
+            "name": "PEDRO JESUS LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx",
+            "telephone": "5134-2500",
+            "faxNumber": "5134-2500",
+            "url": "http://www.finanzas.df.gob.mx"
+          }
+        },
+        "documents": [
+          {
+            "id": "1",
+            "title": "REQUISICION 489",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/requisicion_489_20160505_144312.pdf",
+            "datePublished": "2015-11-04T00:00:00-05:00",
+            "format": "application/pdf",
+            "language": "es"
+          },
+          {
+            "id": "2",
+            "title": "ESTUDIO DE PRECIO DE MERCADO",
+            "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/estudio_precios_20160505_144327.pdf",
+            "datePublished": "2015-11-04T00:00:00-05:00",
+            "format": "application/pdf",
+            "language": "es"
+          }
+        ]
+      },
+      "awards": [
+        {
+          "id": "1",
+          "title": "MANTENIMIENTO EXTINTORES",
+          "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+          "status": "active",
+          "date": "2016-01-28T00:00:00-05:00",
+          "value": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "suppliers": [
+            {
+              "identifier": {
+                "id": "SIC0306206M8",
+                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+              },
+              "name": "SERVICIOS INTEGRALES CONTRA INCENDI",
+              "address": {
+                "streetAddress": "PROF MIGUEL LERDO DE TEJADA",
+                "locality": "SAN MATEO; AZCAPOTZALCO",
+                "region": "DF",
+                "postalCode": "02490",
+                "countryName": "MX"
+              },
+              "contactPoint": {
+                "name": "DIANA IRIS TOUS AMEZCUA",
+                "email": "No Capturado",
+                "telephone": "55614071",
+                "faxNumber": "55614071",
+                "url": null
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "1",
+              "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+              "quantity": 369827,
+              "unit": {
+                "name": "SER"
+              }
+            }
+          ],
+          "documents": [
+            {
+              "id": "1",
+              "title": "OFICIO DE ADJUDICACION 3564",
+              "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/interfase2/grp/ocds/archivos/adjudicacion_3564_20160505_144350.pdf",
+              "datePublished": "2015-11-13T00:00:00-05:00",
+              "format": "application/pdf",
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "1",
+          "awardID": "1",
+          "title": "CS-092/2015",
+          "description": "MANTO RECARGA EXTINTORES INMUEBLES DE SEFIN",
+          "status": "active",
+          "period": {
+            "startDate": "2015-11-13T00:00:00-05:00",
+            "endDate": "2015-12-31T00:00:00-05:00"
+          },
+          "value": {
+            "amount": 429000,
+            "currency": "MXN"
+          },
+          "items": [
+            {
+              "id": "1",
+              "description": "MANTENIMIENTO Y RECARGA EXTINTORES",
+              "quantity": 369827,
+              "unit": {
+                "name": "SER"
+              }
+            }
+          ],
+          "dateSigned": "2015-11-13T00:00:00-05:00",
+          "documents": [
+            {
+              "id": "1",
+              "title": "CONTRATO CS-092/2015",
+              "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/contrato_cs_092_2015_20160505_134544.pdf",
+              "datePublished": "2015-11-13T00:00:00-05:00",
+              "format": "application/pdf",
+              "language": "es"
+            }
+          ],
+          "implementation": {
+            "transactions": [
+              {
+                "id": "CLC 12121-2015",
+                "date": "2015-12-13T00:00:00-05:00",
+                "value": {
+                  "amount": 100000,
+                  "currency": "MXN"
+                },
+                "providerOrganization": {
+                  "id": "GDF9712054NA",
+                  "legalName": "SECRETARIA DE FINANZAS",
+                  "uri": "http://www.finanzas.df.gob.mx"
+                },
+                "receiverOrganization": {
+                  "id": "SIC0306206M8",
+                  "legalName": "SERVICIOS INTEGRALES CONTRA INCENDI",
+                  "uri": null
+                }
+              },
+              {
+                "id": "CLC 12122-2015",
+                "date": "2015-12-16T00:00:00-05:00",
+                "value": {
+                  "amount": 100000,
+                  "currency": "MXN"
+                },
+                "providerOrganization": {
+                  "id": "GDF9712054NA",
+                  "legalName": "SECRETARIA DE FINANZAS",
+                  "uri": "http://www.finanzas.df.gob.mx"
+                },
+                "receiverOrganization": {
+                  "id": "SIC0306206M8",
+                  "legalName": "SERVICIOS INTEGRALES CONTRA INCENDI",
+                  "uri": null
+                }
+              }
+            ],
+            "milestones": [
+              {
+                "id": "1",
+                "title": "titulo_entrega",
+                "description": "Descripcion_entrega",
+                "dueDate": "2015-12-13T00:00:00-05:00",
+                "status": "met"
+              },
+              {
+                "id": "2",
+                "title": "titulo_entrega",
+                "description": "Descripcion_entrega",
+                "dueDate": "2015-12-16T00:00:00-05:00",
+                "status": "met"
+              }
+            ],
+            "documents": [
+              {
+                "id": "1",
+                "title": "FACTURA XXX",
+                "url": "http://www.innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/factura_092_2015_20160505_134544.pdf",
+                "datePublished": "2015-12-20T00:00:00-05:00",
+                "format": "application/pdf",
+                "language": "es"
+              }
+            ]
+          }
+        }
+      ],
+      "language": "es"
+    }
+  ]
+}
