@@ -1,0 +1,77 @@
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015
+--------------------- Release OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-AD-SF-DRM-001-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015
+--------------------- Release OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-AD-SF-DRM-002-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015
+--------------------- Release OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-AD-SF-DRM-005-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-A-014-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-A-014-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-A-014-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-A-015-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-A-015-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-A-015-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-006-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-006-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-006-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-011-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-011-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-011-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-012-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-012-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-012-2015 Basic Level:    41.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-013-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-013-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-013-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-017-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-017-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-017-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-018-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-018-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-018-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-CC-008-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-CC-008-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-CC-008-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-CC-009-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-CC-009-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-CC-009-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-AD-CC-010-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-AD-CC-010-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-AD-CC-010-2015 Basic Level:    45.00 complete
+Not Found: http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SEFIN-DRM-LPN-016-2015
+--------------------- Release OCDS-87SD3T-SEFIN-DRM-LPN-016-2015 ---------------------
+Release OCDS-87SD3T-SEFIN-DRM-LPN-016-2015 Basic Level:    45.00 complete
+---- BUYER ----
+Average Completenes    80.00
+---- PLANNING ----
+Average # Documents     0.00
+2 releases have no documents.
+Average Completenes    22.00
+---- TENDER ----
+Average # Documents     1.00 
+Average Completenes    75.00
+{u'active': 0, u'complete': 13}
+    2.00 releases have no documents
+    0.00 releases have no items
+---- AWARDS ----
+Average # Documents     0.00 
+    4.00 releases have no documents
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+Average Completenes    81.00
+---- CONTRACTS ----
+Average # Documents     0.00 
+3 releases have no documents
