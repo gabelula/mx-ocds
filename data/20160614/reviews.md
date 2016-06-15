@@ -38,7 +38,6 @@ Data pass validation succesful.
   * Provide a budget source where available. Recommended Moderate. NOT DONE
   * Provide a budget URI where available. Recommended Moderate. NOT DONE
 
-
 #### tender block
 
   * Ensure all contracts have a minimum value, this includes the amount and currency. Required Minor. NOT DONE
@@ -64,5 +63,25 @@ Data pass validation succesful.
 
 #### implementation
 
-  * receiverOrganization does not include a URI
-    
+  * also missing documents  
+
+## Advance level
+
+I'm looking at what we have from advance level
+
+### Tender
+  * Items's unit (name)
+    * missing value
+  * Tenderers's identifier (id, uri, name)
+    * missing scheme
+  * Missing milestones
+
+### Award
+  * Item's unit (name)
+    * missing value
+
+### Contract
+  * Item's unit (name)
+    * missing value
+  * Implementation!!! We have transactions!
+    * missing status
