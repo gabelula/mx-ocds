@@ -85,3 +85,6 @@ I'm looking at what we have from advance level
     * missing value
   * Implementation!!! We have transactions!
     * missing status
+
+## Extensions
+  None of the releases had any of the extensions that CDMX is planning to use.
