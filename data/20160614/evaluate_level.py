@@ -17,37 +17,56 @@ def level_basic(basic_fields, release):
                     for p in f:
                         if type(f[p]) is list:
                             for j in f[p]:
-                                if (p in release[i]) and (type(release[i][p]) is list):
-                                    total_fields = total_fields + 1
-                                    found = False
-                                    if type(j) is str:
-                                        for x in release[i][p]:
-                                            if j in x:
-                                                found = True
-                                                completed_fields = completed_fields + 1
-                                                k = i + '.' + p + '.' + j
-                                                basic_values[k] = x[j]
-                                                break
-                                    if type(j) is dict:
-                                        for m in j:
+                                if (p in release[i]):
+                                    if (type(release[i][p]) is list):
+                                        #found = False
+                                        if type(j) == str:
+                                            total_fields = total_fields + 1
                                             for x in release[i][p]:
-                                                if m in x:
-                                                    print(x[m])
-                                                    found = True
+                                                if j in x:
+                                                    #found = True
                                                     completed_fields = completed_fields + 1
-                                                    k = i + '.' + p + '.' + m
-                                                    basic_values[k] = x[m]
+                                                    k = i + '.' + p + '.' + j
+                                                    basic_values[k] = x[j]
                                                     break
-                                    if not found :
-                                        missing_fields.append(j)
-                                if (p in release[i]) and (type(release[i][p]) is dict):
-                                    for x in release[i][p]:
-                                        if x == j:
-                                            completed_fields = completed_fields + 1
-                                            k = i + '.' + p + '.' + j
-                                            basic_values[k] = release[i][p][x]
-                                # else:
-                                #     print("YEAH??? ", p)
+                                            else:
+                                                missing_fields.append(i + '.' + p + '.' + j)
+                                        elif type(j) == dict:
+                                            for m in j:
+                                                total_fields = total_fields + 1
+                                                for x in release[i][p]:
+                                                    if m in x:
+                                                        #found = True
+                                                        completed_fields = completed_fields + 1
+                                                        k = i + '.' + p + '.' + m
+                                                        basic_values[k] = x[m]
+                                                        break
+                                                else:
+                                                    missing_fields.append(i + '.' + p + '.' + m)
+
+                                    if (type(release[i][p]) is dict):
+                                        if type(j) == str:
+                                            total_fields = total_fields + 1
+                                            for x in release[i][p]:
+                                                if x == j:
+                                                    completed_fields = completed_fields + 1
+                                                    k = i + '.' + p + '.' + j
+                                                    basic_values[k] = release[i][p][x]
+                                                    break
+                                            else:
+                                                missing_fields.append(i + '.' + p + '.' + j)
+                                        elif type(j) == dict:
+                                            for key in j:
+                                                total_fields = total_fields + 1
+                                                if key in release[i][p]:
+                                                    completed_fields = completed_fields + 1
+                                                    k = i + '.' + p + '.' + key
+                                                    basic_values[k] = release[i][p][x]
+                                                else:
+                                                    missing_fields.append(i + '.' + p + '.' + key)
+                                else:
+                                    total_fields = total_fields + 1
+                                    missing_fields.append(i + '.' + p)
                 else: # for example "title"
                     total_fields = total_fields + 1
                     if f in release[i]:
@@ -55,7 +74,7 @@ def level_basic(basic_fields, release):
                         k = i + '.' +  f
                         basic_values[f] = release[i][f]
                     else:
-                        missing_fields.append("Field not found: %s" % f)
+                        missing_fields.append(i + '.' + f)
 
     completeness = (completed_fields*100)/total_fields
 
@@ -75,10 +94,10 @@ def main():
     contracts = collection.find()
 
 
-    with open('basic_fields.json', 'r') as outfile:
+    with open('intermediate_fields.json', 'r') as outfile:
         basic_fields = json.load(outfile)
 
-    report = io.open('eval_basic.json', 'w', encoding='utf-8')
+    report = io.open('eval_intermediate.json', 'w', encoding='utf-8')
 
     for c in contracts:
         for release in c['releases']:
