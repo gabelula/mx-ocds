@@ -1,0 +1,255 @@
+{
+  "uri": "http://www.contratosabiertos.cdmx.gob.mx/api/contrato/OCDS-87SD3T-SOBSE-DGPE-LPN-XXXX-2014",
+  "publishedDate": "XXXX",
+  "publisher": {
+    "scheme": "http://www.contratosabiertos.cdmx.gob.mx",
+    "name": "CDMX-SOBSE",
+    "uri": "http://obras.cdmx.gob.mx/",
+    "uid": "XXXX"
+  },
+  "releases": [
+    {
+      "ocid": "OCDS-87SD3T-SOBSE-DGPE-LPN-XXXX-2014",
+      "id": "1",
+      "date": "2015-12-14T00:00:00-06:00",
+      "tag": [
+        "contract"
+      ],
+      "initiationType": "tender",
+      "planning": {
+        "budget": {
+          "description": "",
+          "multiYear": false,
+          "amount": {
+            "amount": 0,
+            "currency": "MXN"
+          },
+          "amountyear": {
+            "amount": 0,
+            "currency": ""
+          },
+          "project": "AUTORIZACIÓN PRESUPUESTAL XXX"
+        },
+        "documents": [
+
+          documento APCI para planificación
+          {
+            "id": "1",
+            "title": "AUTORIZACION PRESUPUESTAL 038",
+            "url": "http://innovacion.finanzas.df.gob.mx/ocpsefin/INTERFASE2/GRP/OCDS/ARCHIVOS/autorizacion_038_20160815_124824.pdf",
+            "datePublished": "2016-01-29T00:00:00-06:00",
+            "format": "application/pdf",
+            "language": "es"
+          }
+        ]
+      },
+      "buyer": {
+        "identifier": {
+          "id": "GDF9712054NA",
+          "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+        },
+        "name": "SECRETARÍA DE OBRAS",
+        "address": {
+          "streetAddress": "XXX",
+          "locality": "MÉXICO D. F.",
+          "region": "DF",
+          "postalCode": "06720",
+          "countryName": "MX"
+        },
+        "contactPoint": {
+          "name": "XXX",
+          "email": "mvidal@finanzas.df.gob.mx",
+          "telephone": "5134-2500",
+          "faxNumber": "5134-2500",
+          "url": "http://WWW.FINANZAS.DF.GOB.MX"
+        }
+      },
+      "tender": {
+        "id": "OCDS-87SD3T-SOBSE-DGPE-LPN-XXXX-2014",
+        "title": "XXX",
+        "description": "XXXX",
+        "status": "complete",
+        "items": [
+          "No es el detalle pero cada parte de la construcción. Por ejemplo, hospital."
+        ],
+        "value": {
+          "amount": 0,
+          "currency": "MXN"
+        },
+        "procurementMethod": "limited",
+        "procurementMethodRationale": "",
+        "awardCriteria": "bestValueToGovernment",
+        "awardCriteriaDetails": "",
+        "submissionMethod": [
+          "written"
+        ],
+        "submissionmethoddetails": "",
+        "tenderPeriod": {
+          "startDate": "2015-12-28T00:00:00-06:00",
+          "endDate": "2015-12-28T00:00:00-06:00"
+        },
+        "enquiryPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "hasEnquiries": true,
+        "eligibilityCriteria": "LOS MISMOS CRITERIOS.",
+        "awardPeriod": {
+          "startDate": "2015-12-30T00:00:00-06:00",
+          "endDate": "2015-12-30T00:00:00-06:00"
+        },
+        "numberOfTenderers": 1,
+        "tenderers": [
+          {
+            "identifier": {
+              "id": "SME940408510",
+              "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+            },
+            "name": "SAP MEXICO S.A. DE C.V.",
+            "address": {
+              "streetAddress": "PROLONG PASEO DE LA REFORMA",
+              "locality": "SANTA FE PEÑA BLANCA;ALVARO OBREGON",
+              "region": "DF",
+              "postalCode": "01210",
+              "countryName": "MX"
+            },
+            "contactPoint": {
+              "name": "FERNANDO GUERRERO MARTÍNEZ",
+              "email": "",
+              "telephone": "5257-7500",
+              "faxNumber": "5257-7500",
+              "url": null
+            }
+          }
+        ],
+        "procuringEntity": {
+          "identifier": {
+            "id": "xxx",
+            "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+          },
+          "name": "SECRETARÍA DE OBRAS",
+          "address": {
+            "streetAddress": "xxx",
+            "locality": "MÉXICO D. F.",
+            "region": "DF",
+            "postalCode": "06720",
+            "countryName": "MX"
+          },
+          "contactPoint": {
+            "name": "PEDRO JESÚS LARA LASTRA",
+            "email": "plara@finanzas.df.gob.mx",
+            "telephone": "5134-2500",
+            "faxNumber": "5134-2500",
+            "url": "http://WWW.FINANZAS.DF.GOB.MX"
+          }
+        },
+        "documents": [
+          convocatoria
+          proyecto integral
+        ]
+      },
+      "awards": [
+        {
+          "id": "1",
+          "title": "RENOVACIÓN DEL SERVICIO SAP SUPPORT ENTERPRICE",
+          "description": "RENOVACIÓN DEL SERVICIO SAP SUPPORT ENTERPRICE",
+          "status": "pending",
+          "multiYear": false,
+          "date": "2015-12-30T00:00:00-06:00",
+          "value": {
+            "amount": 230748.91,
+            "currency": "USD"
+          },
+          "valueyear": {
+            "amount": 0,
+            "currency": ""
+          },
+          "suppliers": [
+            {
+              "identifier": {
+                "id": "SME940408510",
+                "uri": "http://www.contratosabiertos.cdmx.gob.mx"
+              },
+              "name": "SAP MEXICO S.A. DE C.V.",
+              "address": {
+                "streetAddress": "PROLONG PASEO DE LA REFORMA",
+                "locality": "SANTA FE PEÑA BLANCA;ALVARO OBREGON",
+                "region": "DF",
+                "postalCode": "01210",
+                "countryName": "MX"
+              },
+              "contactPoint": {
+                "name": "FERNANDO GUERRERO MARTÍNEZ",
+                "email": "",
+                "telephone": "5257-7500",
+                "faxNumber": "5257-7500",
+                "url": null
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "1",
+              "description": "",
+              "quantity": 1,
+              "unit": {
+                "name": "SER"
+              }
+              deliveryLocation -> https://github.com/open-contracting/standard/issues/250
+
+            }
+          ],
+          "documents": [
+            acta de fallo
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "1",
+          "awardID": "1",
+          "title": "CS-006/2016",
+          "description": "RENOVACIÓN DEL SERVICIO SAP SUPPORT ENTERPRICE",
+          "status": "active",
+          "multiYear": false, <--- la mayoria son multianuales
+          "period": {
+            "startDate": "2016-01-01T00:00:00-06:00",
+            "endDate": "2016-12-31T00:00:00-06:00"
+          },
+          "value": {
+            "amount": 230748.91,
+            "currency": "USD"
+          },
+          "valueyear": {
+            "amount": 0,
+            "currency": ""
+          },
+          "items": [
+            {
+              "id": "1",
+              "description": "RENOVACION SERVICIO SAP SUPPORT ENTERPRI",
+              "quantity": 1,
+              "unit": {
+                "name": "SER"
+              }
+            }
+          ],
+          "dateSigned": "2015-12-31T00:00:00-06:00",
+          "documents": [
+            contratos sin anexos
+            {
+
+            }
+          ],
+          "implementation": {
+            pagos
+            "transactions": [],
+            "milestones": [],
+            "documents": []
+          }
+        }
+      ],
+      "language": "es"
+    }
+  ]
+}
